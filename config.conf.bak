@@ -3,7 +3,7 @@
 # * Fill the Required Variables
 season="1"
 episode="01" 
-total_frame="4000" # total frames cutted
+total_frame="4267" # total frames cutted
 img_fps="" # the fps of the cutted frames
 page_name="" # (must be exact) this is used for checking if the token is valid
 
@@ -36,11 +36,11 @@ abt_txt='Chopped {img_fps} FPS, Posting {fph} Frames every {get_interval} hours.
 #                  |    '------ (country code | 2 chrs)
 #                  ------------ (any name)
 # (delimited by ":" or "|" or ",")
-subtitle_file="subtitle_en.ass:subtitle_jp.ass"
+subtitle_file="subtitle_en.ass"
 
 # Enabling/Disabling Addons (0: Disabled, 1: Enabled)
-sub_posting="0"
-rand_post="0"
+sub_posting="1"
+rand_post="1"
 gif_post="0"
 desc_update="1"
 multilingual_subs="0"
@@ -50,10 +50,10 @@ giphy_tags="anime"	# Insert your custom Tags here. Delimited by ","
 gif_prev_framecount="10"
 
 # This is where you will paste the manually created Album ID, (When nothing is provided, it will not collect the photo posted in an Album)
-album=""
+album="Mahiro's Confusing New Body."
 
 # Number frames that will be posted after the execution (Default is 15)
-fph="15"
+fph="20"
 
 # Minutes interval of posting (Default is 2)
 # Note: Don't set it lower than a minute, you might get detected as a spam of Facebook. and Setting it Higher will cause duplication of posting.
