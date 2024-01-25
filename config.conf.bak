@@ -53,7 +53,7 @@ gif_prev_framecount="10"
 album="Mahiro's Confusing New Body."
 
 # Number frames that will be posted after the execution (Default is 15)
-fph="30"
+fph="20"
 
 # Minutes interval of posting (Default is 2)
 # Note: Don't set it lower than a minute, you might get detected as a spam of Facebook. and Setting it Higher will cause duplication of posting.
@@ -63,7 +63,7 @@ mins="2"
 delay_action="3"
 
 # Tweaks, Adjust the offset if the subtitle we're a little bit off, you can adjust this. (Default: 0)
-frm_delay="10"
+frm_delay="15"
 
 # Crop Range Dimentions (Default: {rcrop_x=200}, {rcrop_y=600})
 # Note: The value must be below of your frame resolution.
