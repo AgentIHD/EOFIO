@@ -63,7 +63,7 @@ mins="2"
 delay_action="3"
 
 # Tweaks, Adjust the offset if the subtitle we're a little bit off, you can adjust this. (Default: 0)
-frm_delay="-10"
+frm_delay="-31"
 
 # Crop Range Dimentions (Default: {rcrop_x=200}, {rcrop_y=600})
 # Note: The value must be below of your frame resolution.
