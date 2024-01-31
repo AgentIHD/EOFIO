@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/91414643/221358390-3d1489f8-5514-4499-a4c9-50e57b7ce97d.png)
+![image](frame_1974.jpg)
 
 <h1 align="center">Every <sup><sub><sub>(name)</sub></sub></sup> Frame in Order BOT</h1>
 
