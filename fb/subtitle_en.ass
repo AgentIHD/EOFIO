@@ -26,562 +26,497 @@ Style: ED2,DS Marker Felt,71,&H00FAFEFF,&H000000FF,&H00C624EE,&H96000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:42.74,0:00:44.63,*Default,Mahiro,0,0,0,,Wh-What happened?!
-Dialogue: 0,0:00:45.04,0:00:45.09,OP,,0000,0000,0000,,{\OP}
-Dialogue: 0,0:00:49.46,0:00:50.28,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Woo-HOO!)
-Dialogue: 0,0:00:50.28,0:00:51.86,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,145,\t(145,290,}It's {\r\t(290,470,\t(470,650,}there? {\3c&H000000&\3a&H00&\r\t(650,800,\t(800,980,}It's {\r\t(840,1210,\t(1210,1580,}gone?!
-Dialogue: 0,0:00:51.17,0:00:51.86,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's gone?!)
-Dialogue: 0,0:00:51.86,0:00:53.38,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}Ab{\r\t(240,425,\t(425,610,}sent? {\3c&H000000&\3a&H00&\r\t(610,730,\t(730,850,}Pre{\r\t(850,1185,\t(1185,1520,}sent!
-Dialogue: 0,0:00:52.62,0:00:53.38,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Present!)
-Dialogue: 0,0:00:53.38,0:00:54.56,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}Af{\r\t(240,400,\t(400,560,}fixed, {\3c&H000000&\3a&H00&\r\t(560,680,\t(680,800,}Guess {\r\t(800,885,\t(885,970,}I'm {\3c&H000000&\3a&H00&\r\t(970,1050,\t(1050,1180,}fixed?
-Dialogue: 0,0:00:54.56,0:00:56.52,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,130,\t(130,260,}Huh? {\r\t(260,350,\t(350,440,}Which {\3c&H000000&\3a&H00&\r\t(440,540,\t(540,640,}one {\r\t(640,740,\t(740,840,}is {\3c&H000000&\3a&H00&\r\t(840,930,\t(930,1020,}it?! {\r\t(1020,1180,\t(1180,1340,}Trance, {\3c&H000000&\3a&H00&\r\t(1340,1490,\t(1490,1640,}trance, {\r\t(1640,1800,\t(1800,1960,}trance!
-Dialogue: 0,0:00:56.52,0:00:58.05,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,125,\t(125,250,}It's {\r\t(250,450,\t(450,650,}dair? {\3c&H000000&\3a&H00&\r\t(650,780,\t(780,920,}It's {\r\t(800,985,\t(985,1530,}nought!
-Dialogue: 0,0:00:57.17,0:00:57.66,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's nought!)
-Dialogue: 0,0:00:57.65,0:00:58.73,*Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
-Dialogue: 0,0:00:58.05,0:00:59.60,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,85,\t(85,170,}Ab{\r\t(170,365,\t(365,560,}SENT? {\3c&H000000&\3a&H00&\r\t(560,700,\t(700,840,}pRE:{\r\t(840,1055,\t(1055,1550,}sent!
-Dialogue: 0,0:00:58.74,0:00:59.24,OP Extra,,0000,0000,0000,,{\fad(200,200)}(pRE:sent!)
-Dialogue: 0,0:00:59.23,0:01:00.36,*Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
-Dialogue: 0,0:00:59.60,0:01:02.31,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}The {\r\t(240,390,\t(390,540,}Why {\3c&H000000&\3a&H00&\r\t(540,730,\t(730,920,}of {\r\t(920,985,\t(1045,1270,}[I], {\3c&H000000&\3a&H00&\r\t(1170,1400,\t(2000,2210,}e{\r\t(1380,1765,\t(2000,2210,}rodes!
-Dialogue: 0,0:01:02.53,0:01:05.66,*Default,,0000,0000,0000,,{\b1\fnHappy Sans\fs90\1c&HFAFBF6&\1a&H00&\3c&HC272DD&\3a&H00&\an8\bord9\shad0\blur15\frz21.99\pos(1110,290)}Mahiro Oyama
-Dialogue: 0,0:01:02.68,0:01:05.69,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,140,\t(140,280,}Fare{\r\t(280,370,\t(370,460,}well {\3c&H000000&\3a&H00&\r\t(460,525,\t(525,590,}to {\r\t(590,770,\t(770,950,}UV {\3c&H000000&\3a&H00&\r\t(950,1045,\t(1045,1140,}light, {\r\t(1140,1250,\t(1250,1360,}indoor {\3c&H000000&\3a&H00&\r\t(1360,1580,\t(1580,1800,}guard {\r\t(1800,1995,\t(1995,2190,}at {\3c&H000000&\3a&H00&\r\t(2190,2370,\t(2370,2550,}the {\r\t(2550,2685,\t(2685,2820,}rea{\3c&H000000&\3a&H00&\r\t(2820,2915,\t(3010,3010,}dy!
-Dialogue: 0,0:01:05.69,0:01:08.61,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}Bye-{\r\t(310,535,\t(535,760,}bye, {\3c&H000000&\3a&H00&\r\t(760,890,\t(890,1020,}al{\r\t(1020,1220,\t(1220,1420,}right! {\3c&H000000&\3a&H00&\r\t(1420,1535,\t(1535,1650,}Best {\r\t(1650,1770,\t(1770,1890,}to {\3c&H000000&\3a&H00&\r\t(1890,1995,\t(1995,2100,}stay {\r\t(2100,2255,\t(2255,2410,}inside {\3c&H000000&\3a&H00&\r\t(2410,2550,\t(2550,2690,}all {\r\t(2690,2805,\t(2805,2920,}day!
-Dialogue: 0,0:01:08.61,0:01:11.90,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,245,\t(245,490,}That{\r\t(490,595,\t(595,700,} will {\3c&H000000&\3a&H00&\r\t(700,800,\t(800,900,}of {\r\t(900,1005,\t(1005,1110,}mine's {\3c&H000000&\3a&H00&\r\t(1110,1175,\t(1175,1240,}up {\r\t(1240,1325,\t(1325,1410,}and {\3c&H000000&\3a&H00&\r\t(1410,1550,\t(1550,1690,}done {\r\t(1690,2035,\t(2035,2380,}willed {\3c&H000000&\3a&H00&\r\t(2380,2580,\t(2580,2780,}it{\r\t(2780,2935,\t(2935,3090,}self{\3c&H000000&\3a&H00&\r\t(3090,3190,\t(3190,3290,} away!
-Dialogue: 0,0:01:08.83,0:01:11.87,*Default,,0000,0000,0000,,{\b1\fnHappy Sans\fs90\1c&HFAFBF6&\1a&H00&\3c&HC673A4&\3a&H00&\an8\bord9\shad0\blur15\pos(279,325)\frz24.02}Mihari Oyama
-Dialogue: 0,0:01:11.90,0:01:14.87,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,150,\t(150,300,}Fight, {\r\t(300,490,\t(490,680,}flight, {\3c&H000000&\3a&H00&\r\t(680,790,\t(790,900,}out {\r\t(900,980,\t(980,1060,}like a {\3c&H000000&\3a&H00&\r\t(1060,1220,\t(1220,1380,}light! {\r\t(1380,1520,\t(1520,1660,}Back {\3c&H000000&\3a&H00&\r\t(1660,1750,\t(1750,1840,}to {\r\t(1840,1955,\t(1955,2070,}my {\3c&H000000&\3a&H00&\r\t(2070,2250,\t(2250,2430,}home {\r\t(2430,2550,\t(2550,2670,}I {\3c&H000000&\3a&H00&\r\t(2670,2820,\t(2820,2970,}go!
-Dialogue: 0,0:01:14.87,0:01:17.39,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,370,\t(370,740,}Aah, {\r\t(740,875,\t(875,1010,}a {\3c&H000000&\3a&H00&\r\t(1010,1095,\t(1095,1180,}world {\r\t(1180,1310,\t(1310,1440,}un{\3c&H000000&\3a&H00&\r\t(1440,1980,\t(1980,2520,}known,
-Dialogue: 0,0:01:17.39,0:01:20.59,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,135,\t(135,270,}it {\r\t(270,470,\t(470,670,}met {\3c&H000000&\3a&H00&\r\t(670,810,\t(810,950,}with {\r\t(950,1185,\t(1185,1420,}my {\3c&H000000&\3a&H00&\r\t(1420,1620,\t(1620,1820,}gaze {\r\t(1820,2005,\t(2005,2190,}and {\3c&H000000&\3a&H00&\r\t(2190,2350,\t(2350,2510,}flashed {\r\t(2510,2645,\t(2645,2780,}a {\3c&H000000&\3a&H00&\r\t(2780,2925,\t(2925,3200,}smile
-Dialogue: 0,0:01:20.59,0:01:26.02,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,190,\t(190,380,}It {\r\t(380,470,\t(470,560,}pulls {\3c&H000000&\3a&H00&\r\t(560,750,\t(750,940,}me {\r\t(940,1335,\t(1335,1730,}in, {\3c&H000000&\3a&H00&\r\t(1730,1925,\t(1925,2120,}this {\r\t(2120,2255,\t(2255,2390,}may {\3c&H000000&\3a&H00&\r\t(2390,2610,\t(2610,2830,}just {\r\t(2830,2990,\t(2990,3150,}be {\3c&H000000&\3a&H00&\r\t(3150,3395,\t(3395,3640,}worth{\r\t(3640,3825,\t(3825,4010,} my {\3c&H000000&\3a&H00&\r\t(4010,4550,\t(4130,5830,}whiiile
-Dialogue: 0,0:01:27.23,0:01:29.73,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,345,\t(345,690,}Hey, {\r\t(690,980,\t(980,1270,}check {\3c&H000000&\3a&H00&\r\t(1270,1400,\t(1400,1640,}it {\r\t(1440,1970,\t(1970,2500,}out,
-Dialogue: 0,0:01:29.73,0:01:33.18,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}this {\r\t(310,405,\t(405,500,}wa{\3c&H000000&\3a&H00&\r\t(500,600,\t(600,700,}ter's {\r\t(700,840,\t(840,980,}as {\3c&H000000&\3a&H00&\r\t(980,1430,\t(1430,1880,}sweet {\r\t(1880,2070,\t(2070,2260,}as {\3c&H000000&\3a&H00&\r\t(2260,2405,\t(2405,2550,}pa{\r\t(2550,2690,\t(2690,2830,}ra{\3c&H000000&\3a&H00&\r\t(2830,3140,\t(3140,3450,}dise!
-Dialogue: 0,0:01:33.18,0:01:36.51,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,205,\t(205,410,}Fash{\r\t(410,540,\t(540,670,}ion, {\3c&H000000&\3a&H00&\r\t(670,780,\t(780,890,}to {\r\t(890,1200,\t(1200,1660,}make-up, {\3c&H000000&\3a&H00&\r\t(1660,1965,\t(1965,2270,}hairstyles {\r\t(2270,2420,\t(2420,2500,}et {\3c&H000000&\3a&H00&\r\t(2600,2750,\t(2950,3330,}al,
-Dialogue: 0,0:01:36.51,0:01:41.61,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}With{\r\t(310,415,\t(415,520,}in {\3c&H000000&\3a&H00&\r\t(520,615,\t(615,710,}the {\r\t(710,805,\t(805,900,}gar{\3c&H000000&\3a&H00&\r\t(900,990,\t(990,1080,}den {\r\t(1080,1175,\t(1175,1270,}of {\3c&H000000&\3a&H00&\r\t(1270,1370,\t(1370,1470,}mai{\r\t(1470,1775,\t(1775,2080,}dens, {\3c&H000000&\3a&H00&\r\t(2080,2350,\t(2350,2620,}danc{\r\t(2620,2730,\t(2730,2840,}ing {\3c&H000000&\3a&H00&\r\t(2840,2930,\t(2930,3020,}takes {\r\t(3020,3260,\t(4060,5100,}bloom!
-Dialogue: 0,0:01:42.31,0:01:45.82,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,135,\t(135,270,}Wha, {\r\t(270,400,\t(400,530,}ma{\3c&H000000&\3a&H00&\r\t(530,770,\t(770,1010,}dame? {\r\t(1010,1130,\t(1130,1250,}Who's {\3c&H000000&\3a&H00&\r\t(1250,1455,\t(1455,1660,}that? {\r\t(1660,1885,\t(1885,2110,}Guy's {\3c&H000000&\3a&H00&\r\t(2110,2240,\t(2240,2370,}the {\r\t(2370,2515,\t(2515,2660,}I, {\3c&H000000&\3a&H00&\r\t(2660,2750,\t(2750,2840,}no {\r\t(2840,3075,\t(3175,3510,}lie!
-Dialogue: 0,0:01:43.10,0:01:43.85,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Who!)
-Dialogue: 0,0:01:43.90,0:01:44.56,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Are!)
-Dialogue: 0,0:01:45.26,0:01:45.82,OP Extra,,0000,0000,0000,,{\fad(200,0)}(It's me!)
-Dialogue: 0,0:01:45.82,0:01:49.19,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,150,\t(150,300,}I {\r\t(300,380,\t(380,460,}don't {\3c&H000000&\3a&H00&\r\t(460,660,\t(660,860,}know {\r\t(860,930,\t(930,1000,}what's {\3c&H000000&\3a&H00&\r\t(1000,1105,\t(1105,1210,}hap{\r\t(1210,1325,\t(1325,1440,}pen{\3c&H000000&\3a&H00&\r\t(1440,1600,\t(1600,1760,}ing, {\r\t(1760,1870,\t(1870,1980,}my {\3c&H000000&\3a&H00&\r\t(1980,2120,\t(2120,2260,}fra{\r\t(2260,2345,\t(2345,2430,}gile {\3c&H000000&\3a&H00&\r\t(2430,2620,\t(2620,2810,}iden{\r\t(2810,2920,\t(2920,3030,}ti{\3c&H000000&\3a&H00&\r\t(3030,3200,\t(3200,3370,}ty
-Dialogue: 0,0:01:45.82,0:01:49.19,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}I don't know what's happening, my fragile identity
-Dialogue: 0,0:01:45.82,0:01:49.19,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}I don't know what's happening, my fragile identity
-Dialogue: 0,0:01:49.19,0:01:51.96,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,70,\t(70,140,}Be{\r\t(140,250,\t(250,360,}gins {\3c&H000000&\3a&H00&\r\t(360,475,\t(475,590,}anew {\r\t(590,695,\t(695,800,}right {\3c&H000000&\3a&H00&\r\t(800,980,\t(980,1160,}now, {\r\t(1160,1235,\t(1235,1310,}a {\3c&H000000&\3a&H00&\r\t(1310,1540,\t(1540,1770,}sense {\r\t(1770,1935,\t(1935,2100,}of {\3c&H000000&\3a&H00&\r\t(2100,2225,\t(2225,2350,}won{\r\t(2350,2460,\t(2460,2770,}der!
-Dialogue: 0,0:01:49.19,0:01:51.57,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}Begins anew right now, a sense of wonder!
-Dialogue: 0,0:01:49.19,0:01:51.57,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}Begins anew right now, a sense of wonder!
-Dialogue: 0,0:01:51.46,0:01:51.96,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Woo-HOO!)
-Dialogue: 0,0:01:51.96,0:01:55.37,OP Thin,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,145,\t(145,290,}At {\r\t(290,400,\t(400,510,}this {\3c&H000000&\3a&H00&\r\t(510,680,\t(680,850,}rate, {\r\t(850,975,\t(975,1100,}may{\3c&H000000&\3a&H00&\r\t(1100,1210,\t(1210,1320,}be {\r\t(1320,1420,\t(1420,1520,}my {\3c&H000000&\3a&H00&\r\t(1520,1695,\t(1695,1870,}very {\r\t(1870,1975,\t(1975,2080,}psyche {\3c&H000000&\3a&H00&\r\t(2080,2190,\t(2190,2300,}will {\r\t(2300,2450,\t(2450,2600,}fade {\3c&H000000&\3a&H00&\r\t(2600,2745,\t(2745,2890,}and {\r\t(2890,3150,\t(3150,3410,}melt!{\3c&H000000&\3a&H00&\r\t(3410,3410,}
-Dialogue: 0,0:01:55.37,0:01:58.37,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,75,\t(75,150,}Now {\r\t(150,390,\t(390,630,}arise! {\3c&H000000&\3a&H00&\r\t(630,770,\t(770,910,}Heed {\r\t(910,970,\t(970,1030,}my {\3c&H000000&\3a&H00&\r\t(1030,1180,\t(1180,1330,}call! {\r\t(1330,1455,\t(1455,1580,}Go {\3c&H000000&\3a&H00&\r\t(1580,1680,\t(1680,1780,}forth, {\r\t(1780,1940,\t(1940,2130,}pillar {\3c&H000000&\3a&H00&\r\t(2130,2210,\t(2210,2490,}of {\r\t(2490,2645,\t(2745,3000,}self!
-Dialogue: 0,0:01:55.72,0:01:56.18,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Hey!)
-Dialogue: 0,0:01:56.55,0:01:56.89,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Hey!)
-Dialogue: 0,0:01:57.43,0:01:58.35,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Pillar of self!)
-Dialogue: 0,0:01:58.37,0:02:01.59,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,165,\t(165,330,}Let's {\r\t(330,405,\t(405,480,}edge {\3c&H000000&\3a&H00&\r\t(480,570,\t(570,660,}our {\r\t(660,800,\t(800,940,}best, {\3c&H000000&\3a&H00&\r\t(940,1110,\t(1110,1280,}so {\r\t(1280,1390,\t(1390,1500,}we {\3c&H000000&\3a&H00&\r\t(1500,1620,\t(1620,1740,}can {\r\t(1740,1885,\t(1885,2030,}see {\3c&H000000&\3a&H00&\r\t(2030,2120,\t(2120,2210,}a {\r\t(2210,2370,\t(2370,2530,}hap{\3c&H000000&\3a&H00&\r\t(2530,2745,\t(2745,2960,}py {\r\t(2960,3090,\t(3090,3220,}end!
-Dialogue: 0,0:02:01.59,0:02:03.09,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,115,\t(115,230,}It's {\r\t(230,375,\t(375,520,}there? {\3c&H000000&\3a&H00&\r\t(520,615,\t(615,710,}It's {\r\t(710,1105,\t(1105,1500,}gone?!
-Dialogue: 0,0:02:02.27,0:02:02.72,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's gone?!)
-Dialogue: 0,0:02:03.09,0:02:04.42,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,90,\t(90,180,}Ab{\r\t(180,365,\t(365,550,}sent? {\3c&H000000&\3a&H00&\r\t(550,695,\t(695,840,}Pre{\r\t(840,985,\t(985,1330,}sent!
-Dialogue: 0,0:02:03.77,0:02:04.39,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Present!)
-Dialogue: 0,0:02:04.42,0:02:05.79,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,235,\t(235,470,}Af{\r\t(470,630,\t(630,790,}fixed, {\3c&H000000&\3a&H00&\r\t(790,915,\t(915,1040,}guess {\r\t(1040,1095,\t(1095,1150,}I'm {\3c&H000000&\3a&H00&\r\t(1150,1260,\t(1260,1370,}fixed?
-Dialogue: 0,0:02:05.79,0:02:07.74,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,130,\t(130,260,}Huh? {\r\t(260,350,\t(350,440,}Which {\r\t(440,530,\t(530,620,}one {\r\t(620,720,\t(720,820,}is {\3c&H000000&\3a&H00&\r\t(820,925,\t(925,1030,}it?! {\r\t(1030,1185,\t(1185,1340,}Trance, {\r\t(1340,1480,\t(1480,1620,}trance, {\r\t(1620,1785,\t(1785,1950,}trance!
-Dialogue: 0,0:02:06.68,0:02:15.02,*Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
-Dialogue: 0,0:02:07.74,0:02:09.26,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,115,\t(115,230,}It's {\r\t(230,375,\t(375,520,}dair? {\3c&H000000&\3a&H00&\r\t(520,640,\t(640,760,}It's {\r\t(760,990,\t(990,1520,}nought!
-Dialogue: 0,0:02:08.53,0:02:09.26,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(60,965)}(It's nought!)
-Dialogue: 0,0:02:09.26,0:02:10.82,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,95,\t(95,190,}Ab{\r\t(190,380,\t(380,570,}SENT? {\3c&H000000&\3a&H00&\r\t(570,720,\t(720,870,}pRE:{\r\t(870,1000,\t(1000,1560,}sent!
-Dialogue: 0,0:02:10.17,0:02:10.82,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(60,965)}(pRE:sent!)
-Dialogue: 0,0:02:10.82,0:02:14.40,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,125,\t(125,250,}The {\r\t(250,405,\t(405,560,}Why {\3c&H000000&\3a&H00&\r\t(560,735,\t(735,910,}of {\r\t(910,1070,\t(1070,1230,}[I]{\3c&H000000&\3a&H00&\r\t(1230,1395,\t(1395,1560,}-den{\r\t(1560,1670,\t(1670,1780,}ti{\3c&H000000&\3a&H00&\r\t(1780,1870,\t(1870,1960,}ty, {\r\t(1960,2070,\t(2070,2180,}will {\3c&H000000&\3a&H00&\r\t(2180,2315,\t(2315,2450,}crum{\r\t(2450,2605,\t(2605,2760,}ble {\3c&H000000&\3a&H00&\r\t(2760,3170,\t(3170,3580,}forth!
-Dialogue: 0,0:02:15.60,0:02:17.51,*Default,Mahiro,0,0,0,,The bath's busted?
-Dialogue: 0,0:02:17.88,0:02:20.07,Default - Top,Mihari,0,0,0,,I can't seem to get any hot water to come out of it.
-Dialogue: 0,0:02:18.39,0:02:23.36,*Default,Episode Title,0,0,0,,{\b1\fs90\1c&H5F6690&\1a&H00&\3c&HE4E2F7&\3a&H00&\an3\fad(731,437)\bord4.5\shad0\pos(1821,915)}#02 {\1c&H9681DB&\1a&H00&}Mahiro {\1c&H5D5B71&\1a&H00&}and {\1c&HD8BE6B&\1a&H00&}Lady {\1c&H9681DB&\1a&H00&}Problems
-Dialogue: 0,0:02:20.07,0:02:22.10,Default - Top,Mahiro,0,0,0,,You're a genius scientist, aren't you?
-Dialogue: 0,0:02:22.10,0:02:23.44,Default - Top,Mahiro,0,0,0,,Can't you fix it?
-Dialogue: 0,0:02:23.44,0:02:25.36,*Default,Mihari,0,0,0,,Something like this is a bit...
-Dialogue: 0,0:02:25.73,0:02:27.81,*Default,Mahiro,0,0,0,,Then, it's fine if we don't\Nbathe today then, right?!
-Dialogue: 0,0:02:27.81,0:02:29.18,*Default,Mihari,0,0,0,,Don't say something like that!
-Dialogue: 0,0:02:30.43,0:02:33.78,*Default,Mihari,0,0,0,,That's right! There's a public\Nbathhouse nearby, isn't there.
-Dialogue: 0,0:02:33.78,0:02:37.21,*Default,Mahiro,0,0,0,,Ah... right, that one across \Nfrom the liquor store...
-Dialogue: 0,0:02:37.67,0:02:40.83,*Default,Mihari,0,0,0,,Well then, get ready, okay? \NI'll go get dressed myself.
-Dialogue: 0,0:02:40.83,0:02:42.37,*Default,Mahiro,0,0,0,,Ehhh...
-Dialogue: 0,0:02:46.73,0:02:48.84,*Default,Mahiro,0,0,0,,A public bath, huh?
-Dialogue: 0,0:02:49.62,0:02:50.65,*Default,Mahiro,0,0,0,,Wait a—hey!
-Dialogue: 0,0:02:50.65,0:02:52.00,*Default,Mahiro,0,0,0,,Isn't that a bad idea?!
-Dialogue: 0,0:02:56.92,0:03:00.14,*Default,Mahiro,0,0,0,,I-in the end, we wound up\Ncoming anyways, I suppose...
-Dialogue: 0,0:03:00.14,0:03:03.04,*Default,Mihari,0,0,0,,What're you waiting for, Onii-chan? Let's go.
-Dialogue: 0,0:03:03.04,0:03:04.80,*Default,Mahiro,0,0,0,,S-sure...
-Dialogue: 0,0:03:18.08,0:03:18.12,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100\y100\blur0.9\fax0.3\pos(868.6,354.8)\frz345}Women
-Dialogue: 0,0:03:18.12,0:03:18.16,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.04\y100.04\blur0.9\fax0.3\pos(868.84,355.02)\frz344.97}Women
-Dialogue: 0,0:03:18.16,0:03:18.20,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100\y100\blur0.9\fax0.3\pos(869.12,355.38)\frz344.98}Women
-Dialogue: 0,0:03:18.20,0:03:18.25,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.04\y100.04\blur0.9\fax0.3\pos(869.64,355.65)\frz344.97}Women
-Dialogue: 0,0:03:18.25,0:03:18.29,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.97\y99.97\blur0.9\fax0.3\pos(870.36,356.12)\frz344.97}Women
-Dialogue: 0,0:03:18.29,0:03:18.33,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.89\y99.89\blur0.9\fax0.3\pos(871.31,356.55)\frz344.99}Women
-Dialogue: 0,0:03:18.33,0:03:18.37,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.93\y99.93\blur0.9\fax0.3\pos(872.6,356.89)\frz344.99}Women
-Dialogue: 0,0:03:18.37,0:03:18.41,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.99\y99.99\blur0.9\fax0.3\pos(874.39,357.17)\frz344.98}Women
-Dialogue: 0,0:03:18.41,0:03:18.45,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.02\y100.02\blur0.9\fax0.3\pos(876.64,357.54)\frz344.99}Women
-Dialogue: 0,0:03:18.45,0:03:18.50,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.04\y100.04\blur0.9\fax0.3\pos(879.73,357.98)\frz345.04}Women
-Dialogue: 0,0:03:18.50,0:03:18.54,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.96\y99.96\blur0.9\fax0.3\pos(884.52,358.74)\frz345.09}Women
-Dialogue: 0,0:03:18.54,0:03:18.58,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.96\y99.96\blur0.9\fax0.3\pos(895.84,360.62)\frz345.22}Women
-Dialogue: 0,0:03:18.58,0:03:18.62,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.01\y100.01\blur0.9\fax0.3\pos(937.08,359.73)\frz345.45}Women
-Dialogue: 0,0:03:18.62,0:03:18.66,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.94\y99.94\blur0.9\fax0.3\pos(984.48,358.82)\frz345.75}Women
-Dialogue: 0,0:03:18.66,0:03:18.70,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x100.03\y100.03\blur0.9\fax0.3\pos(1034.92,357.58)\frz346.02}Women
-Dialogue: 0,0:03:18.70,0:03:18.75,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.84\y99.84\blur0.9\fax0.3\pos(1087.1,356.64)\frz346.33}Women
-Dialogue: 0,0:03:18.75,0:03:18.79,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.85\y99.85\blur0.9\fax0.3\pos(1140.5,355.34)\frz346.61}Women
-Dialogue: 0,0:03:18.79,0:03:18.83,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.76\y99.76\blur0.9\fax0.3\pos(1194.67,354.07)\frz346.96}Women
-Dialogue: 0,0:03:18.83,0:03:18.87,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.57\y99.57\blur0.9\fax0.3\pos(1249.45,352.84)\frz347.3}Women
-Dialogue: 0,0:03:18.87,0:03:18.91,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.48\y99.48\blur0.9\fax0.3\pos(1304.8,351.41)\frz347.62}Women
-Dialogue: 0,0:03:18.91,0:03:18.95,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.43\y99.43\blur0.9\fax0.3\pos(1360.51,349.81)\frz347.92}Women
-Dialogue: 0,0:03:18.95,0:03:19.00,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99.2\y99.2\blur0.9\fax0.3\pos(1416.42,348.37)\frz348.26}Women
-Dialogue: 0,0:03:19.00,0:03:19.04,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x99\y99\blur0.9\fax0.3\pos(1472.46,346.75)\frz348.6}Women
-Dialogue: 0,0:03:19.04,0:03:19.08,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x98.87\y98.87\blur0.9\fax0.3\pos(1528.61,344.92)\frz348.93}Women
-Dialogue: 0,0:03:19.08,0:03:19.12,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x98.64\y98.64\blur0.9\fax0.3\pos(1584.73,343.08)\frz349.27}Women
-Dialogue: 0,0:03:19.12,0:03:19.16,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x98.38\y98.38\blur0.9\fax0.3\pos(1640.75,341.14)\frz349.63}Women
-Dialogue: 0,0:03:19.16,0:03:19.20,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x98.14\y98.14\blur0.89\fax0.3\pos(1696.74,339.01)\frz349.97}Women
-Dialogue: 0,0:03:19.20,0:03:19.25,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x97.95\y97.95\blur0.89\fax0.3\pos(1752.54,336.6)\frz350.28}Women
-Dialogue: 0,0:03:19.25,0:03:19.29,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x97.57\y97.57\blur0.89\fax0.3\pos(1807.85,334.18)\frz350.7}Women
-Dialogue: 0,0:03:19.29,0:03:19.33,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x96.95\y96.95\blur0.89\fax0.3\pos(1862.5,331.69)\frz351.12}Women
-Dialogue: 0,0:03:19.33,0:03:19.37,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HAB99E8&\1a&H00&\an8\=1\x96.95\y96.95\blur0.89\fax0.3\pos(1918.5,327.69)\frz351.12}Women
-Dialogue: 0,0:03:18.08,0:03:20.42,*Default,Mahiro,0,0,0,,Um...
-Dialogue: 0,0:03:19.37,0:03:19.41,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x98.54\y98.54\blur0.9\fax-0.3\frz10.32\pos(-37.38,317.53)}Men
-Dialogue: 0,0:03:19.41,0:03:19.45,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x98.76\y98.76\blur0.9\fax-0.3\frz10.68\pos(14.06,324.75)}Men
-Dialogue: 0,0:03:19.45,0:03:19.50,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x98.93\y98.93\blur0.9\fax-0.3\frz11.07\pos(65.91,331.82)}Men
-Dialogue: 0,0:03:19.50,0:03:19.54,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.08\y99.08\blur0.9\fax-0.3\frz11.51\pos(117.8,338.41)}Men
-Dialogue: 0,0:03:19.54,0:03:19.58,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.21\y99.21\blur0.9\fax-0.3\frz11.94\pos(169.73,344.41)}Men
-Dialogue: 0,0:03:19.58,0:03:19.62,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.32\y99.32\blur0.9\fax-0.3\frz12.38\pos(221.58,349.76)}Men
-Dialogue: 0,0:03:19.62,0:03:19.66,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.43\y99.43\blur0.9\fax-0.3\frz12.82\pos(273.23,354.54)}Men
-Dialogue: 0,0:03:19.66,0:03:19.71,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.55\y99.55\blur0.9\fax-0.3\frz13.25\pos(324.71,358.67)}Men
-Dialogue: 0,0:03:19.71,0:03:19.75,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.71\y99.71\blur0.9\fax-0.3\frz13.65\pos(375.82,362.33)}Men
-Dialogue: 0,0:03:19.75,0:03:19.79,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.86\y99.86\blur0.9\fax-0.3\frz14.06\pos(426.5,365.52)}Men
-Dialogue: 0,0:03:19.79,0:03:19.83,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.98\y99.98\blur0.9\fax-0.3\frz14.48\pos(476.53,368.47)}Men
-Dialogue: 0,0:03:19.83,0:03:19.87,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.22\y100.22\blur0.9\fax-0.3\frz14.85\pos(525.33,371.13)}Men
-Dialogue: 0,0:03:19.87,0:03:19.91,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.37\y100.37\blur0.9\fax-0.3\frz15.21\pos(572.23,373.98)}Men
-Dialogue: 0,0:03:19.91,0:03:19.96,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.43\y100.43\blur0.9\fax-0.3\frz15.62\pos(614.35,377.12)}Men
-Dialogue: 0,0:03:19.96,0:03:20.00,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.49\y100.49\blur0.9\fax-0.3\frz15.88\pos(642.06,380.15)}Men
-Dialogue: 0,0:03:20.00,0:03:20.04,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.2\y100.2\blur0.9\fax-0.3\frz16.12\pos(662.69,383.35)}Men
-Dialogue: 0,0:03:20.04,0:03:20.08,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.81\y100.81\blur0.9\fax-0.3\frz16.32\pos(682.38,385.05)}Men
-Dialogue: 0,0:03:20.08,0:03:20.12,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.53\y100.53\blur0.9\fax-0.3\frz16.52\pos(698.59,387.78)}Men
-Dialogue: 0,0:03:20.12,0:03:20.16,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.26\y100.26\blur0.9\fax-0.3\frz16.75\pos(713.81,390.24)}Men
-Dialogue: 0,0:03:20.16,0:03:20.21,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.6\y100.6\blur0.9\fax-0.3\frz16.92\pos(729.4,391.39)}Men
-Dialogue: 0,0:03:20.21,0:03:20.25,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.49\y100.49\blur0.9\fax-0.3\frz17.12\pos(743.11,392.8)}Men
-Dialogue: 0,0:03:20.25,0:03:20.29,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100.18\y100.18\blur0.9\fax-0.3\frz17.26\pos(754.91,394)}Men
-Dialogue: 0,0:03:20.29,0:03:20.33,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x100\y100\blur0.9\fax-0.3\frz17.42\pos(765.6,394)}Men
-Dialogue: 0,0:03:20.33,0:03:20.37,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(772.67,393.86)}Men
-Dialogue: 0,0:03:20.37,0:03:20.41,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(769.95,391.13)}Men
-Dialogue: 0,0:03:20.41,0:03:20.46,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(767.45,389.58)}Men
-Dialogue: 0,0:03:20.46,0:03:20.50,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(765.05,388.62)}Men
-Dialogue: 0,0:03:20.50,0:03:20.54,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(763.32,387.87)}Men
-Dialogue: 0,0:03:20.54,0:03:20.58,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(761.89,387.16)}Men
-Dialogue: 0,0:03:20.58,0:03:20.62,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(760.54,386.53)}Men
-Dialogue: 0,0:03:20.62,0:03:20.66,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(758.82,386)}Men
-Dialogue: 0,0:03:20.66,0:03:20.71,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(757.75,385.34)}Men
-Dialogue: 0,0:03:20.71,0:03:20.75,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(757.05,384.58)}Men
-Dialogue: 0,0:03:20.75,0:03:20.79,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(756.29,383.87)}Men
-Dialogue: 0,0:03:20.79,0:03:20.83,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(755.3,383.26)}Men
-Dialogue: 0,0:03:20.83,0:03:20.87,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(754.71,382.49)}Men
-Dialogue: 0,0:03:20.87,0:03:20.91,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(754.13,381.77)}Men
-Dialogue: 0,0:03:20.91,0:03:20.96,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(753.57,381.07)}Men
-Dialogue: 0,0:03:20.96,0:03:21.00,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(753.3,380.34)}Men
-Dialogue: 0,0:03:21.00,0:03:21.04,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(752.89,379.65)}Men
-Dialogue: 0,0:03:21.04,0:03:21.08,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(752.66,378.99)}Men
-Dialogue: 0,0:03:21.08,0:03:21.12,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(752.66,378.29)}Men
-Dialogue: 0,0:03:21.12,0:03:21.16,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(752.26,377.72)}Men
-Dialogue: 0,0:03:21.16,0:03:21.21,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(752.07,377.21)}Men
-Dialogue: 0,0:03:21.21,0:03:21.25,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,376.85)}Men
-Dialogue: 0,0:03:21.25,0:03:21.29,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.75,376.47)}Men
-Dialogue: 0,0:03:21.29,0:03:21.33,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.71,376.21)}Men
-Dialogue: 0,0:03:21.33,0:03:21.37,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.72,375.96)}Men
-Dialogue: 0,0:03:21.37,0:03:21.55,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:21.55,0:03:22.92,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&H000000&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:23.42,0:03:23.55,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&HE9B49E&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:23.55,0:03:23.67,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&H000000&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:23.80,0:03:23.92,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&H000000&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:23.92,0:03:24.05,OKSigns,,0,0,0,,{\fnI Did This!\fs38\1c&H000000&\1a&H00&\an8\=4\x99.52\y99.52\blur0.9\fax-0.3\frz17.51\pos(751.77,375.91)}Men
-Dialogue: 0,0:03:21.45,0:03:23.00,*Default,Mahiro,0,0,0,,Well, see you later.
-Dialogue: 0,0:03:23.00,0:03:24.28,*Default,Mihari,0,0,0,,Wait, wait!
-Dialogue: 0,0:03:24.28,0:03:25.49,*Default,Mihari,0,0,0,,Where are you going?!
-Dialogue: 0,0:03:25.50,0:03:31.43,OKSigns,,0,0,0,,{\fnI Did This!\fs78\1c&HE9B49E&\1a&H00&\blur0.9\fax0.15\pos(161.4,158.4)\frz0.284}Men
-Dialogue: 0,0:03:25.81,0:03:27.20,*Default,Mahiro,0,0,0,,C-Come on, Mihari!
-Dialogue: 0,0:03:27.20,0:03:28.45,*Default,Mahiro,0,0,0,,As I thought, the\Nwomen's baths are a bit...
-Dialogue: 0,0:03:28.45,0:03:31.42,*Default,Mihari,0,0,0,,Who cares? You're a girl now, anyway.
-Dialogue: 0,0:03:31.74,0:03:33.71,*Default,Receptionist,0,0,0,,Hello, welcome!
-Dialogue: 0,0:03:33.71,0:03:35.59,*Default,Mihari,0,0,0,,Entry for two, please.
-Dialogue: 0,0:03:35.89,0:03:36.91,*Default,Receptionist,0,0,0,,Here y'go.
-Dialogue: 0,0:03:38.26,0:03:41.93,OKSigns,,0,0,0,,{\fnI Did This!\fs78\1c&HB59CEC&\1a&H00&\blur0.9\fax-0.05\frz5.091\pos(1588,50)}Women
-Dialogue: 0,0:03:40.33,0:03:41.94,*Default,Mahiro,0,0,0,,B-But...
-Dialogue: 0,0:03:42.42,0:03:43.74,Italics,Mahiro,0,0,0,,Well, whatever.
-Dialogue: 0,0:03:43.74,0:03:46.12,Italics,Mahiro,0,0,0,,If Mihari says it's fine, then...
-Dialogue: 0,0:03:46.83,0:03:48.94,Italics,Mahiro,0,0,0,,If she says it's fine, then...
-Dialogue: 0,0:03:57.35,0:03:59.91,*Default,Mahiro,0,0,0,,Yup, knew it.
-Dialogue: 0,0:03:59.91,0:04:01.60,*Default,Mihari,0,0,0,,Too bad for you, huh.
-Dialogue: 0,0:04:11.98,0:04:15.26,*Default,Mahiro,0,0,0,,So, I don't care if people see me...
-Dialogue: 0,0:04:15.70,0:04:17.48,*Default,Mahiro,0,0,0,,But what about you?
-Dialogue: 0,0:04:17.48,0:04:19.90,*Default,Mihari,0,0,0,,Huh? Why do you ask—?
-Dialogue: 0,0:04:20.75,0:04:23.32,*Default,Mihari,0,0,0,,D-don't stare so much!
-Dialogue: 0,0:04:23.32,0:04:24.10,*Default,Mahiro,0,0,0,,Relax.
-Dialogue: 0,0:04:24.10,0:04:26.94,*Default,Mahiro,0,0,0,,I couldn't care less about \Nseeing my little sister naked.
-Dialogue: 0,0:04:29.27,0:04:32.19,*Default,Sign,0,0,0,,{\b1\1c&H8482D1&\1a&H00&\3c&HAFDDC8&\3a&H00&\an8\bord12\shad0\blur3\frx24\fry2\frz353.4\pos(1276,480)\fax-0.2}Bathing Pail
-Dialogue: 0,0:04:34.39,0:04:36.78,*Default,Mahiro,0,0,0,,Oooh, as expected of a public bath!
-Dialogue: 0,0:04:37.11,0:04:39.29,*Default,Mahiro,0,0,0,,It's bigger than I thought it was gonna be!
-Dialogue: 0,0:04:43.47,0:04:46.01,*Default,Mahiro,0,0,0,,There's even spa jets!
-Dialogue: 0,0:04:47.08,0:04:48.19,*Default,Mihari,0,0,0,,Come back here!
-Dialogue: 0,0:04:48.19,0:04:49.65,*Default,Mihari,0,0,0,,We have to rinse our bodies first!
-Dialogue: 0,0:04:50.25,0:04:51.89,*Default,Mahiro,0,0,0,,Fine...
-Dialogue: 0,0:04:53.80,0:04:55.54,*Default,Mahiro,0,0,0,,Umph.
-Dialogue: 0,0:05:04.40,0:05:05.63,*Default,Mahiro,0,0,0,,I'll head off first.
-Dialogue: 0,0:05:06.08,0:05:07.43,*Default,Mihari,0,0,0,,Wait, wait!
-Dialogue: 0,0:05:07.43,0:05:09.42,*Default,Mahiro,0,0,0,,I rinsed off just fine, right?
-Dialogue: 0,0:05:09.42,0:05:12.11,*Default,Mihari,0,0,0,,You hair's longer now, so you\Ncan't just leave it at that!
-Dialogue: 0,0:05:12.41,0:05:14.64,*Default,Mihari,0,0,0,,Fine, now's as good a time as any.
-Dialogue: 0,0:05:14.64,0:05:16.33,*Default,Mihari,0,0,0,,I'll show you {\i1}juuust {\i0}how it's done.
-Dialogue: 0,0:05:16.33,0:05:17.62,*Default,Mahiro,0,0,0,,Eh...
-Dialogue: 0,0:05:18.20,0:05:22.40,*Default,Mihari,0,0,0,,First, brush out your hair \Nto remove any build-up.
-Dialogue: 0,0:05:22.40,0:05:24.80,*Default,Mihari,0,0,0,,Well, you should really do this before it's wet,
-Dialogue: 0,0:05:24.80,0:05:26.25,*Default,Mihari,0,0,0,,but just remember for next time, okay?
-Dialogue: 0,0:05:26.25,0:05:27.31,*Default,Mahiro,0,0,0,,Ow, ow, ouch!
-Dialogue: 0,0:05:28.14,0:05:32.92,*Default,Mihari,0,0,0,,After that, wet your hair\Nthoroughly with warm water.
-Dialogue: 0,0:05:33.28,0:05:36.23,*Default,Mihari,0,0,0,,Now, really work the\Nshampoo into a lather...
-Dialogue: 0,0:05:37.39,0:05:39.46,*Default,Mihari,0,0,0,,Then gently massage the \Nproduct into your scalp.
-Dialogue: 0,0:05:45.06,0:05:47.65,*Default,Mihari,0,0,0,,Scrubbing{\i1} too{\i0} hard's no good though, okay?
-Dialogue: 0,0:05:51.49,0:05:53.49,*Default,Mihari,0,0,0,,Now, rinse thoroughly!
-Dialogue: 0,0:05:54.49,0:05:57.75,*Default,Mihari,0,0,0,,With long hair like this,\N it should take around five minutes.
-Dialogue: 0,0:05:57.75,0:06:00.36,*Default,Mahiro,0,0,0,,Five minutes? You've gotta be kidding!
-Dialogue: 0,0:06:10.39,0:06:12.50,*Default,Mahiro,0,0,0,,It's finally over...
-Dialogue: 0,0:06:13.55,0:06:14.45,Default - Top,Mahiro,0,0,0,,Eh?
-Dialogue: 0,0:06:13.55,0:06:15.49,*Default,Mihari,0,0,0,,And for the final touch...
-Dialogue: 0,0:06:16.55,0:06:19.63,*Default,Mihari,0,0,0,,A carefully applied treatment for the ends!
-Dialogue: 0,0:06:19.63,0:06:22.24,*Default,Mahiro,0,0,0,,Eh? Hey, you're kidding, right?
-Dialogue: 0,0:06:24.86,0:06:27.64,Default - Top,Mahiro,0,0,0,,Save meeee!
-Dialogue: 0,0:06:32.75,0:06:35.11,*Default,Mihari,0,0,0,,Now we're finally in the tub!
-Dialogue: 0,0:06:35.49,0:06:39.14,*Default,Mihari,0,0,0,,It's bad manners to soak your \Nhair in the water, remember?
-Dialogue: 0,0:06:41.57,0:06:45.66,*Default,Mihari,0,0,0,,You'll be chilly after all the hair care, \Nbut a good, long soak will warm you back—
-Dialogue: 0,0:06:46.00,0:06:47.19,*Default,Mahiro,0,0,0,,Jeez, I'm out!
-Dialogue: 0,0:06:47.19,0:06:48.08,*Default,Mihari,0,0,0,,Eeh?!
-Dialogue: 0,0:06:48.57,0:06:50.38,*Default,Mihari,0,0,0,,Isn't that a bit fast?!
-Dialogue: 0,0:06:50.38,0:06:52.60,*Default,Mahiro,0,0,0,,I'll be waiting for you in the lobby!
-Dialogue: 0,0:06:55.56,0:06:57.03,*Default,Mihari,0,0,0,,Honestly...
-Dialogue: 0,0:07:02.36,0:07:05.20,*Default,Mahiro,0,0,0,,No wonder girls take ages in the bath...
-Dialogue: 0,0:07:10.85,0:07:13.22,*Default,Mahiro,0,0,0,,Now, that hits the spot!
-Dialogue: 0,0:07:20.78,0:07:24.72,*Default,Mahiro,0,0,0,,Still, it's been so long since I was in\Nthe same bath as my little sister, huh?
-Dialogue: 0,0:07:24.72,0:07:26.32,*Default,Boy,0,0,0,,Come on, hold still!
-Dialogue: 0,0:07:27.00,0:07:28.10,*Default,Boy,0,0,0,,Get back here!
-Dialogue: 0,0:07:31.25,0:07:33.25,*Default,Boy,0,0,0,,{\fad(1,851)}You'll catch a cold if \Nyou don't dry your hair!
-Dialogue: 0,0:07:36.21,0:07:37.75,Flashback,Young Mahiro,0,0,0,,I'm gonna start rinsing now.
-Dialogue: 0,0:07:37.75,0:07:39.41,Flashback,Young Mahiro,0,0,0,,Make sure to keep your eyes shut, okay?
-Dialogue: 0,0:07:39.41,0:07:39.91,Flashback,Young Mihari,0,0,0,,Okay!
-Dialogue: 0,0:07:42.15,0:07:45.34,Italics,Mahiro,0,0,0,,I used to help her bathe all \Nthe time when we were kids.
-Dialogue: 0,0:07:46.05,0:07:47.30,Flashback,Young Mahiro,0,0,0,,There, all done!
-Dialogue: 0,0:07:49.60,0:07:51.29,Flashback,Young Mihari,0,0,0,,Thanks, Onii-chan!
-Dialogue: 0,0:07:57.27,0:07:59.32,*Default,Mahiro,0,0,0,,Yet now, it looks like...
-Dialogue: 0,0:08:03.29,0:08:05.32,*Default,Mahiro,0,0,0,,she's the one helping me.
-Dialogue: 0,0:08:06.11,0:08:08.43,*Default,Mahiro,0,0,0,,Mihari's grown up so much since then, too.
-Dialogue: 0,0:08:08.43,0:08:09.59,*Default,Mahiro,0,0,0,,I mean...
-Dialogue: 0,0:08:08.43,0:08:10.44,Default - Top,Little Girl,0,0,0,,Thanks, Onii-chan!
-Dialogue: 0,0:08:09.59,0:08:11.81,*Default,Mahiro,0,0,0,,If this keeps up, it's kinda like...
-Dialogue: 0,0:08:11.81,0:08:13.82,*Default,Mahiro,0,0,0,,Rather than my "little" sister...
-Dialogue: 0,0:08:14.27,0:08:15.35,*Default,Mihari,0,0,0,,Onii-cha—
-Dialogue: 0,0:08:16.85,0:08:18.42,*Default,Mihari,0,0,0,,Mahiro-chaaan?
-Dialogue: 0,0:08:19.00,0:08:20.64,*Default,Mihari,0,0,0,,Oh, there you are!
-Dialogue: 0,0:08:20.64,0:08:21.83,*Default,Mihari,0,0,0,,Sorry for the wait!
-Dialogue: 0,0:08:21.83,0:08:23.42,*Default,Mahiro,0,0,0,,"Mahiro-chan"?
-Dialogue: 0,0:08:24.66,0:08:27.09,*Default,Mihari,0,0,0,,Well, we're out in public, you know?
-Dialogue: 0,0:08:27.09,0:08:29.38,*Default,Mihari,0,0,0,,"Onii-chan" is a bit...
-Dialogue: 0,0:08:31.01,0:08:33.06,*Default,Mahiro,0,0,0,,I guess you're right.
-Dialogue: 0,0:08:37.46,0:08:38.94,*Default,Mahiro,0,0,0,,Then, let's head home!
-Dialogue: 0,0:08:43.96,0:08:45.39,*Default,Mahiro,0,0,0,,Onee-chan!
-Dialogue: 0,0:08:47.42,0:08:50.38,*Default,Mihari,0,0,0,,O-O-Onee-chan...
-Dialogue: 0,0:08:50.38,0:08:51.39,*Default,Mahiro,0,0,0,,Hey...
-Dialogue: 0,0:08:51.39,0:08:53.09,*Default,Mahiro,0,0,0,,I was just playing along, you know!
-Dialogue: 0,0:08:53.60,0:08:55.75,*Default,Mihari,0,0,0,,Onee-chan...
-Dialogue: 0,0:08:57.19,0:08:58.26,*Default,Mihari,0,0,0,,Let's come here again, okay?
-Dialogue: 0,0:08:58.26,0:08:59.38,*Default,Mahiro,0,0,0,,Q-Quit it!
-Dialogue: 0,0:08:59.38,0:09:01.63,*Default,Mahiro,0,0,0,,Lemme go!
-Dialogue: 0,0:09:01.63,0:09:03.52,*Default,Mihari,0,0,0,,There, there!
-Dialogue: 0,0:09:02.64,0:09:04.52,*Default,Mahiro,0,0,0,,Don't pet me!
-Dialogue: 0,0:09:05.62,0:09:07.11,*Default,Mihari,0,0,0,,It's still damp...
-Dialogue: 0,0:09:10.43,0:09:15.10,*Default,Mihari,0,0,0,,Since I'm your Onee-chan, I better teach\Nyou how to dry your hair properly.
-Dialogue: 0,0:09:15.35,0:09:18.47,*Default,Mahiro,0,0,0,,Jeez, I've had enough!
-Dialogue: 0,0:09:20.98,0:09:23.03,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&H000000&\1a&H00&\blur0.6\t(28,237,\pos(302.8,765.8)}O
-Dialogue: 0,0:09:21.20,0:09:23.03,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&H000000&\1a&H00&\blur0.6\t(17,184,\pos(408,765.8)}NI
-Dialogue: 0,0:09:21.41,0:09:23.03,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&H000000&\1a&H00&\blur0.6\t(15,182,\pos(566.4,765.8)}MA
-Dialogue: 0,0:09:21.66,0:09:23.03,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&H000000&\1a&H00&\blur0.6\t(16,183,\pos(686.8,765.8)}I
-Dialogue: 0,0:09:21.39,0:09:22.70,Italics,Mahiro & Mihari,0,0,0,,Onimai.
-Dialogue: 0,0:09:28.04,0:09:29.40,*Default,Mahiro,0,0,0,,Drowsy...
-Dialogue: 0,0:09:31.67,0:09:34.64,*Default,Mihari,0,0,0,,Onii-chan! Breakfast is ready!
-Dialogue: 0,0:09:34.64,0:09:36.09,*Default,Mahiro,0,0,0,,Coming!
-Dialogue: 0,0:09:40.54,0:09:42.41,*Default,Mihari,0,0,0,,Wait, Onii-chan!
-Dialogue: 0,0:09:42.41,0:09:44.47,*Default,Mihari,0,0,0,,Your hair's soaking wet!
-Dialogue: 0,0:09:44.47,0:09:45.53,*Default,Mahiro,0,0,0,,Geh.
-Dialogue: 0,0:09:46.31,0:09:49.88,*Default,Mahiro,0,0,0,,Whenever I wash my face, no\Nmatter what I do, it'll get wet...
-Dialogue: 0,0:09:49.88,0:09:53.40,*Default,Mihari,0,0,0,,Jeez, for times like that, you just...
-Dialogue: 0,0:09:55.48,0:09:58.14,*Default,Mahiro,0,0,0,,Huh, this is pretty handy.
-Dialogue: 0,0:09:58.14,0:09:59.23,*Default,Mihari,0,0,0,,Right?
-Dialogue: 0,0:09:59.58,0:10:02.51,*Default,Mahiro,0,0,0,,Girls sure have a lot of Equips, huh?
-Dialogue: 0,0:10:02.51,0:10:04.67,*Default,Mahiro,0,0,0,,Like this, and bras, and whatnot.
-Dialogue: 0,0:10:04.67,0:10:07.41,*Default,Mihari,0,0,0,,Equips? Come on, this isn't a game.
-Dialogue: 0,0:10:07.68,0:10:10.99,*Default,Mihari,0,0,0,,From now on, try to take hair\Ncare more seriously, okay?
-Dialogue: 0,0:10:10.99,0:10:13.76,*Default,Mihari,0,0,0,,They say hair is a girl's life, you know?
-Dialogue: 0,0:10:13.76,0:10:15.08,*Default,Mahiro,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:10:21.28,0:10:22.56,*Default,Mahiro,0,0,0,,Yummy.
-Dialogue: 0,0:10:25.83,0:10:29.02,*Default,Mahiro,0,0,0,,Whew, I'm stuffed, I'm stuffed!
-Dialogue: 0,0:10:30.02,0:10:33.43,*Default,Mahiro,0,0,0,,I wonder when I last ate a \Nproper breakfast like this.
-Dialogue: 0,0:10:38.18,0:10:40.55,*Default,Mahiro,0,0,0,,Oh, it's just a mirror.
-Dialogue: 0,0:10:40.55,0:10:42.93,*Default,Mahiro,0,0,0,,I guess Mihari must have put it here.
-Dialogue: 0,0:10:46.99,0:10:48.87,*Default,Mahiro,0,0,0,,Hair care, huh...?
-Dialogue: 0,0:10:52.92,0:10:54.19,*Default,Mahiro,0,0,0,,There.
-Dialogue: 0,0:10:54.60,0:10:56.62,*Default,Mahiro,0,0,0,,All done!
-Dialogue: 0,0:10:56.62,0:10:59.50,*Default,Mahiro,0,0,0,,Wait, what the hell am I doing?!
-Dialogue: 0,0:11:01.63,0:11:03.49,*Default,Mihari,0,0,0,,No way, how cute!
-Dialogue: 0,0:11:07.12,0:11:10.91,*Default,Mahiro,0,0,0,,It's just, you know, it's been \Ngetting hot out recently.
-Dialogue: 0,0:11:10.91,0:11:14.89,*Default,Mahiro,0,0,0,,So I thought I'd try putting my \Nhair up like you saw, and well...
-Dialogue: 0,0:11:15.21,0:11:19.79,*Default,Mahiro,0,0,0,,I started trying a bunch of \Nstyles and got kind of into it.
-Dialogue: 0,0:11:19.79,0:11:22.61,*Default,Mihari,0,0,0,,You wind up skilled at the\Nstrangest things, Onii-chan.
-Dialogue: 0,0:11:22.61,0:11:25.55,*Default,Mahiro,0,0,0,,Games have drilled it into me, you\Nknow! My fingers' movements are—
-Dialogue: 0,0:11:25.55,0:11:27.56,*Default,Mihari,0,0,0,,That's it! This'll be perfect.
-Dialogue: 0,0:11:27.56,0:11:29.29,*Default,Mihari,0,0,0,,Let's diligently document our findings!
-Dialogue: 0,0:11:29.29,0:11:29.93,*Default,Mahiro,0,0,0,,Eh?!
-Dialogue: 0,0:11:30.64,0:11:32.36,*Default,Mihari,0,0,0,,First up, dango-style buns!
-Dialogue: 0,0:11:32.44,0:11:33.85,*Default,Mihari,0,0,0,,So cute!
-Dialogue: 0,0:11:33.85,0:11:35.20,*Default,Mahiro,0,0,0,,Y-You think so?
-Dialogue: 0,0:11:36.72,0:11:39.03,*Default,Mihari,0,0,0,,Now for a sporty ponytail!
-Dialogue: 0,0:11:39.03,0:11:39.99,*Default,Mihari,0,0,0,,This looks wonderful on you too.
-Dialogue: 0,0:11:39.99,0:11:41.27,*Default,Mihari,0,0,0,,Next, next!
-Dialogue: 0,0:11:43.38,0:11:45.99,*Default,Mihari,0,0,0,,You've gotta have the classic twintails!
-Dialogue: 0,0:11:45.99,0:11:47.71,*Default,Mihari,0,0,0,,This is great, as well!
-Dialogue: 0,0:11:50.07,0:11:51.86,*Default,Mihari,0,0,0,,Next up, some cat ears, too!
-Dialogue: 0,0:11:52.73,0:11:55.18,*Default,Mihari,0,0,0,,Onii-chan! C'mon, pose, pose!
-Dialogue: 0,0:11:55.18,0:11:56.73,*Default,Mahiro,0,0,0,,Eh? Pose?
-Dialogue: 0,0:11:56.98,0:11:57.91,*Default,Mihari,0,0,0,,It's okay.
-Dialogue: 0,0:11:57.24,0:11:59.12,Default - Top,Mahiro,0,0,0,,Uh— Ah, I dunno—
-Dialogue: 0,0:11:57.91,0:11:59.88,*Default,Mihari,0,0,0,,You can do it, Mahiro-chan!
-Dialogue: 0,0:11:59.88,0:12:00.70,*Default,Mihari,0,0,0,,You're so good.
-Dialogue: 0,0:12:00.70,0:12:01.38,*Default,Mihari,0,0,0,,Amazing!
-Dialogue: 0,0:12:01.38,0:12:02.64,*Default,Mihari,0,0,0,,Cute!!
-Dialogue: 0,0:12:02.93,0:12:04.09,*Default,Mihari,0,0,0,,Pose like a cat!
-Dialogue: 0,0:12:04.09,0:12:05.82,*Default,Mahiro,0,0,0,,A-A cat?!
-Dialogue: 0,0:12:06.15,0:12:09.44,*Default,Mahiro,0,0,0,,Does this work, nya...?
-Dialogue: 0,0:12:11.15,0:12:11.83,*Default,Mahiro,0,0,0,,Wait!
-Dialogue: 0,0:12:12.81,0:12:14.98,*Default,Mahiro,0,0,0,,What're you making me do now?!
-Dialogue: 0,0:12:14.14,0:12:14.98,Default - Top,Mihari,0,0,0,,Ara.
-Dialogue: 0,0:12:15.64,0:12:17.87,*Default,Mahiro,0,0,0,,How terrifying...
-Dialogue: 0,0:12:18.41,0:12:22.69,*Default,Mahiro,0,0,0,,When did I start doing\Ngirly things so naturally?
-Dialogue: 0,0:12:22.69,0:12:24.37,*Default,Mihari,0,0,0,,Good, good.
-Dialogue: 0,0:12:24.37,0:12:28.34,*Default,Mihari,0,0,0,,Not to mention, it seems you've become quite\Naccustomed to wearing your new outfits as of late.
-Dialogue: 0,0:12:28.34,0:12:30.42,*Default,Mihari,0,0,0,,Dressing up's fun, isn't it?
-Dialogue: 0,0:12:30.42,0:12:32.22,*Default,Mahiro,0,0,0,,Th-That's not...
-Dialogue: 0,0:12:32.81,0:12:34.74,*Default,Mahiro,0,0,0,,Besides, look who's talking!
-Dialogue: 0,0:12:34.74,0:12:38.17,*Default,Mahiro,0,0,0,,How can you say that when you basically \Nwear the same outfit every day?!
-Dialogue: 0,0:12:38.17,0:12:40.28,*Default,Mihari,0,0,0,,I'm just fine, you know.
-Dialogue: 0,0:12:40.28,0:12:42.80,*Default,Mihari,0,0,0,,This is like my uniform, after all.
-Dialogue: 0,0:12:43.11,0:12:44.91,*Default,Mihari,0,0,0,,My trademark outfit, if you will.
-Dialogue: 0,0:12:44.91,0:12:46.87,*Default,Mahiro,0,0,0,,Why don't you try dressing up for a change?!
-Dialogue: 0,0:12:46.87,0:12:47.73,*Default,Mihari,0,0,0,,What?!
-Dialogue: 0,0:12:48.09,0:12:51.74,*Default,Mihari,0,0,0,,O-of all people to say that,\NOnii... How dare you!
-Dialogue: 0,0:12:51.74,0:12:53.03,*Default,Mihari,0,0,0,,Just you watch!
-Dialogue: 0,0:13:18.73,0:13:20.62,*Default,Mihari,0,0,0,,W-Well?
-Dialogue: 0,0:13:21.02,0:13:21.92,*Default,Mahiro,0,0,0,,Hmm?
-Dialogue: 0,0:13:22.81,0:13:25.35,*Default,Mihari,0,0,0,,T-this should be fine, right?
-Dialogue: 0,0:13:25.72,0:13:26.50,*Default,Mahiro,0,0,0,,Eh?
-Dialogue: 0,0:13:27.58,0:13:29.74,*Default,Mahiro,0,0,0,,Oh... sure.
-Dialogue: 0,0:13:32.83,0:13:33.94,*Default,Mahiro,0,0,0,,Ouch!
-Dialogue: 0,0:13:34.66,0:13:36.29,*Default,Mahiro,0,0,0,,What was that fo—?!
-Dialogue: 0,0:13:36.88,0:13:39.99,*Default,Mahiro,0,0,0,,Wh-what is it?!
-Dialogue: 0,0:13:42.08,0:13:42.12,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-97.93\x99.99\y99.99\blur0.6\pos(1886.66,348)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.12,0:13:42.17,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-88.93\x99.99\y99.99\blur0.6\pos(1803.13,376.71)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.16,0:13:42.20,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-80.2\x99.98\y99.98\blur0.6\pos(1753.68,425.86)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.20,0:13:42.24,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-72.62\x99.99\y99.99\blur0.6\pos(1709.31,470.72)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.24,0:13:42.29,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-65.32\x99.99\y99.99\blur0.6\pos(1672.02,512.21)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.29,0:13:42.33,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-58.34\x99.99\y99.99\blur0.6\pos(1641.17,549.72)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.33,0:13:42.37,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-51.71\x99.99\y99.99\blur0.6\pos(1615.99,582.83)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.37,0:13:42.41,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-45.43\x100\y100\blur0.6\pos(1595.56,611.49)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.41,0:13:42.45,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-39.54\x100\y100\blur0.6\pos(1579.12,635.75)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.45,0:13:42.49,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-34.04\x100\y100\blur0.6\pos(1565.91,655.81)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.49,0:13:42.54,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-28.95\x100\y100\blur0.6\pos(1555.24,672.08)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.54,0:13:42.58,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-24.27\x100\y100\blur0.6\pos(1546.6,684.86)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.58,0:13:42.62,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-19.99\x100\y100\blur0.6\pos(1539.6,694.73)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.62,0:13:42.66,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-16.13\x99.99\y99.99\blur0.6\pos(1533.84,702.06)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.66,0:13:42.70,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-12.68\x100\y100\blur0.6\pos(1529.05,707.33)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.70,0:13:42.74,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-9.64\x100.01\y100.01\blur0.6\pos(1525.09,710.97)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.74,0:13:42.79,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-7.02\x100\y100\blur0.6\pos(1521.8,713.28)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.79,0:13:42.83,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-4.8\x100\y100\blur0.6\pos(1519.1,714.7)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.83,0:13:42.87,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-3\x100.01\y100.01\blur0.6\pos(1516.91,715.49)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.87,0:13:42.91,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-1.6\x100.01\y100.01\blur0.6\pos(1515.23,715.87)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.91,0:13:42.95,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz-0.6\x100\y100\blur0.6\pos(1514.05,715.97)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.95,0:13:44.00,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=7\frz0\x100\y100\blur0.6\pos(1513.33,716)}O{\1c&H4E5F95&\1a&H00&}NIMA{\1c&HA6A0F2&\1a&H00&}I
-Dialogue: 0,0:13:42.29,0:13:43.44,Italics,Mihari,0,0,0,,Onimai.
-Dialogue: 0,0:13:44.94,0:13:46.27,*Default,Mahiro,0,0,0,,Onimyai.
-Dialogue: 0,0:13:46.21,0:13:48.01,OKSigns,,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&H000000&\1a&H00&\fad(250,0)\blur6\x130\y130\t(0,773,\x100\y100)\t(0,250,\blur0.6)\t(397,522,\t(522,689,\t(689,773,\pos(476,688)}O{\t(397,522,\t(522,689,\t(689,773,}NIMA{\t(397,522,\t(522,689,\t(689,773,}I
-Dialogue: 0,0:13:55.62,0:13:57.15,*Default,Mihari,0,0,0,,Even sitting like a girl.
-Dialogue: 0,0:14:01.91,0:14:03.29,*Default,Mihari,0,0,0,,Ara, ara.
-Dialogue: 0,0:14:03.29,0:14:06.30,*Default,Mihari,0,0,0,,You're trying more girly\Nthings by the day, aren't you?
-Dialogue: 0,0:14:07.98,0:14:12.96,*Default,Mahiro,0,0,0,,It's just, that position feels more\N natural in this body, somehow.
-Dialogue: 0,0:14:13.61,0:14:15.79,*Default,Mahiro,0,0,0,,Not good! This is not good!
-Dialogue: 0,0:14:19.54,0:14:21.75,*Default,Mahiro,0,0,0,,I'm gonna reclaim my masculinity!
-Dialogue: 0,0:14:22.24,0:14:24.14,*Default,Mahiro,0,0,0,,...is what I'd like to say, but...
-Dialogue: 0,0:14:24.67,0:14:26.45,*Default,Mahiro,0,0,0,,Masculinity...
-Dialogue: 0,0:14:26.45,0:14:27.22,*Default,Mahiro,0,0,0,,Would entail...?
-Dialogue: 0,0:14:27.22,0:14:28.15,*Default,Mihari,0,0,0,,Oh, dear.
-Dialogue: 0,0:14:29.06,0:14:31.99,*Default,Mihari,0,0,0,,Let's see... First things first...
-Dialogue: 0,0:14:31.99,0:14:33.05,*Default,Mihari,0,0,0,,Strength!
-Dialogue: 0,0:14:33.05,0:14:34.67,*Default,Mahiro,0,0,0,,Strength!
-Dialogue: 0,0:14:34.67,0:14:36.33,*Default,Mihari,0,0,0,,Reliability!
-Dialogue: 0,0:14:36.33,0:14:37.73,*Default,Mahiro,0,0,0,,Reliability!
-Dialogue: 0,0:14:37.73,0:14:39.37,*Default,Mihari,0,0,0,,Princess carrying, and all that!
-Dialogue: 0,0:14:41.18,0:14:42.18,*Default,Mihari,0,0,0,,Ouch.
-Dialogue: 0,0:14:44.11,0:14:45.97,*Default,Mahiro,0,0,0,,H-How about a piggyback?
-Dialogue: 0,0:14:46.59,0:14:48.18,*Default,Mahiro,0,0,0,,Here I go!
-Dialogue: 0,0:14:53.74,0:14:56.11,*Default,Mahiro,0,0,0,,Sumo-wrestling, then! Sumo-wrestling!
-Dialogue: 0,0:14:57.93,0:14:58.99,*Default,Mahiro,0,0,0,,Bring it!
-Dialogue: 0,0:15:02.80,0:15:04.64,*Default,Mahiro,0,0,0,,Fine, we settle this with a game showdown!
-Dialogue: 0,0:15:04.64,0:15:06.84,*Default,Mihari,0,0,0,,Is this even about masculinity anymore?
-Dialogue: 0,0:15:11.16,0:15:14.21,*Default,Mihari,0,0,0,,Onii-chan, in your case, before\Nyou worry about masculinity,
-Dialogue: 0,0:15:14.21,0:15:16.55,*Default,Mihari,0,0,0,,you should get your life's routine\Nin order first, shouldn't you?
-Dialogue: 0,0:15:16.55,0:15:17.52,*Default,Mahiro,0,0,0,,Fine.
-Dialogue: 0,0:15:18.41,0:15:20.74,*Default,Mihari,0,0,0,,Getting up at a set time every day,
-Dialogue: 0,0:15:20.74,0:15:22.53,*Default,Mihari,0,0,0,,moderating video game time,
-Dialogue: 0,0:15:22.53,0:15:24.35,*Default,Mihari,0,0,0,,building up an exercise regimen...
-Dialogue: 0,0:15:24.35,0:15:25.59,*Default,Mahiro,0,0,0,,Exercise...
-Dialogue: 0,0:15:27.92,0:15:29.04,*Default,Mahiro,0,0,0,,That's it!
-Dialogue: 0,0:15:29.04,0:15:30.12,*Default,Mahiro,0,0,0,,Muscle training!
-Dialogue: 0,0:15:42.42,0:15:43.84,*Default,Mahiro,0,0,0,,Can't do it.
-Dialogue: 0,0:15:43.84,0:15:45.47,*Default,Mihari,0,0,0,,Wait, what?!
-Dialogue: 0,0:15:45.47,0:15:47.38,*Default,Mihari,0,0,0,,Was that supposed to be a sit-up just now?!
-Dialogue: 0,0:15:48.64,0:15:51.96,*Default,Mihari,0,0,0,,Now look here... if you're going to do\Nthis, you need to take it more seriously...!
-Dialogue: 0,0:15:55.47,0:15:58.85,*Default,Mahiro,0,0,0,,Ow, ow, ow...\NMy muscles suddenly hurt.
-Dialogue: 0,0:15:58.85,0:15:59.99,*Default,Mihari,0,0,0,,C'mon, you dummy.
-Dialogue: 0,0:16:00.62,0:16:02.70,*Default,Mahiro,0,0,0,,No, really...
-Dialogue: 0,0:16:03.37,0:16:07.37,*Default,Mahiro,0,0,0,,Even my mood's starting\Nto plummet somehow...
-Dialogue: 0,0:16:09.55,0:16:11.57,*Default,Mihari,0,0,0,,Huh? Wait a...
-Dialogue: 0,0:16:12.45,0:16:13.75,*Default,Mihari,0,0,0,,Onii-chan?!
-Dialogue: 0,0:16:22.07,0:16:24.07,*Default,Mahiro,0,0,0,,I feel a lot better now, actually.
-Dialogue: 0,0:16:27.79,0:16:29.84,*Default,Mihari,0,0,0,,Thank goodness!
-Dialogue: 0,0:16:31.81,0:16:34.38,*Default,Mahiro,0,0,0,,H-Hey! Don't cry!
-Dialogue: 0,0:16:34.38,0:16:36.16,*Default,Mahiro,0,0,0,,It's not that big a deal.
-Dialogue: 0,0:16:36.45,0:16:38.42,*Default,Mihari,0,0,0,,I-I mean...!
-Dialogue: 0,0:16:38.42,0:16:42.06,*Default,Mihari,0,0,0,,I was thinking if anything\Nhappened to you, Onii-chan, I'd...!
-Dialogue: 0,0:16:47.11,0:16:49.50,*Default,Mahiro,0,0,0,,What even was that, anyway?
-Dialogue: 0,0:16:49.50,0:16:52.28,*Default,Mahiro,0,0,0,,It doesn't feel like I \Nhave a cold or anything.
-Dialogue: 0,0:16:53.27,0:16:54.29,*Default,Mahiro,0,0,0,,Don't tell me!
-Dialogue: 0,0:16:54.80,0:16:57.85,*Default,Mahiro,0,0,0,,You don't think it's a side effect \Nof that medicine you gave me?!
-Dialogue: 0,0:17:00.43,0:17:04.55,*Default,Mihari,0,0,0,,No, I swear I took all the \Nnecessary precautions.
-Dialogue: 0,0:17:04.55,0:17:05.58,*Default,Mihari,0,0,0,,In the first place,
-Dialogue: 0,0:17:05.58,0:17:11.05,*Default,Mihari,0,0,0,,For an adverse reaction to suddenly crop\Nup around a month after you became a girl...
-Dialogue: 0,0:17:12.57,0:17:13.91,*Default,Mihari,0,0,0,,A month?
-Dialogue: 0,0:17:23.32,0:17:24.70,*Default,Mihari,0,0,0,,Um...
-Dialogue: 0,0:17:25.14,0:17:27.54,*Default,Mihari,0,0,0,,Do you happen to have any other symptoms?
-Dialogue: 0,0:17:27.54,0:17:29.32,*Default,Mahiro,0,0,0,,Symptoms such as...?
-Dialogue: 0,0:17:29.61,0:17:30.77,*Default,Mihari,0,0,0,,Like drowsiness.
-Dialogue: 0,0:17:30.77,0:17:31.93,*Default,Mahiro,0,0,0,,Yep, drowsy.
-Dialogue: 0,0:17:31.93,0:17:33.23,*Default,Mihari,0,0,0,,Sluggishness?
-Dialogue: 0,0:17:33.23,0:17:34.10,*Default,Mahiro,0,0,0,,Sluggish.
-Dialogue: 0,0:17:34.51,0:17:37.92,*Default,Mihari,0,0,0,,Kinda low-energy? \NA bit down in the dumps?
-Dialogue: 0,0:17:38.44,0:17:41.44,*Default,Mahiro,0,0,0,,What's the big idea? Don't\Ntrash-talk the home security guard!
-Dialogue: 0,0:17:41.44,0:17:44.17,*Default,Mihari,0,0,0,,I'm not! Just listen, okay?
-Dialogue: 0,0:17:46.49,0:17:48.44,*Default,Mihari,0,0,0,,Do your breasts feel swollen at all?
-Dialogue: 0,0:17:49.40,0:17:50.54,*Default,Mahiro,0,0,0,,My breasts?
-Dialogue: 0,0:17:52.91,0:17:56.98,*Default,Mahiro,0,0,0,,Now that you mention it, \Nthey do feel a little tender.
-Dialogue: 0,0:17:56.98,0:17:58.28,*Default,Mihari,0,0,0,,What about your tummy?
-Dialogue: 0,0:17:58.28,0:18:01.15,*Default,Mihari,0,0,0,,Does it feel like you have an upset stomach?
-Dialogue: 0,0:18:01.15,0:18:03.47,*Default,Mahiro,0,0,0,,Yeah, yeah! It does!
-Dialogue: 0,0:18:03.86,0:18:06.74,*Default,Mihari,0,0,0,,Y-You know, Onii-chan...
-Dialogue: 0,0:18:06.74,0:18:09.61,*Default,Mihari,0,0,0,,This is a little hard to say, but...
-Dialogue: 0,0:18:09.61,0:18:11.19,*Default,Mihari,0,0,0,,More than likely, Onii-chan, you're on your—
-Dialogue: 0,0:18:11.19,0:18:13.78,*Default,Mahiro,0,0,0,,The pain's starting to return...
-Dialogue: 0,0:18:18.62,0:18:21.12,*Default,Mahiro,0,0,0,,Sorry, I gotta go to the bathroom first.
-Dialogue: 0,0:18:27.28,0:18:28.89,*Default,Mihari,0,0,0,,W-Wait!
-Dialogue: 0,0:18:30.13,0:18:31.77,*Default,Mahiro,0,0,0,,What is it?
-Dialogue: 0,0:18:32.46,0:18:36.89,*Default,Mihari,0,0,0,,Um... Well... Err...
-Dialogue: 0,0:18:36.89,0:18:39.84,*Default,Mihari,0,0,0,,A-anyways, just brace yourself, okay?
-Dialogue: 0,0:18:48.00,0:18:51.17,*Default,Mahiro,0,0,0,,What was all that about? That Mihari...
-Dialogue: 0,0:18:53.07,0:18:56.70,*Default,Mahiro,0,0,0,,No need to fret over me going\Nto the bathroom at {\i1}this{\i0} point...
-Dialogue: 0,0:19:24.52,0:19:26.97,*Default,Mahiro,0,0,0,,I'm already done for...
-Dialogue: 0,0:19:26.97,0:19:29.10,*Default,Mihari,0,0,0,,You see, Onii-chan...
-Dialogue: 0,0:19:29.10,0:19:31.61,*Default,Mahiro,0,0,0,,What a short life it's been...
-Dialogue: 0,0:19:31.61,0:19:32.77,*Default,Mihari,0,0,0,,That's why...
-Dialogue: 0,0:19:33.05,0:19:37.48,*Default,Mahiro,0,0,0,,If I had only known, I would've \Nfinished that game sooner.
-Dialogue: 0,0:19:38.23,0:19:41.99,*Default,Mahiro,0,0,0,,Mihari, it's up to you now.
-Dialogue: 0,0:19:48.09,0:19:49.29,*Default,Mihari,0,0,0,,Onii-chan.
-Dialogue: 0,0:19:52.49,0:19:55.12,*Default,Mihari,0,0,0,,Here, this'll warm up your tummy.
-Dialogue: 0,0:19:58.72,0:20:01.90,*Default,Mihari,0,0,0,,That'll help alleviate the pain a little.
-Dialogue: 0,0:20:04.55,0:20:07.49,*Default,Mihari,0,0,0,,It'd be good to do some\Nlight stretching, too.
-Dialogue: 0,0:20:09.16,0:20:11.46,*Default,Mihari,0,0,0,,Once it's settled down a bit,\Nlet's do some together, okay?
-Dialogue: 0,0:20:20.31,0:20:24.88,*Default,Sign,0,0,0,,{\b1\fnArial\fs33\1c&H76557A&\1a&H00&\3c&HCDD0F1&\3a&H00&\an8\fad(148,1)\bord6\shad0\pos(1230,480)}Red Beans \NOver Rice
-Dialogue: 0,0:20:20.48,0:20:22.63,*Default,Mihari,0,0,0,,It might just be a\Nready-made meal, but...
-Dialogue: 0,0:20:22.63,0:20:23.84,*Default,Mahiro,0,0,0,,Like I need that!
-Dialogue: 0,0:20:37.19,0:20:38.92,*Default,Mihari,0,0,0,,Did you put it on properly?
-Dialogue: 0,0:20:39.61,0:20:40.98,*Default,Mahiro,0,0,0,,I think so.
-Dialogue: 0,0:20:48.84,0:20:52.32,*Default,Mahiro,0,0,0,,It's kinda... stiff.
-Dialogue: 0,0:20:53.62,0:20:56.67,*Default,Mahiro,0,0,0,,Do girls really wear these things?
-Dialogue: 0,0:21:01.30,0:21:03.89,*Default,Mahiro,0,0,0,,They're so uncomfortable.
-Dialogue: 0,0:21:05.87,0:21:07.75,*Default,Mihari,0,0,0,,You'll get used to it in no time.
-Dialogue: 0,0:21:07.75,0:21:09.59,*Default,Mahiro,0,0,0,,Do you really think so...?
-Dialogue: 0,0:21:09.59,0:21:12.17,*Default,Mihari,0,0,0,,In that case, don't guys have--
-Dialogue: 0,0:21:13.36,0:21:14.53,*Default,Mahiro,0,0,0,,Have what?
-Dialogue: 0,0:21:14.80,0:21:17.92,*Default,Mihari,0,0,0,,Don't guys have a foreign \Nobject to contend with too?
-Dialogue: 0,0:21:17.92,0:21:19.23,*Default,Mihari,0,0,0,,Below the waist, I mean.
-Dialogue: 0,0:21:19.76,0:21:21.24,*Default,Mahiro,0,0,0,,Don't call it a foreign object!
-Dialogue: 0,0:21:21.58,0:21:23.92,*Default,Mihari,0,0,0,,How do you normally keep it under control?
-Dialogue: 0,0:21:23.92,0:21:24.96,*Default,Mahiro,0,0,0,,What?!
-Dialogue: 0,0:21:24.96,0:21:26.58,*Default,Mahiro,0,0,0,,How can you ask such a thing?!
-Dialogue: 0,0:21:26.58,0:21:28.82,*Default,Mahiro,0,0,0,,Mihari-chan, you pervert!
-Dialogue: 0,0:21:29.95,0:21:30.83,*Default,Mihari,0,0,0,,Honestly!
-Dialogue: 0,0:21:30.83,0:21:33.96,*Default,Mihari,0,0,0,,It's because you were complaining \Nabout it being uncomfortable!
-Dialogue: 0,0:21:33.96,0:21:35.79,*Default,Mahiro,0,0,0,,Well, ahahaha...
-Dialogue: 0,0:21:38.79,0:21:43.30,*Default,Mahiro,0,0,0,,Still, I never knew you were going\Nthrough this every month yourself, Mihari.
-Dialogue: 0,0:21:43.30,0:21:45.85,*Default,Mahiro,0,0,0,,And all without a single tear or\Ncomplaint, as if it was no big deal.
-Dialogue: 0,0:21:45.85,0:21:47.12,*Default,Mahiro,0,0,0,,Good girl, good girl.
-Dialogue: 0,0:21:49.67,0:21:50.66,*Default,Mahiro,0,0,0,,Well!
-Dialogue: 0,0:21:50.66,0:21:54.79,*Default,Mahiro,0,0,0,,Next time your tummy's hurting, \Nlet your 'nii-chan know, okay?
-Dialogue: 0,0:21:54.79,0:21:57.69,*Default,Mahiro,0,0,0,,I'll make sure to carefully\Nnurse you back to...
-Dialogue: 0,0:21:57.69,0:21:58.68,*Default,Mahiro,0,0,0,,Eek!
-Dialogue: 0,0:21:58.68,0:22:00.99,*Default,Mahiro,0,0,0,,Wh-Wh-What did I do this time?!
-Dialogue: 0,0:22:00.99,0:22:03.13,*Default,Mihari,0,0,0,,Have some tact!
-Dialogue: 0,0:23:35.96,0:23:40.98,*Default,Sign,0,0,0,,{\b1\fs65\1c&H5D5B71&\1a&H00&\3c&HF2F5FC&\3a&H00&\an3\bord6\shad0\pos(1875,867)}Next Episode: {\1c&H9681DB&\1a&H00&}Mahiro{\1c&H5D5B71&\1a&H00&}'s {\1c&HD8BE6B&\1a&H00&}Close Encounter {\1c&H5D5B71&\1a&H00&}with the {\1c&H9681DB&\1a&H00&}Unknown
-Dialogue: 0,0:23:35.96,0:23:40.98,*Default,Illustration,0,0,0,,{\b1\fs39\1c&H5D5B71&\1a&H00&\3c&HF2F5FC&\3a&H00&\an3\bord4.5\shad0\pos(1434,1020)}Illustration: {\1c&H9681DB&\1a&H00&}Ma{\1c&HD8BE6B&\1a&H00&}i {\1c&H5D5B71&\1a&H00&}Yoneyama
-Dialogue: 0,0:23:39.16,0:23:40.62,Default - Top,Mihari,0,0,0,,See you next time!
-Dialogue: 0,0:22:05.97,0:22:06.01,ED,chptr,0,0,0,,{\ED}
-Dialogue: 0,0:22:05.97,0:22:09.80,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,170,\y120)\t(170,340,\y100)}O-{\r\t(340,440,\y120)\t(440,540,\y100)}K, {\r\t(540,680,\y120)\t(680,820,\y100)}1•{\r\t(820,995,\y120)\t(995,1170,\y100)}2•{\3c&H000000&\3a&H00&\r\t(1170,1310,\y120)\t(1310,1450,\y100)}3's {\r\t(1450,1595,\y120)\t(1595,1740,\y100)}our {\r\t(1740,2115,\y120)\t(2115,2490,\y100)}cue, {\r\t(2490,3145,\y120)\t(3145,3800,\y100)}hey~
-Dialogue: 0,0:22:09.80,0:22:11.05,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,625,\y120)\t(625,1250,\y100)}Ehehe!
-Dialogue: 0,0:22:11.05,0:22:14.02,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,275,\y120)\t(275,550,\y100)}Come {\r\t(550,625,\y120)\t(625,700,\y100)}on!{\r\t(700,855,\y120)\t(855,1010,\y100)} To {\r\t(1010,1125,\y120)\t(1125,1240,\y100)}the {\3c&H000000&\3a&H00&\r\t(1240,1395,\y120)\t(1395,1550,\y100)}se{\r\t(1550,1665,\y120)\t(1665,1780,\y100)}cret {\r\t(1780,1980,\y120)\t(1980,2180,\y100)}gar{\r\t(2180,2265,\y120)\t(2265,2350,\y100)}den {\3c&H000000&\3a&H00&\r\t(2350,2440,\y120)\t(2440,2530,\y100)}and {\r\t(2530,2625,\y120)\t(2625,2720,\y100)}a{\r\t(2720,2845,\y120)\t(2845,2970,\y100)}way!
-Dialogue: 0,0:22:14.02,0:22:15.77,ED Extra,,0,0,0,,{\fad(200,600)}(Wooooo...!)
-Dialogue: 0,0:22:14.14,0:22:16.48,ED,,0,0,0,,{\3c&H77899D&\3a&H00&}Onii—...Mahiro-chan, how about a maid outfit today?
-Dialogue: 0,0:22:16.81,0:22:17.56,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}Eh?
-Dialogue: 0,0:22:16.48,0:22:17.98,ED,,0,0,0,,{\3c&HA89BEB&\3a&H00&}No no, it's gotta be a bunnygirl suit, right?
-Dialogue: 0,0:22:18.31,0:22:19.94,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}E-err, um...!
-Dialogue: 0,0:22:17.98,0:22:20.77,ED,,0,0,0,,{\3c&H5A558B&\3a&H00&}How about we try a pair of matching Hakamas!
-Dialogue: 0,0:22:20.77,0:22:22.32,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,205,\y120)\t(205,410,\y100)}Well {\r\t(410,485,\y120)\t(485,560,\y100)}ei{\r\t(560,625,\y120)\t(625,690,\y100)}ther {\r\t(690,795,\y120)\t(795,900,\y100)}way, {\3c&H000000&\3a&H00&\r\t(900,1020,\y120)\t(1020,1140,\y100)}strip {\r\t(1140,1200,\y120)\t(1200,1260,\y100)}'em {\r\t(1260,1390,\y120)\t(1390,1520,\y100)}off!
-Dialogue: 0,0:22:19.94,0:22:21.77,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}Hey! Hold on!
-Dialogue: 0,0:22:22.32,0:22:24.82,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,335,\y120)\t(335,670,\y100)}No, {\r\t(670,750,\y120)\t(750,830,\y100)}s{\r\t(830,910,\y120)\t(910,990,\y100)}t{\r\t(990,1070,\y120)\t(1070,1150,\y100)}o{\3c&H000000&\3a&H00&\r\t(1150,1230,\y120)\t(1230,1310,\y100)}o{\r\t(1310,1390,\y120)\t(1390,1470,\y100)}o{\r\t(1470,1550,\y120)\t(1550,1630,\y100)}o{\r\t(1630,1710,\y120)\t(1710,1790,\y100)}o{\3c&H000000&\3a&H00&\r\t(1790,1870,\y120)\t(1870,1950,\y100)}o{\r\t(1950,2035,\y120)\t(2035,2120,\y100)}o{\r\t(2120,2200,\y120)\t(2200,2280,\y100)}p{\r\t(2280,2365,\y120)\t(2365,2450,\y100)}!
-Dialogue: 2,0:22:24.82,0:22:27.49,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,190,\y120)\t(190,380,\y100)}Gen{\r\t(380,475,\y120)\t(475,570,\y100)}ius {\r\t(570,645,\y120)\t(645,720,\y100)}at {\r\t(720,820,\y120)\t(820,920,\y100)}the {\3c&H000000&\3a&H00&\r\t(920,1070,\y120)\t(1070,1220,\y100)}grind, {\r\t(1220,1310,\y120)\t(1310,1400,\y100)}sub{\r\t(1400,1480,\y120)\t(1480,1560,\y100)}ject {\r\t(1560,1635,\y120)\t(1635,1710,\y100)}has {\3c&H000000&\3a&H00&\r\t(1710,1805,\y120)\t(1805,1900,\y100)}re{\r\t(1900,2145,\y120)\t(2145,2550,\y100)}signed
-Dialogue: 2,0:22:26.82,0:22:27.99,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,230,\t(0,152,\y120)\t(152,310,\y100)}(From {\r\t(310,390,\y120)\t(390,460,\y100)}dusk {\r\t(460,540,\y120)\t(540,620,\y100)}to {\r\t(620,895,\y120)\t(895,1170,\y100)}dawn~)
-Dialogue: 2,0:22:27.49,0:22:30.16,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,165,\y120)\t(165,330,\y100)}Drug {\r\t(330,425,\y120)\t(425,520,\y100)}sta{\r\t(520,610,\y120)\t(610,700,\y100)}tus: {\r\t(700,810,\y120)\t(810,920,\y100)}It's {\3c&H000000&\3a&H00&\r\t(920,1045,\y120)\t(1045,1170,\y100)}a {\r\t(1170,1405,\y120)\t(1405,1640,\y100)}huge • {\r\t(1640,1840,\y120)\t(1840,2040,\y100)}suc • {\r\t(2040,2365,\y120)\t(2365,2690,\y100)}cess!
-Dialogue: 2,0:22:29.36,0:22:30.62,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,155,\y120)\t(155,320,\y100)}(Hold {\r\t(320,440,\y120)\t(440,520,\y100)}on, {\r\t(520,625,\y120)\t(625,730,\y100)}hold {\r\t(730,985,\y120)\t(985,1240,\y100)}on!)
-Dialogue: 2,0:22:30.16,0:22:32.78,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,160,\y120)\t(160,320,\y100)}Cute {\r\t(320,480,\y120)\t(480,640,\y100)}gal {\r\t(640,745,\y120)\t(745,850,\y100)}ac{\r\t(850,1000,\y120)\t(1000,1150,\y100)}quired, {\3c&H000000&\3a&H00&\r\t(1150,1235,\y120)\t(1235,1320,\y100)}now {\r\t(1320,1400,\y120)\t(1400,1480,\y100)}time {\r\t(1480,1550,\y120)\t(1550,1620,\y100)}to {\r\t(1620,1740,\y120)\t(1740,1860,\y100)}ca{\3c&H000000&\3a&H00&\r\t(1860,2235,\y120)\t(2235,2610,\y100)}ress!
-Dialogue: 2,0:22:32.03,0:22:33.33,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,160,\y120)\t(160,340,\y100)}(Well {\r\t(340,450,\y120)\t(450,560,\y100)}now, {\r\t(560,640,\y120)\t(640,720,\y100)}go {\r\t(720,1005,\y120)\t(1005,1290,\y100)}on~)
-Dialogue: 2,0:22:32.78,0:22:35.45,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,180,\y120)\t(180,360,\y100)}My {\r\t(360,515,\y120)\t(515,670,\y100)}pal's {\r\t(670,760,\y120)\t(760,850,\y100)}re{\r\t(850,1000,\y120)\t(1000,1150,\y100)}wired, {\3c&H000000&\3a&H00&\r\t(1150,1400,\y120)\t(1400,1650,\y100)}oh-{\r\t(1650,1815,\y120)\t(1815,1980,\y100)}ho {\r\t(1980,2330,\y120)\t(2330,2680,\y100)}yes!
-Dialogue: 2,0:22:34.58,0:22:35.95,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,235,\y120)\t(235,470,\y100)}(Snick{\r\t(470,540,\y120)\t(540,610,\y100)}er, {\r\t(610,700,\y120)\t(700,790,\y100)}snick{\r\t(790,1080,\y120)\t(1080,1370,\y100)}er!)
-Dialogue: 2,0:22:35.45,0:22:38.21,ED2,,0,0,0,,{\1c&H000000&\1a&H00&\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,295,\y120)\t(295,590,\y100)}Let's {\r\t(590,755,\y120)\t(755,920,\y100)}par{\r\t(920,1020,\y120)\t(1020,1120,\y100)}ty {\r\t(1120,1245,\y120)\t(1245,1370,\y100)}woo-{\3c&H000000&\3a&H00&\r\t(1370,1660,\y120)\t(1660,1950,\y100)}hoo, {\r\t(1950,2105,\y120)\t(2105,2260,\y100)}yay, {\r\t(2260,2380,\y120)\t(2380,2500,\y100)}yay,{\r\t(2500,2620,\y120)\t(2620,2740,\y100)} yay!
-Dialogue: 2,0:22:38.21,0:22:40.79,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,140,\y120)\t(140,280,\y100)}(Ain't {\r\t(280,375,\y120)\t(375,470,\y100)}that {\r\t(470,595,\y120)\t(595,720,\y100)}a {\r\t(720,825,\y120)\t(825,930,\y100)}black {\3c&H000000&\3a&H00&\r\t(930,1035,\y120)\t(1035,1140,\y100)}sheep {\r\t(1140,1260,\y120)\t(1260,1380,\y100)}with{\r\t(1380,1490,\y120)\t(1490,1600,\y100)}in {\r\t(1600,1685,\y120)\t(1685,1770,\y100)}the {\3c&H000000&\3a&H00&\r\t(1770,1925,\y120)\t(1925,2080,\y100)}girls' {\r\t(2080,2200,\y120)\t(2200,2320,\y100)}gar{\r\t(2320,2455,\y120)\t(2455,2590,\y100)}den!?)
-Dialogue: 2,0:22:40.79,0:22:43.59,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,80,\y120)\t(80,160,\y100)}Ad{\r\t(160,290,\y120)\t(290,420,\y100)}ven{\r\t(420,610,\y120)\t(610,800,\y100)}ture {\r\t(800,890,\y120)\t(890,980,\y100)}and {\3c&H000000&\3a&H00&\r\t(980,1145,\y120)\t(1145,1310,\y100)}yu{\r\t(1310,1395,\y120)\t(1395,1480,\y100)}ri {\r\t(1480,1550,\y120)\t(1550,1620,\y100)}yu{\r\t(1620,1680,\y120)\t(1680,1740,\y100)}ri {\3c&H000000&\3a&H00&\r\t(1740,1850,\y120)\t(1850,1960,\y100)}bloom{\r\t(1960,2035,\y120)\t(2035,2110,\y100)}in' {\r\t(2110,2190,\y120)\t(2190,2270,\y100)}all {\r\t(2270,2535,\y120)\t(2535,2800,\y100)}night!
-Dialogue: 2,0:22:43.59,0:22:45.46,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,125,\y120)\t(125,250,\y100)}(E{\r\t(250,375,\y120)\t(375,500,\y100)}mo{\r\t(500,630,\y120)\t(630,760,\y100)}tions {\r\t(760,945,\y120)\t(945,1130,\y100)}all {\3c&H000000&\3a&H00&\r\t(1130,1270,\y120)\t(1270,1410,\y100)}mixed {\r\t(1410,1530,\y120)\t(1530,1650,\y100)}up!)
-Dialogue: 2,0:22:45.46,0:22:48.17,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,120,\y120)\t(120,240,\y100)}O-{\r\t(240,315,\y120)\t(315,390,\y100)}K, {\r\t(390,520,\y120)\t(520,650,\y100)}1•{\r\t(650,845,\y120)\t(845,1040,\y100)}2•{\3c&H000000&\3a&H00&\r\t(1040,1210,\y120)\t(1210,1380,\y100)}3's {\r\t(1380,1530,\y120)\t(1530,1680,\y100)}our {\r\t(1680,2020,\y120)\t(2020,2360,\y100)}cue, {\r\t(2360,2495,\y120)\t(2495,2730,\y100)}hey~
-Dialogue: 1,0:22:48.17,0:22:51.01,ED,,0,0,0,,{\1c&H000000&\1a&H00&\3c&H000000&\3a&H00&\an1\r\t(0,155,\y120)\t(155,310,\y100)}We've {\r\t(310,465,\y120)\t(465,620,\y100)}passed {\r\t(620,790,\y120)\t(790,960,\y100)}the {\r\t(960,1120,\y120)\t(1120,1280,\y100)}♂gen{\3c&H000000&\3a&H00&\r\t(1280,1440,\y120)\t(1440,1600,\y100)}der♀ {\r\t(1600,1855,\y120)\t(1855,2110,\y100)}bor{\r\t(2110,2190,\y120)\t(2190,2270,\y100)}der{\r\t(2270,2380,\y120)\t(2380,2690,\y100)}line!
-Dialogue: 2,0:22:51.01,0:22:53.35,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,180,\y120)\t(180,360,\y100)}Ba-{\r\t(360,560,\y120)\t(560,760,\y100)}dump {\r\t(760,905,\y120)\t(905,1050,\y100)}ba-{\r\t(1050,1170,\y120)\t(1170,1290,\y100)}dump, {\3c&H000000&\3a&H00&\r\t(1290,1585,\y120)\t(1585,1880,\y100)}to {\r\t(1880,1960,\y120)\t(1960,2040,\y100)}the {\r\t(2040,2190,\y120)\t(2190,2340,\y100)}you
-Dialogue: 2,0:22:53.35,0:22:56.06,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,105,\y120)\t(105,210,\y100)}ven{\r\t(210,280,\y120)\t(280,350,\y100)}tur{\r\t(350,615,\y120)\t(615,880,\y100)}ing {\r\t(880,1185,\y120)\t(1185,1490,\y100)}to {\3c&H000000&\3a&H00&\r\t(1490,1580,\y120)\t(1580,1670,\y100)}a {\r\t(1670,1995,\y120)\t(1995,2320,\y100)}new {\r\t(2320,2515,\y120)\t(2515,2710,\y100)}world:
-Dialogue: 2,0:22:56.06,0:22:58.94,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(0,1100)\r\t(0,385,\y120)\t(385,770,\y100)}Here {\r\t(770,855,\t(770,905,\y120)\t(905,1040,\y100)}we {\r\t(940,1255,\y120)\t(1255,2570,\y100)}goooo!
-Dialogue: 2,0:22:56.14,0:22:57.06,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(One!)
-Dialogue: 2,0:22:57.39,0:22:58.23,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(Two!)
-Dialogue: 2,0:22:58.89,0:22:59.48,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(Three!)
-Dialogue: 2,0:22:59.14,0:23:00.48,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,205,\y120)\t(205,410,\y100)}(Go {\r\t(410,530,\y120)\t(530,650,\y100)}Be{\r\t(650,775,\y120)\t(775,900,\y100)}yond {\r\t(900,1090,\y120)\t(1090,1280,\y100)}World!)
-Dialogue: 0,0:23:00.44,0:23:02.31,ED Extra,,0,0,0,,{\fad(200,700)}(Woooo!)
-Dialogue: 0,0:23:02.31,0:23:03.06,ED Extra,,0,0,0,,{\fad(200,200)}(W-woo!)
-Dialogue: 0,0:23:03.61,0:23:04.36,ED Extra,,0,0,0,,{\fad(200,200)}(W-woo!)
-Dialogue: 0,0:23:05.32,0:23:06.94,ED,,0,0,20,,{\3c&H000000&\3a&H00&\pos(1860,90),\fad(200,200)\r\t(0,495,\y120)\t(495,990,\y100)}(Wooooo, {\r\t(990,1090,\y120)\t(1090,1190,\y100)}yeah {\r\t(1190,1405,\y120)\t(1405,1620,\y100)}yeah!)
-Dialogue: 2,0:23:00.90,0:23:04.02,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,175,\y120)\t(175,350,\y100)}W-{\r\t(350,440,\y120)\t(440,530,\y100)}w-{\r\t(530,610,\y120)\t(610,690,\y100)}w-{\r\t(690,870,\y120)\t(870,1050,\y100)}well, {\3c&H000000&\3a&H00&\r\t(1050,1210,\y120)\t(1210,1370,\y100)}what{\r\t(1370,1605,\y120)\t(1605,1840,\y100)}ever! {\r\t(1840,2080,\y120)\t(2080,2320,\y100)}That's {\r\t(2320,2500,\y120)\t(2500,2680,\y100)}just {\3c&H000000&\3a&H00&\r\t(2680,2905,\y120)\t(2905,3130,\y100)}fine!
-Dialogue: 2,0:23:04.02,0:23:06.61,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,265,\y120)\t(265,530,\y100)}You {\r\t(530,865,\y120)\t(865,1200,\y100)}win! {\r\t(1200,1510,\y120)\t(1510,1820,\y100)}I {\r\t(1820,1995,\y120)\t(1995,2170,\y100)}give {\3c&H000000&\3a&H00&\r\t(2170,2390,\y120)\t(2390,2610,\y100)}up!
-Dialogue: 2,0:23:06.61,0:23:08.99,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,170,\y120)\t(170,340,\y100)}A {\r\t(340,505,\y120)\t(505,670,\y100)}girl's {\r\t(670,840,\y120)\t(840,1010,\y100)}it{\r\t(1010,1100,\y120)\t(1100,1190,\y100)}ty {\3c&H000000&\3a&H00&\r\t(1190,1260,\y120)\t(1260,1330,\y100)}bo{\r\t(1330,1420,\y120)\t(1420,1510,\y100)}dy {\r\t(1510,1590,\y120)\t(1590,1670,\y100)}holds {\r\t(1670,1760,\y120)\t(1760,1850,\y100)}oh {\3c&H000000&\3a&H00&\r\t(1850,1935,\y120)\t(1935,2020,\y100)}so {\r\t(2020,2180,\y120)\t(2180,2340,\y100)}many
-Dialogue: 0,0:23:09.57,0:23:11.87,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,90),\fad(200,600)\r\t(0,435,\y120)\t(435,870,\y100)}(Yeah! {\r\t(870,1000,\y120)\t(1000,1130,\y100)}Yeah! {\r\t(1130,1710,\y120)\t(1710,2290,\y100)}Wooo!)
-Dialogue: 2,0:23:08.99,0:23:11.87,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,240,\y120)\t(240,480,\y100)}BIG {\r\t(480,765,\y120)\t(765,1050,\y100)}ol' {\r\t(1050,1255,\y120)\t(1255,1460,\y100)}se{\r\t(1460,1610,\y120)\t(1610,1760,\y100)}crets {\3c&H000000&\3a&H00&\r\t(1760,2015,\y120)\t(2015,2270,\y100)}yes {\r\t(2270,2375,\y120)\t(2375,2480,\y100)}in{\r\t(2480,2685,\y120)\t(2685,2890,\y100)}deed!
-Dialogue: 0,0:23:12.82,0:23:13.49,ED Extra,,0,0,0,,({\fad(200,200)}W-woo!)
-Dialogue: 0,0:23:14.20,0:23:14.78,ED Extra,,0,0,0,,({\fad(200,200)}W-woo!)
-Dialogue: 0,0:23:15.99,0:23:17.50,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200),\pos(550,120)\r\t(0,340,\y120)\t(340,680,\y100)}(Woooooo, {\r\t(680,820,\y120)\t(820,960,\y100)}yeah {\r\t(960,1230,\y120)\t(1230,1500,\y100)}yeah!)
-Dialogue: 2,0:23:11.87,0:23:14.53,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,255,\y120)\t(255,510,\y100)}All {\r\t(510,695,\y120)\t(695,880,\y100)}one's {\r\t(880,1090,\y120)\t(1090,1300,\y100)}might! {\r\t(1300,1580,\y120)\t(1580,1860,\y100)}Here's {\3c&H000000&\3a&H00&\r\t(1860,2025,\y120)\t(2025,2190,\y100)}some {\r\t(2190,2435,\y120)\t(2435,2680,\y100)}fight!
-Dialogue: 2,0:23:14.53,0:23:17.33,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,215,\y120)\t(215,430,\y100)}Why, {\r\t(430,620,\y120)\t(620,810,\y100)}we {\r\t(810,970,\y120)\t(970,1130,\y100)}may {\r\t(1130,1220,\y120)\t(1220,1310,\y100)}have {\3c&H000000&\3a&H00&\r\t(1310,1560,\y120)\t(1560,1810,\y100)}quuuite {\r\t(1810,1975,\y120)\t(1975,2140,\y100)}the {\r\t(2140,2365,\y120)\t(2365,2790,\y100)}slight?
-Dialogue: 2,0:23:17.33,0:23:24.17,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,245,\y120)\t(245,490,\y100)}They {\r\t(490,645,\y120)\t(645,800,\y100)}say {\r\t(800,1055,\y120)\t(1055,1310,\y100)}girl {\r\t(1310,1400,\y120)\t(1400,1490,\y100)}po{\3c&H000000&\3a&H00&\r\t(1490,1645,\y120)\t(1645,1800,\y100)}wer, {\r\t(1800,1975,\y120)\t(1975,2150,\y100)}hey, {\r\t(2150,2385,\y120)\t(2385,2620,\y100)}is {\r\t(2620,2780,\y120)\t(2780,2940,\y100)}what {\3c&H000000&\3a&H00&\r\t(2940,3110,\y120)\t(3110,3280,\y100)}makes {\r\t(3280,3425,\y120)\t(3425,3570,\y100)}the {\r\t(3570,4045,\y120)\t(4045,4520,\y100)}world {\r\t(4520,4885,\y120)\t(4885,5250,\y100)}go {\3c&H000000&\3a&H00&\r\t(5250,6045,\y120)\t(6045,6840,\y100)}'rooound!
-Dialogue: 0,0:23:20.29,0:23:22.29,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(630,120),\fad(200,200)\r\t(0,305,\y120)\t(305,610,\y100)}(Yeah! {\r\t(610,785,\y120)\t(785,960,\y100)}Yeah! {\r\t(960,1480,\y120)\t(1480,2000,\y100)}Yaaaaaay!)
-Dialogue: 0,0:23:22.54,0:23:25.17,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,115)\fad(200,200)\r\t(0,440,\y120)\t(440,880,\y100)}(Nananana, {\r\t(880,1195,\y120)\t(1195,1510,\y100)}nanana, {\r\t(1510,2070,\y120)\t(2070,2630,\y100)}nanana~)
-Dialogue: 0,0:23:26.80,0:23:27.80,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(460,100),\fad(200,200)\r\t(0,150,\y120)\t(150,300,\y100)}(Yeah {\r\t(300,460,\y120)\t(460,620,\y100)}yeah {\r\t(620,810,\y120)\t(810,1000,\y100)}yeah!)
-Dialogue: 0,0:23:27.80,0:23:30.09,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(770,100),\fad(200,200)\r\t(0,420,\y120)\t(420,840,\y100)}(Nananana, {\r\t(840,1175,\y120)\t(1175,1510,\y100)}nanana, {\r\t(1510,1675,\y120)\t(1675,1840,\y100)}nanana~)
-Dialogue: 2,0:23:29.63,0:23:32.51,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,235,\y120)\t(235,470,\y100)}To {\r\t(470,555,\y120)\t(555,640,\y100)}my {\r\t(640,720,\y120)\t(720,800,\y100)}nigh {\r\t(800,970,\y120)\t(970,1140,\y100)}Iden{\3c&H000000&\3a&H00&\r\t(1140,1300,\y120)\t(1300,1460,\y100)}ti{\r\t(1460,1700,\y120)\t(1700,1940,\y100)}ty {\r\t(1940,2200,\y120)\t(2200,2460,\y100)}Cry-{\r\t(2460,2665,\y120)\t(2665,2870,\y100)}sis:{\(Oof!)}
-Dialogue: 2,0:23:32.51,0:23:34.35,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,110,\y120)\t(110,220,\y100)}I'll {\r\t(220,315,\y120)\t(315,410,\y100)}see {\r\t(410,570,\y120)\t(570,730,\y100)}you {\r\t(730,810,\y120)\t(810,890,\y100)}again, {\3c&H000000&\3a&H00&\r\t(890,1050,\y120)\t(1050,1210,\y100)}some {\r\t(1210,1355,\y120)\t(1355,1820,\y100)}day!
+Dialogue: 0,0:00:06.39,0:00:08.67,*Default,Mahiro,0,0,0,,Bathroom, bathroom!
+Dialogue: 0,0:00:11.85,0:00:12.64,Default,Kaede,0,0,0,,Huh?
+Dialogue: 0,0:00:33.02,0:00:36.54,*Default,Kaede,0,0,0,,You... saw... didn't you?!
+Dialogue: 0,0:00:38.03,0:00:38.08,OP,,0000,0000,0000,,{\OP}
+Dialogue: 0,0:00:42.45,0:00:43.27,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Woo-HOO!)
+Dialogue: 0,0:00:43.27,0:00:44.85,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,145,\t(145,290,}It's {\r\t(290,470,\t(470,650,}there? {\3c&H000000&\3a&H00&\r\t(650,800,\t(800,980,}It's {\r\t(840,1210,\t(1210,1580,}gone?!
+Dialogue: 0,0:00:44.16,0:00:44.85,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's gone?!)
+Dialogue: 0,0:00:44.85,0:00:46.37,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}Ab{\r\t(240,425,\t(425,610,}sent? {\3c&H000000&\3a&H00&\r\t(610,730,\t(730,850,}Pre{\r\t(850,1185,\t(1185,1520,}sent!
+Dialogue: 0,0:00:45.61,0:00:46.37,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Present!)
+Dialogue: 0,0:00:46.37,0:00:47.55,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}Af{\r\t(240,400,\t(400,560,}fixed, {\3c&H000000&\3a&H00&\r\t(560,680,\t(680,800,}Guess {\r\t(800,885,\t(885,970,}I'm {\3c&H000000&\3a&H00&\r\t(970,1050,\t(1050,1180,}fixed?
+Dialogue: 0,0:00:47.55,0:00:49.51,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,130,\t(130,260,}Huh? {\r\t(260,350,\t(350,440,}Which {\3c&H000000&\3a&H00&\r\t(440,540,\t(540,640,}one {\r\t(640,740,\t(740,840,}is {\3c&H000000&\3a&H00&\r\t(840,930,\t(930,1020,}it?! {\r\t(1020,1180,\t(1180,1340,}Trance, {\3c&H000000&\3a&H00&\r\t(1340,1490,\t(1490,1640,}trance, {\r\t(1640,1800,\t(1800,1960,}trance!
+Dialogue: 0,0:00:49.51,0:00:51.04,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,125,\t(125,250,}It's {\r\t(250,450,\t(450,650,}dair? {\3c&H000000&\3a&H00&\r\t(650,780,\t(780,920,}It's {\r\t(800,985,\t(985,1530,}nought!
+Dialogue: 0,0:00:50.16,0:00:50.65,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's nought!)
+Dialogue: 0,0:00:50.64,0:00:51.72,Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
+Dialogue: 0,0:00:51.04,0:00:52.59,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,85,\t(85,170,}Ab{\r\t(170,365,\t(365,560,}SENT? {\3c&H000000&\3a&H00&\r\t(560,700,\t(700,840,}pRE:{\r\t(840,1055,\t(1055,1550,}sent!
+Dialogue: 0,0:00:51.73,0:00:52.23,OP Extra,,0000,0000,0000,,{\fad(200,200)}(pRE:sent!)
+Dialogue: 0,0:00:52.22,0:00:53.35,Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
+Dialogue: 0,0:00:52.59,0:00:55.30,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,120,\t(120,240,}The {\r\t(240,390,\t(390,540,}Why {\3c&H000000&\3a&H00&\r\t(540,730,\t(730,920,}of {\r\t(920,985,\t(1045,1270,}[I], {\3c&H000000&\3a&H00&\r\t(1170,1400,\t(2000,2210,}e{\r\t(1380,1765,\t(2000,2210,}rodes!
+Dialogue: 0,0:00:55.52,0:00:58.65,Default,,0000,0000,0000,,{\b1\fnHappy Sans\fs90\1c&HFAFBF6&\1a&H00&\3c&HC272DD&\3a&H00&\an8\bord9\shad0\blur15\frz21.99\pos(1110,290)}Mahiro Oyama
+Dialogue: 0,0:00:55.67,0:00:58.68,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,140,\t(140,280,}Fare{\r\t(280,370,\t(370,460,}well {\3c&H000000&\3a&H00&\r\t(460,525,\t(525,590,}to {\r\t(590,770,\t(770,950,}UV {\3c&H000000&\3a&H00&\r\t(950,1045,\t(1045,1140,}light, {\r\t(1140,1250,\t(1250,1360,}indoor {\3c&H000000&\3a&H00&\r\t(1360,1580,\t(1580,1800,}guard {\r\t(1800,1995,\t(1995,2190,}at {\3c&H000000&\3a&H00&\r\t(2190,2370,\t(2370,2550,}the {\r\t(2550,2685,\t(2685,2820,}rea{\3c&H000000&\3a&H00&\r\t(2820,2915,\t(3010,3010,}dy!
+Dialogue: 0,0:00:58.68,0:01:01.60,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}Bye-{\r\t(310,535,\t(535,760,}bye, {\3c&H000000&\3a&H00&\r\t(760,890,\t(890,1020,}al{\r\t(1020,1220,\t(1220,1420,}right! {\3c&H000000&\3a&H00&\r\t(1420,1535,\t(1535,1650,}Best {\r\t(1650,1770,\t(1770,1890,}to {\3c&H000000&\3a&H00&\r\t(1890,1995,\t(1995,2100,}stay {\r\t(2100,2255,\t(2255,2410,}inside {\3c&H000000&\3a&H00&\r\t(2410,2550,\t(2550,2690,}all {\r\t(2690,2805,\t(2805,2920,}day!
+Dialogue: 0,0:01:01.60,0:01:04.89,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,245,\t(245,490,}That{\r\t(490,595,\t(595,700,} will {\3c&H000000&\3a&H00&\r\t(700,800,\t(800,900,}of {\r\t(900,1005,\t(1005,1110,}mine's {\3c&H000000&\3a&H00&\r\t(1110,1175,\t(1175,1240,}up {\r\t(1240,1325,\t(1325,1410,}and {\3c&H000000&\3a&H00&\r\t(1410,1550,\t(1550,1690,}done {\r\t(1690,2035,\t(2035,2380,}willed {\3c&H000000&\3a&H00&\r\t(2380,2580,\t(2580,2780,}it{\r\t(2780,2935,\t(2935,3090,}self{\3c&H000000&\3a&H00&\r\t(3090,3190,\t(3190,3290,} away!
+Dialogue: 0,0:01:01.82,0:01:04.86,Default,,0000,0000,0000,,{\b1\fnHappy Sans\fs90\1c&HFAFBF6&\1a&H00&\3c&HC673A4&\3a&H00&\an8\bord9\shad0\blur15\pos(279,325)\frz24.02}Mihari Oyama
+Dialogue: 0,0:01:04.89,0:01:07.86,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,150,\t(150,300,}Fight, {\r\t(300,490,\t(490,680,}flight, {\3c&H000000&\3a&H00&\r\t(680,790,\t(790,900,}out {\r\t(900,980,\t(980,1060,}like a {\3c&H000000&\3a&H00&\r\t(1060,1220,\t(1220,1380,}light! {\r\t(1380,1520,\t(1520,1660,}Back {\3c&H000000&\3a&H00&\r\t(1660,1750,\t(1750,1840,}to {\r\t(1840,1955,\t(1955,2070,}my {\3c&H000000&\3a&H00&\r\t(2070,2250,\t(2250,2430,}home {\r\t(2430,2550,\t(2550,2670,}I {\3c&H000000&\3a&H00&\r\t(2670,2820,\t(2820,2970,}go!
+Dialogue: 0,0:01:07.86,0:01:10.38,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,370,\t(370,740,}Aah, {\r\t(740,875,\t(875,1010,}a {\3c&H000000&\3a&H00&\r\t(1010,1095,\t(1095,1180,}world {\r\t(1180,1310,\t(1310,1440,}un{\3c&H000000&\3a&H00&\r\t(1440,1980,\t(1980,2520,}known,
+Dialogue: 0,0:01:10.38,0:01:13.58,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,135,\t(135,270,}it {\r\t(270,470,\t(470,670,}met {\3c&H000000&\3a&H00&\r\t(670,810,\t(810,950,}with {\r\t(950,1185,\t(1185,1420,}my {\3c&H000000&\3a&H00&\r\t(1420,1620,\t(1620,1820,}gaze {\r\t(1820,2005,\t(2005,2190,}and {\3c&H000000&\3a&H00&\r\t(2190,2350,\t(2350,2510,}flashed {\r\t(2510,2645,\t(2645,2780,}a {\3c&H000000&\3a&H00&\r\t(2780,2925,\t(2925,3200,}smile
+Dialogue: 0,0:01:13.58,0:01:19.01,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,190,\t(190,380,}It {\r\t(380,470,\t(470,560,}pulls {\3c&H000000&\3a&H00&\r\t(560,750,\t(750,940,}me {\r\t(940,1335,\t(1335,1730,}in, {\3c&H000000&\3a&H00&\r\t(1730,1925,\t(1925,2120,}this {\r\t(2120,2255,\t(2255,2390,}may {\3c&H000000&\3a&H00&\r\t(2390,2610,\t(2610,2830,}just {\r\t(2830,2990,\t(2990,3150,}be {\3c&H000000&\3a&H00&\r\t(3150,3395,\t(3395,3640,}worth{\r\t(3640,3825,\t(3825,4010,} my {\3c&H000000&\3a&H00&\r\t(4010,4550,\t(4130,5830,}whiiile
+Dialogue: 0,0:01:20.22,0:01:22.72,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,345,\t(345,690,}Hey, {\r\t(690,980,\t(980,1270,}check {\3c&H000000&\3a&H00&\r\t(1270,1400,\t(1400,1640,}it {\r\t(1440,1970,\t(1970,2500,}out,
+Dialogue: 0,0:01:22.72,0:01:26.17,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}this {\r\t(310,405,\t(405,500,}wa{\3c&H000000&\3a&H00&\r\t(500,600,\t(600,700,}ter's {\r\t(700,840,\t(840,980,}as {\3c&H000000&\3a&H00&\r\t(980,1430,\t(1430,1880,}sweet {\r\t(1880,2070,\t(2070,2260,}as {\3c&H000000&\3a&H00&\r\t(2260,2405,\t(2405,2550,}pa{\r\t(2550,2690,\t(2690,2830,}ra{\3c&H000000&\3a&H00&\r\t(2830,3140,\t(3140,3450,}dise!
+Dialogue: 0,0:01:26.17,0:01:29.50,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,205,\t(205,410,}Fash{\r\t(410,540,\t(540,670,}ion, {\3c&H000000&\3a&H00&\r\t(670,780,\t(780,890,}to {\r\t(890,1200,\t(1200,1660,}make-up, {\3c&H000000&\3a&H00&\r\t(1660,1965,\t(1965,2270,}hairstyles {\r\t(2270,2420,\t(2420,2500,}et {\3c&H000000&\3a&H00&\r\t(2600,2750,\t(2950,3330,}al,
+Dialogue: 0,0:01:29.50,0:01:34.60,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,155,\t(155,310,}With{\r\t(310,415,\t(415,520,}in {\r\t(520,615,\t(615,710,}the {\r\t(710,805,\t(805,900,}gar{\3c&H000000&\3a&H00&\r\t(900,990,\t(990,1080,}den {\r\t(1080,1175,\t(1175,1270,}of {\r\t(1270,1370,\t(1370,1470,}mai{\r\t(1470,1775,\t(1775,2080,}dens, {\3c&H000000&\3a&H00&\r\t(2080,2350,\t(2350,2620,}danc{\r\t(2620,2730,\t(2730,2840,}ing {\r\t(2840,2930,\t(2930,3020,}takes {\r\t(3020,3260,\t(4060,5100,}bloom!
+Dialogue: 0,0:01:35.30,0:01:38.81,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,135,\t(135,270,}Wha, {\r\t(270,400,\t(400,530,}ma{\3c&H000000&\3a&H00&\r\t(530,770,\t(770,1010,}dame? {\r\t(1010,1130,\t(1130,1250,}Who's {\3c&H000000&\3a&H00&\r\t(1250,1455,\t(1455,1660,}that? {\r\t(1660,1885,\t(1885,2110,}Guy's {\3c&H000000&\3a&H00&\r\t(2110,2240,\t(2240,2370,}the {\r\t(2370,2515,\t(2515,2660,}I, {\3c&H000000&\3a&H00&\r\t(2660,2750,\t(2750,2840,}no {\r\t(2840,3075,\t(3175,3510,}lie!
+Dialogue: 0,0:01:36.09,0:01:36.84,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Who!)
+Dialogue: 0,0:01:36.89,0:01:37.55,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Are!)
+Dialogue: 0,0:01:38.25,0:01:38.81,OP Extra,,0000,0000,0000,,{\fad(200,0)}(It's me!)
+Dialogue: 0,0:01:38.81,0:01:42.18,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,150,\t(150,300,}I {\r\t(300,380,\t(380,460,}don't {\3c&H000000&\3a&H00&\r\t(460,660,\t(660,860,}know {\r\t(860,930,\t(930,1000,}what's {\3c&H000000&\3a&H00&\r\t(1000,1105,\t(1105,1210,}hap{\r\t(1210,1325,\t(1325,1440,}pen{\3c&H000000&\3a&H00&\r\t(1440,1600,\t(1600,1760,}ing, {\r\t(1760,1870,\t(1870,1980,}my {\3c&H000000&\3a&H00&\r\t(1980,2120,\t(2120,2260,}fra{\r\t(2260,2345,\t(2345,2430,}gile {\3c&H000000&\3a&H00&\r\t(2430,2620,\t(2620,2810,}iden{\r\t(2810,2920,\t(2920,3030,}ti{\3c&H000000&\3a&H00&\r\t(3030,3200,\t(3200,3370,}ty
+Dialogue: 0,0:01:38.81,0:01:42.18,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}I don't know what's happening, my fragile identity
+Dialogue: 0,0:01:38.81,0:01:42.18,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}I don't know what's happening, my fragile identity
+Dialogue: 0,0:01:42.18,0:01:44.95,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,70,\t(70,140,}Be{\r\t(140,250,\t(250,360,}gins {\3c&H000000&\3a&H00&\r\t(360,475,\t(475,590,}anew {\r\t(590,695,\t(695,800,}right {\3c&H000000&\3a&H00&\r\t(800,980,\t(980,1160,}now, {\r\t(1160,1235,\t(1235,1310,}a {\3c&H000000&\3a&H00&\r\t(1310,1540,\t(1540,1770,}sense {\r\t(1770,1935,\t(1935,2100,}of {\3c&H000000&\3a&H00&\r\t(2100,2225,\t(2225,2350,}won{\r\t(2350,2460,\t(2460,2770,}der!
+Dialogue: 0,0:01:42.18,0:01:44.56,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}Begins anew right now, a sense of wonder!
+Dialogue: 0,0:01:42.18,0:01:44.56,OP,,0000,0000,0000,,{\1c&H000000&\1a&H00&\3c&HFFFFFF&\3a&H00&\r\t(0,0,\blur8}Begins anew right now, a sense of wonder!
+Dialogue: 0,0:01:44.45,0:01:44.95,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Woo-HOO!)
+Dialogue: 0,0:01:44.95,0:01:48.36,OP Thin,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,145,\t(145,290,}At {\r\t(290,400,\t(400,510,}this {\3c&H000000&\3a&H00&\r\t(510,680,\t(680,850,}rate, {\r\t(850,975,\t(975,1100,}may{\3c&H000000&\3a&H00&\r\t(1100,1210,\t(1210,1320,}be {\r\t(1320,1420,\t(1420,1520,}my {\3c&H000000&\3a&H00&\r\t(1520,1695,\t(1695,1870,}very {\r\t(1870,1975,\t(1975,2080,}psyche {\3c&H000000&\3a&H00&\r\t(2080,2190,\t(2190,2300,}will {\r\t(2300,2450,\t(2450,2600,}fade {\3c&H000000&\3a&H00&\r\t(2600,2745,\t(2745,2890,}and {\r\t(2890,3150,\t(3150,3410,}melt!{\3c&H000000&\3a&H00&\r\t(3410,3410,}
+Dialogue: 0,0:01:48.36,0:01:51.36,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,75,\t(75,150,}Now {\r\t(150,390,\t(390,630,}arise! {\3c&H000000&\3a&H00&\r\t(630,770,\t(770,910,}Heed {\r\t(910,970,\t(970,1030,}my {\3c&H000000&\3a&H00&\r\t(1030,1180,\t(1180,1330,}call! {\r\t(1330,1455,\t(1455,1580,}Go {\3c&H000000&\3a&H00&\r\t(1580,1680,\t(1680,1780,}forth, {\r\t(1780,1940,\t(1940,2130,}pillar {\3c&H000000&\3a&H00&\r\t(2130,2210,\t(2210,2490,}of {\r\t(2490,2645,\t(2745,3000,}self!
+Dialogue: 0,0:01:48.71,0:01:49.17,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Hey!)
+Dialogue: 0,0:01:49.54,0:01:49.88,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Hey!)
+Dialogue: 0,0:01:50.42,0:01:51.34,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Pillar of self!)
+Dialogue: 0,0:01:51.36,0:01:54.58,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,165,\t(165,330,}Let's {\r\t(330,405,\t(405,480,}edge {\3c&H000000&\3a&H00&\r\t(480,570,\t(570,660,}our {\r\t(660,800,\t(800,940,}best, {\3c&H000000&\3a&H00&\r\t(940,1110,\t(1110,1280,}so {\r\t(1280,1390,\t(1390,1500,}we {\3c&H000000&\3a&H00&\r\t(1500,1620,\t(1620,1740,}can {\r\t(1740,1885,\t(1885,2030,}see {\3c&H000000&\3a&H00&\r\t(2030,2120,\t(2120,2210,}a {\r\t(2210,2370,\t(2370,2530,}hap{\3c&H000000&\3a&H00&\r\t(2530,2745,\t(2745,2960,}py {\r\t(2960,3090,\t(3090,3220,}end!
+Dialogue: 0,0:01:54.58,0:01:56.08,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,115,\t(115,230,}It's {\r\t(230,375,\t(375,520,}there? {\3c&H000000&\3a&H00&\r\t(520,615,\t(615,710,}It's {\r\t(710,1105,\t(1105,1500,}gone?!
+Dialogue: 0,0:01:55.26,0:01:55.71,OP Extra,,0000,0000,0000,,{\fad(200,200)}(It's gone?!)
+Dialogue: 0,0:01:56.08,0:01:57.41,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,90,\t(90,180,}Ab{\r\t(180,365,\t(365,550,}sent? {\3c&H000000&\3a&H00&\r\t(550,695,\t(695,840,}Pre{\r\t(840,985,\t(985,1330,}sent!
+Dialogue: 0,0:01:56.76,0:01:57.38,OP Extra,,0000,0000,0000,,{\fad(200,200)}(Present!)
+Dialogue: 0,0:01:57.41,0:01:58.78,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,235,\t(235,470,}Af{\r\t(470,630,\t(630,790,}fixed, {\3c&H000000&\3a&H00&\r\t(790,915,\t(915,1040,}guess {\r\t(1040,1095,\t(1095,1150,}I'm {\3c&H000000&\3a&H00&\r\t(1150,1260,\t(1260,1370,}fixed?
+Dialogue: 0,0:01:58.78,0:02:00.73,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,130,\t(130,260,}Huh? {\r\t(260,350,\t(350,440,}Which {\r\t(440,530,\t(530,620,}one {\r\t(620,720,\t(720,820,}is {\r\t(820,925,\t(925,1030,}it?! {\r\t(1030,1185,\t(1185,1340,}Trance, {\r\t(1340,1480,\t(1480,1620,}trance, {\r\t(1620,1785,\t(1785,1950,}trance!
+Dialogue: 0,0:01:59.67,0:02:08.01,Default,,0000,0000,0000,,{\b1\fnKG Red Hands\fs90\1c&H9E93EE&\1a&H00&\3c&HF9F9F9&\3a&H00&\pos(940,110)\bord0\shad0}O{\1c&H61708F&\1a&H00&}N{\1c&H9E93EE&\1a&H00&}I{\1c&H61708F&\1a&H00&}M{\1c&H9E93EE&\1a&H00&}A{\1c&H61708F&\1a&H00&}I: O{\1c&HE6CE6F&\1a&H00&}nii-chan is Done {\1c&H9E93EE&\1a&H00&}For{\i1}!
+Dialogue: 0,0:02:00.73,0:02:02.25,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,115,\t(115,230,}It's {\r\t(230,375,\t(375,520,}dair? {\3c&H000000&\3a&H00&\r\t(520,640,\t(640,760,}It's {\r\t(760,990,\t(990,1520,}nought!
+Dialogue: 0,0:02:01.52,0:02:02.25,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(60,965)}(It's nought!)
+Dialogue: 0,0:02:02.25,0:02:03.81,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,95,\t(95,190,}Ab{\r\t(190,380,\t(380,570,}SENT? {\3c&H000000&\3a&H00&\r\t(570,720,\t(720,870,}pRE:{\r\t(870,1000,\t(1000,1560,}sent!
+Dialogue: 0,0:02:03.16,0:02:03.81,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(60,965)}(pRE:sent!)
+Dialogue: 0,0:02:03.81,0:02:07.39,OP,,0000,0000,0000,,{\3c&H000000&\3a&H00&\r\t(0,125,\t(125,250,}The {\r\t(250,405,\t(405,560,}Why {\3c&H000000&\3a&H00&\r\t(560,735,\t(735,910,}of {\r\t(910,1070,\t(1070,1230,}[I]{\3c&H000000&\3a&H00&\r\t(1230,1395,\t(1395,1560,}-den{\r\t(1560,1670,\t(1670,1780,}ti{\3c&H000000&\3a&H00&\r\t(1780,1870,\t(1870,1960,}ty, {\r\t(1960,2070,\t(2070,2180,}will {\3c&H000000&\3a&H00&\r\t(2180,2315,\t(2315,2450,}crum{\r\t(2450,2605,\t(2605,2760,}ble {\3c&H000000&\3a&H00&\r\t(2760,3170,\t(3170,3580,}forth!
+Dialogue: 0,0:02:08.47,0:02:13.43,Default,Episode Title,0,0,0,,{\b1\fs90\1c&H5F6690&\1a&H00&\3c&HE4E2F7&\3a&H00&\an3\fad(731,437)\bord4.5\shad0\pos(1821,915)}#03 {\1c&H9681DB&\1a&H00&}Mahiro{\1c&H5D5B71&\1a&H00&}'s {\1c&HD8BE6B&\1a&H00&}Close Encounter {\1c&H5D5B71&\1a&H00&}with the {\1c&H9681DB&\1a&H00&}Unknown
+Dialogue: 0,0:02:14.90,0:02:15.57,Default,Mihari,0,0,0,,There!
+Dialogue: 0,0:02:26.54,0:02:28.09,Default,Mihari,0,0,0,,What're you doing?
+Dialogue: 0,0:02:29.89,0:02:32.07,Default,Mahiro,0,0,0,,Save me, Mihari!
+Dialogue: 0,0:02:36.58,0:02:38.30,Default,Mihari,0,0,0,,So, uh...
+Dialogue: 0,0:02:38.30,0:02:41.65,Default,Mihari,0,0,0,,This is my classmate from \Nback in middle school...
+Dialogue: 0,0:02:42.08,0:02:45.18,Default,Kaede,0,0,0,,I'm Kaede~! Nice to meet you!
+Dialogue: 0,0:02:46.59,0:02:49.74,Italics,Mahiro,0,0,0,,She seems a little too flashy \Nto be one of Mihari's friends...
+Dialogue: 0,0:02:49.74,0:02:51.32,Italics,Mahiro,0,0,0,,Is she a gyaru?
+Dialogue: 0,0:02:51.32,0:02:55.03,Italics,Mahiro,0,0,0,,Ugh, this is a heck of a burden to\Nbear for a home security guard!
+Dialogue: 0,0:02:55.44,0:02:58.01,Italics,Mahiro,0,0,0,,If she were to find out my true identity...
+Dialogue: 0,0:02:58.47,0:03:00.33,Default,Kaede,0,0,0,,You peeping tom! Pervert!
+Dialogue: 0,0:03:00.33,0:03:02.78,Default,Kaede,0,0,0,,{\fad(1,234)}You cross-dressing living trash NEET!
+Dialogue: 0,0:03:03.26,0:03:06.25,Default - Top,Mahiro,0,0,0,,Ababababababa...
+Dialogue: 0,0:03:04.89,0:03:06.25,Default,Kaede,0,0,0,,What's your name?
+Dialogue: 0,0:03:06.98,0:03:09.95,Default,Mahiro,0,0,0,,M... Ma-Ma-Ma-Ma-Ma-Mahiro...
+Dialogue: 0,0:03:12.37,0:03:14.36,Default,Kaede,0,0,0,,So shy, how cute!
+Dialogue: 0,0:03:14.87,0:03:15.73,Default,Kaede,0,0,0,,Huh?
+Dialogue: 0,0:03:15.73,0:03:18.19,Default,Kaede,0,0,0,,But, you never told me you had \Na little sister, Mihari.
+Dialogue: 0,0:03:18.76,0:03:21.69,Default,Mihari,0,0,0,,Aah! Well, there were\Nsome various reasons...!
+Dialogue: 0,0:03:21.69,0:03:22.98,Default,Mahiro,0,0,0,,Mhmm, mhmm.
+Dialogue: 0,0:03:24.16,0:03:25.57,Default,Kaede,0,0,0,,Gotcha, gotcha.
+Dialogue: 0,0:03:28.86,0:03:29.83,Default,Mahiro,0,0,0,,Oh yeah!
+Dialogue: 0,0:03:29.83,0:03:33.29,Default,Mahiro,0,0,0,,Sorry, Kaede. Would you mind \Nplaying with her for a bit?
+Dialogue: 0,0:03:33.29,0:03:35.95,Default,Mahiro,0,0,0,,I still have some last touches to\Nput on a report for university.
+Dialogue: 0,0:03:35.95,0:03:36.63,Default,Mahiro,0,0,0,,Huh?
+Dialogue: 0,0:03:36.63,0:03:39.57,Default,Kaede,0,0,0,,Oh, getting into university \Nearly sounds rough.
+Dialogue: 0,0:03:39.57,0:03:42.66,Default,Kaede,0,0,0,,OK, OK! Leave it to the high\Nschooler with plenty of spare time!
+Dialogue: 0,0:03:42.66,0:03:44.13,Default,Mihari,0,0,0,,You're a big help!
+Dialogue: 0,0:03:47.88,0:03:51.20,Default,Mahiro,0,0,0,,W-wait, Mihariiiii...!
+Dialogue: 0,0:03:55.91,0:03:56.96,Default,Kaede,0,0,0,,So...
+Dialogue: 0,0:03:56.96,0:03:59.88,Default,Kaede,0,0,0,,What do you like to do in \Nyour free time, Mahiro-chan?
+Dialogue: 0,0:03:59.88,0:04:05.62,Default,Mahiro,0,0,0,,Eh! Reading... manga and such,\Nor... p-playing games and all.
+Dialogue: 0,0:04:05.62,0:04:08.43,Default,Kaede,0,0,0,,Games?! So do I!
+Dialogue: 0,0:04:13.11,0:04:15.43,Default,Kaede,0,0,0,,See? It's that puzzle \Ngame everyone's playing!
+Dialogue: 0,0:04:15.43,0:04:18.08,Default,Mahiro,0,0,0,,Oh... I don't play that one...
+Dialogue: 0,0:04:18.61,0:04:21.42,Default,Kaede,0,0,0,,Ah, you don't?
+Dialogue: 0,0:04:22.09,0:04:23.74,Default,Kaede,0,0,0,,I see, I see.
+Dialogue: 0,0:04:25.44,0:04:26.91,Default,Mahiro,0,0,0,,Jeez, I can't take any more...
+Dialogue: 0,0:04:27.72,0:04:28.48,Default,Kaede,0,0,0,,Oh?
+Dialogue: 0,0:04:32.13,0:04:34.28,Default,Kaede,0,0,0,,I guess it is about lunchtime, huh?
+Dialogue: 0,0:04:34.28,0:04:36.09,Default,Kaede,0,0,0,,Let's eat something together, shall we?
+Dialogue: 0,0:04:39.78,0:04:42.59,Default,Kaede,0,0,0,,I'll just whip whatever I can\Nup from your leftovers.
+Dialogue: 0,0:04:43.39,0:04:45.46,Default,Mahiro,0,0,0,,You're gonna cook?
+Dialogue: 0,0:04:45.46,0:04:47.76,Default,Kaede,0,0,0,,I've actually got a little sister, too.
+Dialogue: 0,0:04:49.00,0:04:50.89,Default,Kaede,0,0,0,,So I cook for her all the time.
+Dialogue: 0,0:04:52.04,0:04:53.96,Default,Kaede,0,0,0,,I'm the domestic type, you know?
+Dialogue: 0,0:04:57.29,0:04:59.96,Default,Kaede,0,0,0,,Mahiro-chan, do you cook?
+Dialogue: 0,0:04:59.96,0:05:01.61,Default,Mahiro,0,0,0,,I've never done it before.
+Dialogue: 0,0:05:01.61,0:05:03.84,Default,Kaede,0,0,0,,It's pretty easy! Keep a close eye.
+Dialogue: 0,0:05:43.26,0:05:45.19,Default,Kaede,0,0,0,,Let's eat!
+Dialogue: 0,0:05:45.19,0:05:46.14,Default,Mahiro,0,0,0,,...let's.
+Dialogue: 0,0:05:52.62,0:05:53.48,Default,Mahiro,0,0,0,,It's yummy!
+Dialogue: 0,0:05:53.48,0:05:56.34,Default,Kaede,0,0,0,,Really? I'm so glad!
+Dialogue: 0,0:06:04.58,0:06:06.45,Italics,Mahiro,0,0,0,,Somehow, I think...
+Dialogue: 0,0:06:06.45,0:06:09.35,Italics,Mahiro,0,0,0,,this might not be so bad.
+Dialogue: 0,0:06:13.03,0:06:15.16,Default,Kaede,0,0,0,,I'm so full...
+Dialogue: 0,0:06:15.16,0:06:16.13,Default,Mahiro,0,0,0,,Yeah...
+Dialogue: 0,0:06:16.99,0:06:20.27,Default,Kaede,0,0,0,,Let's take the rest up to\Nyour Onee-chan later, okay?
+Dialogue: 0,0:06:20.80,0:06:21.99,Default,Mahiro,0,0,0,,Sure.
+Dialogue: 0,0:06:23.50,0:06:28.46,Italics,Mahiro,0,0,0,,I thought a gyaru would be... \Na bit more wild than this.
+Dialogue: 0,0:06:30.82,0:06:32.89,Default,Kaede,0,0,0,,So, Mahiro-chan...
+Dialogue: 0,0:06:32.89,0:06:35.18,Default,Kaede,0,0,0,,You've never done it before, have you?
+Dialogue: 0,0:06:35.87,0:06:36.66,Default,Mahiro,0,0,0,,Mm?
+Dialogue: 0,0:06:38.09,0:06:41.56,Default,Kaede,0,0,0,,Let Onee-san show you the ropes...
+Dialogue: 0,0:06:41.82,0:06:44.50,Italics,Mahiro,0,0,0,,She IS a wild one after all!!
+Dialogue: 0,0:06:44.50,0:06:48.65,Default,Mahiro,0,0,0,,U-U-U-Uh! H-hold on! W-wait!
+Dialogue: 0,0:06:49.30,0:06:52.02,Default,Kaede,0,0,0,,There's nothing to be embarrassed about.
+Dialogue: 0,0:06:52.57,0:06:57.28,Default,Kaede,0,0,0,,Leave it to me. It'll all be fine, okay?
+Dialogue: 0,0:06:57.28,0:06:59.12,Default,Kaede,0,0,0,,Now, close your eyes...
+Dialogue: 0,0:06:59.12,0:07:00.93,Default,Mahiro,0,0,0,,I-I can't...!
+Dialogue: 0,0:07:01.87,0:07:03.60,Default,Mahiro,0,0,0,,Just stay calm...
+Dialogue: 0,0:07:05.49,0:07:08.02,Default,Mahiro,0,0,0,,I'm gonna go POOF!
+Dialogue: 0,0:07:12.07,0:07:14.44,Default,Kaede,0,0,0,,There! All done!
+Dialogue: 0,0:07:19.97,0:07:22.33,Default,Kaede,0,0,0,,See? You're even cuter now!
+Dialogue: 0,0:07:24.78,0:07:26.70,Italics,Mahiro,0,0,0,,She was talking about make-up?!
+Dialogue: 0,0:07:26.70,0:07:29.63,Default,Kaede,0,0,0,,Mihari's not as into this \Nstuff as I am, you know?
+Dialogue: 0,0:07:30.08,0:07:32.33,Default,Mihari,0,0,0,,Well, sorry for being so {\i1}ignorant.
+Dialogue: 0,0:07:35.71,0:07:39.58,Default,Mihari,0,0,0,,Even Kaede used to look like... this!
+Dialogue: 0,0:07:39.58,0:07:42.00,Default,Kaede,0,0,0,,Uahh! Not that!
+Dialogue: 0,0:07:42.00,0:07:45.54,Default,Mihari,0,0,0,,Your high school debut can't\Nhide the past, you traitor!
+Dialogue: 0,0:07:45.90,0:07:47.21,Default - Top,Kaede,0,0,0,,Delete it!
+Dialogue: 0,0:07:46.48,0:07:47.60,Default,Mihari,0,0,0,,Not a chance, not a chance!
+Dialogue: 0,0:07:47.60,0:07:49.46,Default,Mihari,0,0,0,,Oh, hang on!
+Dialogue: 0,0:07:49.46,0:07:51.81,Default,Mihari,0,0,0,,Next up, I could show you how\Nto coordinate an outfit, too!
+Dialogue: 0,0:07:51.81,0:07:53.60,Default,Mihari,0,0,0,,Can you let me see your room for a sec?
+Dialogue: 0,0:07:53.60,0:07:55.52,Default,Mahiro,0,0,0,,That's an absolute no-go!
+Dialogue: 0,0:07:57.74,0:07:59.95,Default,Kaede,0,0,0,,All right, I should head home.
+Dialogue: 0,0:08:00.30,0:08:02.39,Default,Kaede,0,0,0,,Bye-bye, Mahiro-chan.
+Dialogue: 0,0:08:02.39,0:08:04.15,Default,Kaede,0,0,0,,And thanks for having me, Mihari!
+Dialogue: 0,0:08:06.04,0:08:08.78,Default,Mihari,0,0,0,,Kaede's great with people, don't you think?
+Dialogue: 0,0:08:08.78,0:08:12.57,Default,Mihari,0,0,0,,I thought she'd be good socialization\Npractice for you, Onii-chan.
+Dialogue: 0,0:08:12.57,0:08:14.30,Default,Mahiro,0,0,0,,You've got some nerve...
+Dialogue: 0,0:08:15.62,0:08:19.03,Default,Mahiro,0,0,0,,But you're right,\NKaede-chan was pretty nice.
+Dialogue: 0,0:08:21.39,0:08:23.33,Default,Mahiro,0,0,0,,She's kinda like... I know.
+Dialogue: 0,0:08:23.33,0:08:24.41,Default,Mahiro,0,0,0,,An Onee-chan!
+Dialogue: 0,0:08:27.96,0:08:29.83,Default,Mahiro,0,0,0,,You could learn a lot from her, you know?
+Dialogue: 0,0:08:31.80,0:08:33.71,Default,Mahiro,0,0,0,,Mihari "Onee-chan".
+Dialogue: 0,0:08:36.06,0:08:36.90,Default,Mihari,0,0,0,,Eh?
+Dialogue: 0,0:08:39.86,0:08:41.65,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\blur0.6\pos(1445.71,710.29)\t(0,120,}O{\1c&H576A9A&\1a&H00&\t(122,242,}N{\t(245,365,}I{\1c&H576A9A&\1a&HFF&\t(367,487,}M{\t(490,610,}A{\1c&HA29BF2&\1a&H00&\t(613,733,}I
+Dialogue: 0,0:08:39.99,0:08:41.13,Italics,Kaede,0,0,0,,Onimai.
+Dialogue: 0,0:08:41.65,0:08:44.61,OKSigns,Sign,0,0,0,,{\b1\fnGeorgia\fs90\1c&H46423C&\1a&H00&\3c&HDFEBE2&\3a&H00&\an8\fad(569,1)\bord9\shad0\blur2}The Greatest Hit of the Century
+Dialogue: 0,0:08:42.63,0:08:44.62,Italics,Narrator,0,0,0,,{\pos(960,1044)}The greatest hit of the century!
+Dialogue: 0,0:08:53.67,0:08:54.91,Default,Leonardo,0,0,0,,{\pos(960,1044)}Wait for me!
+Dialogue: 0,0:08:56.87,0:08:59.80,Default,Leonardo,0,0,0,,{\pos(960,1044)}It feels like I've known you for years.
+Dialogue: 0,0:09:00.87,0:09:03.63,Italics,Narrator,0,0,0,,{\pos(960,1044)}But then fate tore them apart.
+Dialogue: 0,0:09:05.56,0:09:07.39,Default,Leonardo,0,0,0,,{\pos(960,1044)}I won't let you die here!
+Dialogue: 0,0:09:07.80,0:09:08.98,Default,Kate,0,0,0,,{\pos(960,1044)}Leonardo!
+Dialogue: 0,0:09:12.35,0:09:14.59,Default,Kate,0,0,0,,{\fad(1,89)\pos(960,1044)}Leonardo!
+Dialogue: 0,0:09:17.69,0:09:20.57,OKSigns,Sign,0,0,0,,{\fnPrototype\fs90\1c&HE3CEC5&\1a&H00&\3c&HCD935C&\3a&H00&\an8\fax-0.2\bord9\shad0\blur6\30\fad(606,1)\t(1,2859,1\15)}Space Titanic
+Dialogue: 0,0:09:18.74,0:09:20.56,Italics,Narrator,0,0,0,,{\pos(960,1044)}Space Titanic
+Dialogue: 0,0:09:21.01,0:09:23.22,Default,Mahiro,0,0,0,,It's finally out!
+Dialogue: 0,0:09:23.65,0:09:26.12,Default,Mahiro,0,0,0,,I wonder when they'll start \Nstreaming it online.
+Dialogue: 0,0:09:29.63,0:09:32.82,Default,Mihari,0,0,0,,Ah, this! I wanna go see it, too!
+Dialogue: 0,0:09:33.81,0:09:37.58,Default,Mahiro,0,0,0,,It's a shame my duty as a home \Nsecurity officer doesn't allow film breaks.
+Dialogue: 0,0:09:38.68,0:09:40.49,Default,Mihari,0,0,0,,If you'd want, why don't we go see it together?
+Dialogue: 0,0:09:41.16,0:09:41.98,Default,Mahiro,0,0,0,,Eh?
+Dialogue: 0,0:09:43.17,0:09:44.84,OKSigns,Sign,0,0,0,,{\b1\fnGeorgia\fs21\1c&H979776&\1a&H00&\3c&HEEEACF&\3a&H00&\an8\fad(569,1)\bord2\shad0\fax-0.05\blur2\pos(1390,437.67)\frz5.2}The Greatest Hit of the Century
+Dialogue: 0,0:09:54.42,0:09:58.58,Default,Mahiro,0,0,0,,Why this of all places?\NThis is a mall, isn't it!
+Dialogue: 0,0:09:58.58,0:10:00.82,Default,Mihari,0,0,0,,There's a movie theater upstairs.
+Dialogue: 0,0:10:00.82,0:10:04.25,Default,Mahiro,0,0,0,,Ngh... the lively atmosphere! I can\Nfeel it devouring my living corpse!
+Dialogue: 0,0:10:04.25,0:10:05.82,Default,Mihari,0,0,0,,Chuunibyou, huh.
+Dialogue: 0,0:10:06.19,0:10:08.29,Default,Kaede,0,0,0,,Hey there! Sorry I'm late!
+Dialogue: 0,0:10:08.29,0:10:09.71,Default,Mahiro,0,0,0,,Kaede-chan!
+Dialogue: 0,0:10:09.71,0:10:12.34,Default,Kaede,0,0,0,,Mahiro-chan!\NNice to see you again!
+Dialogue: 0,0:10:12.34,0:10:13.50,Default,Mahiro,0,0,0,,Yeah!
+Dialogue: 0,0:10:14.02,0:10:16.70,Default,Kaede,0,0,0,,Then, how 'bout we take a quick\Nlook around for some accessories?
+Dialogue: 0,0:10:17.43,0:10:18.37,Default,Mahiro,0,0,0,,Eh?
+Dialogue: 0,0:10:18.37,0:10:21.00,Default,Mahiro,0,0,0,,H-hey, what about the movie?
+Dialogue: 0,0:10:21.00,0:10:24.39,Default,Mihari,0,0,0,,Well, we actually have some \Ntime to kill before it starts...
+Dialogue: 0,0:10:24.39,0:10:25.83,Default,Mahiro,0,0,0,,I've been had...
+Dialogue: 0,0:10:25.83,0:10:26.78,Default,Kaede,0,0,0,,Hurray!
+Dialogue: 0,0:10:26.78,0:10:27.14,Default,Mahiro,0,0,0,,Hm?
+Dialogue: 0,0:10:27.14,0:10:29.24,Default,Kaede,0,0,0,,I get to go on a date with Mahiro-chan!
+Dialogue: 0,0:10:29.24,0:10:31.47,Default,Mahiro,0,0,0,,Wha? W-Wait a sec...!
+Dialogue: 0,0:10:43.68,0:10:46.06,Default,Kaede,0,0,0,,Mihari, I think this'd look great on you!
+Dialogue: 0,0:10:47.62,0:10:49.73,Default,Mihari,0,0,0,,Hmmm... I dunno about another hairclip...
+Dialogue: 0,0:10:49.73,0:10:50.84,Default,Kaede,0,0,0,,That so?
+Dialogue: 0,0:10:55.76,0:10:58.37,Default,Mahiro,0,0,0,,Hieeh, my fatigue is palpable...
+Dialogue: 0,0:10:58.37,0:11:00.82,Default,Mahiro,0,0,0,,Girl's shopping trips\Nare a real pain.
+Dialogue: 0,0:11:01.89,0:11:04.46,Default,Kaede,0,0,0,,Ah, these are great!
+Dialogue: 0,0:11:05.34,0:11:07.42,Default,Kaede,0,0,0,,Ah! I completely forgot!
+Dialogue: 0,0:11:08.40,0:11:09.16,Default,Mahiro,0,0,0,,Huh?
+Dialogue: 0,0:11:10.83,0:11:12.87,Default,Kaede,0,0,0,,We gotta check out the bathing suits!
+Dialogue: 0,0:11:12.87,0:11:14.76,Default,Mahiro,0,0,0,,We're gonna look at {\i1}more{\i0} stuff!?
+Dialogue: 0,0:11:25.30,0:11:26.87,Default,Kaede,0,0,0,,Ta-da!
+Dialogue: 0,0:11:26.87,0:11:28.03,Default,Kaede,0,0,0,,What d'ya think?
+Dialogue: 0,0:11:28.43,0:11:29.95,Default,Mahiro,0,0,0,,Whoa...
+Dialogue: 0,0:11:29.95,0:11:32.06,Default,Mahiro,0,0,0,,T-they're huge, aren't they...
+Dialogue: 0,0:11:32.43,0:11:34.13,Default,Kaede,0,0,0,,Oh, you!
+Dialogue: 0,0:11:34.13,0:11:36.20,Default,Kaede,0,0,0,,You too, Mihari! Get on out here!
+Dialogue: 0,0:11:39.26,0:11:43.50,Default,Mihari,0,0,0,,I haven't worn a swimsuit since \Nswim class back in middle school...
+Dialogue: 0,0:11:44.54,0:11:47.09,Default,Mihari,0,0,0,,H-How is it?
+Dialogue: 0,0:11:47.09,0:11:48.12,Default,Kaede,0,0,0,,It's great!
+Dialogue: 0,0:11:48.12,0:11:50.27,Default,Kaede,0,0,0,,It really suits her! Right?
+Dialogue: 0,0:11:50.27,0:11:51.90,Default,Mahiro,0,0,0,,Well, you know?
+Dialogue: 0,0:11:51.90,0:11:53.47,Default,Mahiro,0,0,0,,It was a tough act to follow.
+Dialogue: 0,0:11:55.53,0:11:56.76,Default,Mihari,0,0,0,,That reminds me.
+Dialogue: 0,0:11:56.76,0:11:59.32,Default,Mihari,0,0,0,,Mahiro-chan, didn't you say you wanted a \Nswimsuit too?
+Dialogue: 0,0:11:59.32,0:12:00.89,Default,Mihari,0,0,0,,Go and pick one to try on!
+Dialogue: 0,0:12:00.89,0:12:02.37,Default,Kaede,0,0,0,,OK!
+Dialogue: 0,0:12:07.48,0:12:09.59,Default,Mihari,0,0,0,,Oh my, it's wonderful on you!
+Dialogue: 0,0:12:09.59,0:12:11.11,Default,Kaede,0,0,0,,So cute!
+Dialogue: 0,0:12:11.49,0:12:14.10,Default,Mahiro,0,0,0,,I can't go out in public wearing this!
+Dialogue: 0,0:12:14.10,0:12:16.02,Default,Mahiro,0,0,0,,This really isn't any different from underwear, is it!
+Dialogue: 0,0:12:16.02,0:12:17.62,Default,Mihari,0,0,0,,Then how about this?
+Dialogue: 0,0:12:19.47,0:12:21.81,Default,Kaede,0,0,0,,You could utilize a beach wrap around your waist, as well.
+Dialogue: 0,0:12:21.81,0:12:23.22,Default,Mahiro,0,0,0,,Nnngh...
+Dialogue: 0,0:12:23.22,0:12:25.34,Default,Mihari,0,0,0,,Why don't you try on a standard one-piece instead?
+Dialogue: 0,0:12:30.81,0:12:33.40,Default,Mahiro,0,0,0,,Ah... if it's this, maybe...
+Dialogue: 0,0:12:33.40,0:12:34.93,Default,Kaede & Mihari,0,0,0,,It's settled!
+Dialogue: 0,0:12:39.24,0:12:41.12,Default,Mahiro,0,0,0,,Why did I even buy this?
+Dialogue: 0,0:12:41.12,0:12:42.95,Default,Mihari,0,0,0,,I kinda bought one on impulse too...
+Dialogue: 0,0:12:42.95,0:12:45.95,Default,Kaede,0,0,0,,Wait, I feel like we're \Nforgetting something...
+Dialogue: 0,0:12:46.72,0:12:48.12,Default,Mihari,0,0,0,,The movie!
+Dialogue: 0,0:12:57.79,0:12:59.93,Italics Top,Narration,0,0,0,,They have returned!
+Dialogue: 0,0:12:59.93,0:13:02.46,Italics Top,Narration,0,0,0,,The long-awaited next entry \Nin the worldwide hit series,
+Dialogue: 0,0:13:02.46,0:13:05.19,Italics Top,Narration,0,0,0,,"Battle of Clones: The Battle Within 7."
+Dialogue: 0,0:13:04.48,0:13:06.20,Default,Mahiro,0,0,0,,We made it!
+Dialogue: 0,0:13:05.57,0:13:08.12,Italics Top,Narrator,0,0,0,,This version of me just \Ndoesn't know when to quit.
+Dialogue: 0,0:13:06.77,0:13:08.97,Default,Mihari,0,0,0,,The AC's a bit strong in here, huh?
+Dialogue: 0,0:13:10.37,0:13:12.01,Default,Kaede,0,0,0,,Look, it's about to start.
+Dialogue: 0,0:13:14.81,0:13:16.71,Default,Leonardo,0,0,0,,{\pos(960,1044)}I won't let you die here!
+Dialogue: 0,0:13:17.02,0:13:18.16,Default,Kate,0,0,0,,{\pos(960,1044)}Leonardo!
+Dialogue: 0,0:13:26.90,0:13:29.84,Default,Mahiro,0,0,0,,Nngh, I'm at my limit...!
+Dialogue: 0,0:13:29.84,0:13:31.75,Default,Mahiro,0,0,0,,And right at the best part, too.
+Dialogue: 0,0:13:31.75,0:13:33.33,Default,Mahiro,0,0,0,,I need to go to the bathroom for a sec.
+Dialogue: 0,0:13:33.33,0:13:34.31,Default,Mihari,0,0,0,,Okay.
+Dialogue: 0,0:13:39.80,0:13:42.67,Default,Mahiro,0,0,0,,It's kind of awkward...\NGoing to the girl's restroom...
+Dialogue: 0,0:13:44.87,0:13:45.69,Default,Mahiro,0,0,0,,Ah.
+Dialogue: 0,0:13:47.64,0:13:50.37,Default,Mahiro,0,0,0,,What... is this?
+Dialogue: 0,0:13:51.50,0:13:54.95,OKSigns,,0,0,0,,{\fnPrototype\fs39\an8\shad0\blur4\3\pos(935.71,474)}Space Titanic
+Dialogue: 1,0:13:51.50,0:13:54.95,OKSigns,,0,0,0,,{\fnPrototype\fs39\1c&H9A9BA6&\1a&H00&\an8\shad0\blur0.9\3\pos(935.71,474)}Space Titanic
+Dialogue: 0,0:13:51.76,0:13:53.39,Default,Hiyori,0,0,0,,I was moved to tears, y'know!
+Dialogue: 0,0:13:53.39,0:13:55.09,Default,Raika,0,0,0,,Oh, I was seriously pouring 'em too!
+Dialogue: 0,0:13:54.97,0:13:58.22,OKSigns,,0,0,0,,{\fnPrototype\fs39\an8\shad0\blur4\3\pos(1234,486.58)}Space Titanic
+Dialogue: 1,0:13:54.97,0:13:58.22,OKSigns,,0,0,0,,{\fnPrototype\fs39\1c&H9A9BA6&\1a&H00&\an8\shad0\blur0.9\3\pos(1234,486.58)}Space Titanic
+Dialogue: 0,0:13:55.09,0:13:57.72,Default - Top,Raika,0,0,0,,That last scene had me bawling.
+Dialogue: 0,0:13:55.61,0:13:58.15,Default,Mahiro,0,0,0,,Why is it only the girls' bathroom?!
+Dialogue: 0,0:13:58.12,0:14:01.84,Default - Top,Hiyori,0,0,0,,My eyes kinda hurt from crying so much!
+Dialogue: 0,0:13:58.22,0:14:00.18,OKSigns,,0,0,0,,{\fnPrototype\fs39\an8\shad0\blur4\3\pos(1634,467.15)}Space Titanic
+Dialogue: 1,0:13:58.22,0:14:00.18,OKSigns,,0,0,0,,{\fnPrototype\fs39\1c&H9A9BA6&\1a&H00&\an8\shad0\blur0.9\3\pos(1634,467.15)}Space Titanic
+Dialogue: 0,0:14:04.52,0:14:07.02,Default,Mahiro,0,0,0,,I-I can't hold it much longer!
+Dialogue: 0,0:14:07.59,0:14:10.03,Default,Kate,0,0,0,,Leonardo!
+Dialogue: 0,0:14:13.28,0:14:15.83,Default,Kaede,0,0,0,,Mahiro-chan? You in here?
+Dialogue: 0,0:14:22.28,0:14:25.00,Default,Kaede,0,0,0,,Ah... So you didn't make it, huh?
+Dialogue: 0,0:14:26.83,0:14:29.20,Default,Kaede,0,0,0,,Mm, mmm. It's okay.
+Dialogue: 0,0:14:29.20,0:14:30.93,Default,Kaede,0,0,0,,Looks like you didn't get any on your skirt.
+Dialogue: 0,0:14:30.93,0:14:33.05,Default,Kaede,0,0,0,,I'll go buy you a change of underwear, okay?
+Dialogue: 0,0:14:33.05,0:14:34.30,Default,Kaede,0,0,0,,Do you think you can wait for me here?
+Dialogue: 0,0:14:34.30,0:14:35.18,Default,Mahiro,0,0,0,,Yeah...
+Dialogue: 0,0:14:35.67,0:14:37.75,Default,Kaede,0,0,0,,This'll be our little secret from Mihari, okay?
+Dialogue: 0,0:14:53.08,0:14:54.88,Default,Mihari,0,0,0,,Wasn't that a long time\Nfor just using the bathroom...?
+Dialogue: 0,0:14:54.88,0:14:56.62,Default,Kaede,0,0,0,,The line was pretty long...
+Dialogue: 0,0:15:03.78,0:15:05.46,Default,Mahiro,0,0,0,,Onee-chan...
+Dialogue: 0,0:15:08.16,0:15:08.21,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE0C776&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x55.55\y55.55\frz0\blur0.52\pos(479.36,557.76)}O{\1c&H6174A4&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.21,0:15:08.25,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x82.62\y82.62\frz0\blur0.57\pos(480,653.51)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.25,0:15:08.29,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x99.54\y99.54\frz0\blur0.6\pos(480.55,712.78)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.29,0:15:08.33,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x103.92\y103.92\frz0\blur0.61\pos(480.84,727.92)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.33,0:15:08.37,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x104.58\y104.58\frz0\blur0.61\pos(481.03,729.98)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.37,0:15:08.41,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x102.89\y102.89\frz0\blur0.61\pos(481.22,723.82)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.41,0:15:08.46,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x99.87\y99.87\frz0\blur0.6\pos(481.11,713.24)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.46,0:15:08.50,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x96.55\y96.55\frz0\blur0.59\pos(481.01,701.64)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.50,0:15:08.54,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x93.65\y93.65\frz0\blur0.59\pos(480.94,691.45)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.54,0:15:08.58,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x91.65\y91.65\frz0\blur0.58\pos(480.9,684.45)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.58,0:15:08.62,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x90.93\y90.93\frz0\blur0.58\pos(480.9,681.94)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.62,0:15:08.66,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x91.27\y91.27\frz0\blur0.58\pos(480.91,683.15)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.66,0:15:08.71,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x92.19\y92.19\frz0\blur0.59\pos(480.94,686.33)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.71,0:15:08.75,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x93.48\y93.48\frz0\blur0.59\pos(480.97,690.87)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.75,0:15:08.79,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x94.95\y94.95\frz0\blur0.59\pos(481,696.01)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.79,0:15:08.83,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x96.46\y96.46\frz0\blur0.59\pos(481.05,701.29)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.83,0:15:08.87,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x97.84\y97.84\frz0\blur0.6\pos(481.09,706.13)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.87,0:15:08.91,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x98.97\y98.97\frz0\blur0.6\pos(481.12,710.09)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.91,0:15:08.96,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x99.72\y99.72\frz0\blur0.6\pos(481.13,712.73)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.96,0:15:09.00,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x100\y100\frz0\blur0.6\pos(481.14,713.69)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:09.00,0:15:09.96,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\=0\x100\y100\frz0\blur0.6\pos(481.15,713.71)}O{\1c&H59699B&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:08.22,0:15:09.51,Italics,Mahiro; Mihari & Kaede,0,0,0,,Onimai.
+Dialogue: 0,0:15:12.05,0:15:13.96,OKSigns,Sign,0,0,0,,{\b1\fnKG Red Hands\fs130\1c&HE1C66D&\1a&H00&\3c&HF9F9F9&\3a&H00&\blur2\t(893,893,\blur0.6)\frz-1500\t(0,893,\frz0)\move(2245.33,697.33,1445.33,697.33,0,893)}O{\1c&H576A9A&\1a&H00&}NIMA{\1c&HA29BF2&\1a&H00&}I
+Dialogue: 0,0:15:12.78,0:15:13.96,Italics,Mahiro & Kaede,0,0,0,,Onimai.
+Dialogue: 0,0:15:19.18,0:15:21.39,Default,Mahiro,0,0,0,,Lunch sure is taking a while.
+Dialogue: 0,0:15:22.28,0:15:25.26,Default,Mahiro,0,0,0,,Is that Mihari still sleeping or something...?
+Dialogue: 0,0:15:26.00,0:15:27.56,Default,Mahiro,0,0,0,,For the love of...
+Dialogue: 0,0:15:27.56,0:15:30.28,Default,Mahiro,0,0,0,,Really not living up to the \N"Onee-chan" title now, are we?
+Dialogue: 0,0:15:31.23,0:15:34.44,Default,Mahiro,0,0,0,,Hey, "Onee-chan"! Where's lunch already?
+Dialogue: 0,0:15:48.22,0:15:50.94,Default,Mahiro,0,0,0,,Oh, your period... I got you.
+Dialogue: 0,0:15:50.94,0:15:52.27,Default,Mihari,0,0,0,,It's a cold!
+Dialogue: 0,0:15:53.59,0:15:55.46,Default,Mahiro,0,0,0,,Uwaah! Sorry!
+Dialogue: 0,0:15:55.75,0:15:56.92,Default,Mihari,0,0,0,,I'm fine.
+Dialogue: 0,0:15:56.92,0:15:58.69,Default,Mihari,0,0,0,,I took some medicine,
+Dialogue: 0,0:15:58.69,0:16:00.26,Default,Mihari,0,0,0,,so I just need some rest\Nand I'll be be all better.
+Dialogue: 0,0:16:00.26,0:16:03.33,Default,Mihari,0,0,0,,You'll have to make do with \Ninstant ramen for lunch.
+Dialogue: 0,0:16:03.33,0:16:04.62,Default,Mihari,0,0,0,,There's some in the cupboard—
+Dialogue: 0,0:16:06.25,0:16:07.66,Default,Mahiro,0,0,0,,Mihari...
+Dialogue: 0,0:16:08.31,0:16:10.73,OKSigns,Sign,0,0,0,,{\b1\fnAveriaSerifBold\fs39\1c&H989CE1&\1a&H00&\an8\frz-8\y90\fax0.2\blur0.8\pos(960,1003)}S{\1c&H8E91DD&\1a&H00&\*\frz354\fax0.15}o{\1c&H8487DA&\1a&H00&\*\frz356\fax0.1}y {\1c&H7072D4&\1a&H00&\*\frz0\fax0}S{\1c&H6667D0&\1a&H00&\*\frz2\fax-0.05}a{\1c&H5C5DCD&\1a&H00&\*\frz4\fax-0.1}u{\1c&H5252CA&\1a&H00&\*\frz6\fax-0.15}c{\1c&H4948C7&\1a&H00&\frz8\fax-0.2}e
+Dialogue: 0,0:16:10.72,0:16:14.05,Default,Mahiro,0,0,0,,She's been staying up late\Nwriting reports a lot lately...
+Dialogue: 0,0:16:14.05,0:16:15.80,Default,Mahiro,0,0,0,,And she does all the housework, too...
+Dialogue: 0,0:16:15.80,0:16:18.77,Default,Mahiro,0,0,0,,Mgh, what's this "Onee-chan" business?!
+Dialogue: 0,0:16:18.77,0:16:21.51,Default,Mahiro,0,0,0,,Mihari's your little sister, isn't she?!
+Dialogue: 0,0:16:22.04,0:16:24.64,Default,Mahiro,0,0,0,,Let's do this... I can do it!
+Dialogue: 0,0:16:25.03,0:16:26.92,Default,Mahiro,0,0,0,,If it's just housework, it\Nshould be a piece of cake!
+Dialogue: 0,0:16:27.63,0:16:29.86,Default,Mahiro,0,0,0,,It's part of my duty as a home security guard!
+Dialogue: 0,0:16:29.86,0:16:32.75,Default,Mahiro,0,0,0,,I'll do it exquisitely and show her \Nwhat a great big brother I can be!
+Dialogue: 0,0:16:34.15,0:16:34.96,Default,Mahiro,0,0,0,,Ah...
+Dialogue: 0,0:16:38.69,0:16:40.36,Default,Mahiro,0,0,0,,They're a little soggy.
+Dialogue: 0,0:16:46.00,0:16:50.86,Default,Mahiro,0,0,0,,Bleach or fabric softener? \NNon-alkaline or alkaline?
+Dialogue: 0,0:16:50.86,0:16:52.64,Default,Mahiro,0,0,0,,Well, it's all the same, right?
+Dialogue: 0,0:16:55.75,0:16:58.50,Default,Mahiro,0,0,0,,Obviously, anybody can use a simple vacuum!
+Dialogue: 0,0:16:59.65,0:17:02.50,Default,Mahiro,0,0,0,,Oh, yeah. I should make \NMihari something to eat...
+Dialogue: 0,0:17:06.82,0:17:09.70,Default,Mahiro,0,0,0,,At times like this, you've really gotta have \Nsome homemade rice porridge, don't you!
+Dialogue: 0,0:17:09.70,0:17:11.15,Default,Mahiro,0,0,0,,Rice porridge...!
+Dialogue: 0,0:17:14.46,0:17:14.55,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.63\y99.63\blur0.95\frz27.88\pos(718.87,449.73)}Incoming Call
+Dialogue: 0,0:17:14.54,0:17:14.62,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.63\y99.63\blur0.95\pos(748.58,303.44)\frz22.04}Incoming Call
+Dialogue: 0,0:17:14.62,0:17:14.71,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x100\y100\blur0.95\pos(789.14,256.14)\frz16.1}Incoming Call
+Dialogue: 0,0:17:14.71,0:17:14.83,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(820.76,222.54)\frz11.53}Incoming Call
+Dialogue: 0,0:17:14.83,0:17:14.96,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.52\y99.52\blur0.95\pos(824.97,207.66)\frz11.56}Incoming Call
+Dialogue: 0,0:17:14.96,0:17:15.08,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(839.26,195.18)\frz11.55}Incoming Call
+Dialogue: 0,0:17:15.08,0:17:15.21,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(857.55,189.38)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.21,0:17:15.33,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(877.35,193.22)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.33,0:17:15.46,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.52\y99.52\blur0.95\pos(894.12,207.04)\frz11.55}Incoming Call
+Dialogue: 0,0:17:15.46,0:17:15.58,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.54\y99.54\blur0.95\pos(903.75,221.87)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.58,0:17:15.71,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(894.13,207.04)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.71,0:17:15.83,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.54\y99.54\blur0.95\pos(877.36,193.21)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.83,0:17:15.96,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(857.54,189.4)\frz11.54}Incoming Call
+Dialogue: 0,0:17:15.96,0:17:16.08,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(839.27,195.18)\frz11.54}Incoming Call
+Dialogue: 0,0:17:16.08,0:17:16.21,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.52\y99.52\blur0.95\pos(824.98,207.66)\frz11.56}Incoming Call
+Dialogue: 0,0:17:16.21,0:17:16.33,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(820.73,222.51)\frz11.54}Incoming Call
+Dialogue: 0,0:17:16.33,0:17:16.46,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.51\y99.51\blur0.95\pos(824.97,207.64)\frz11.56}Incoming Call
+Dialogue: 0,0:17:16.46,0:17:16.58,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.51\y99.51\blur0.95\pos(839.27,195.16)\frz11.54}Incoming Call
+Dialogue: 0,0:17:16.58,0:17:16.67,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs23\1c&HB4A58B&\1a&H00&\3c&H675538&\3a&H00&\=2\x99.53\y99.53\blur0.95\pos(857.57,189.33)\frz11.53}Incoming Call
+Dialogue: 0,0:17:14.46,0:17:14.55,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs26\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.63\y99.63\blur1\pos(928.72,800.75)\frz27.06}Mahiro-chan
+Dialogue: 0,0:17:14.54,0:17:14.62,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.63\y99.63\blur1\frz22.2\pos(905.86,688.75)}Mahiro-chan
+Dialogue: 0,0:17:14.62,0:17:14.71,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x100\y100\blur1\frz16.26\pos(906.14,657.14)}Mahiro-chan
+Dialogue: 0,0:17:14.71,0:17:14.83,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.69\pos(905.08,629.67)}Mahiro-chan
+Dialogue: 0,0:17:14.83,0:17:14.96,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.52\y99.52\blur1\frz11.72\pos(909.46,614.69)}Mahiro-chan
+Dialogue: 0,0:17:14.96,0:17:15.08,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.71\pos(923.64,602.26)}Mahiro-chan
+Dialogue: 0,0:17:15.08,0:17:15.21,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(941.87,596.49)}Mahiro-chan
+Dialogue: 0,0:17:15.21,0:17:15.33,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(961.68,600.33)}Mahiro-chan
+Dialogue: 0,0:17:15.33,0:17:15.46,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.52\y99.52\blur1\frz11.71\pos(978.52,614.12)}Mahiro-chan
+Dialogue: 0,0:17:15.46,0:17:15.58,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.54\y99.54\blur1\frz11.7\pos(988.13,629)}Mahiro-chan
+Dialogue: 0,0:17:15.58,0:17:15.71,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(978.51,614.13)}Mahiro-chan
+Dialogue: 0,0:17:15.71,0:17:15.83,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.54\y99.54\blur1\frz11.7\pos(961.68,600.36)}Mahiro-chan
+Dialogue: 0,0:17:15.83,0:17:15.96,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(941.87,596.49)}Mahiro-chan
+Dialogue: 0,0:17:15.96,0:17:16.08,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(923.64,602.29)}Mahiro-chan
+Dialogue: 0,0:17:16.08,0:17:16.21,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.52\y99.52\blur1\frz11.72\pos(909.47,614.7)}Mahiro-chan
+Dialogue: 0,0:17:16.21,0:17:16.33,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.7\pos(905.07,629.61)}Mahiro-chan
+Dialogue: 0,0:17:16.33,0:17:16.46,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.51\y99.51\blur1\frz11.72\pos(909.45,614.64)}Mahiro-chan
+Dialogue: 0,0:17:16.46,0:17:16.58,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.51\y99.51\blur1\frz11.7\pos(923.63,602.2)}Mahiro-chan
+Dialogue: 0,0:17:16.58,0:17:16.67,OKSigns,Sign,0,0,0,,{\fnHelveticaNeue LT 55 Roman\fs30\1c&HC7B79C&\1a&H00&\3c&H675538&\3a&H00&\=1\x99.53\y99.53\blur1\frz11.69\pos(941.84,596.44)}Mahiro-chan
+Dialogue: 0,0:17:17.28,0:17:18.62,Default,Kaede,0,0,0,,Mahiro-chan?
+Dialogue: 0,0:17:18.62,0:17:20.58,Default,Kaede,0,0,0,,Hm? What's up?
+Dialogue: 0,0:17:20.81,0:17:22.68,Italics,Kaede,0,0,0,,How to make rice porridge?
+Dialogue: 0,0:17:22.68,0:17:24.64,Italics,Kaede,0,0,0,,It's super simple, actually!
+Dialogue: 0,0:17:24.64,0:17:27.07,Italics,Kaede,0,0,0,,But wait, does that mean\NMihari's bedridden?!
+Dialogue: 0,0:17:27.07,0:17:29.26,Italics,Kaede,0,0,0,,Is she okay? Should I come over and help?
+Dialogue: 0,0:17:29.69,0:17:30.97,Default,Mahiro,0,0,0,,Oh, no, it's okay.
+Dialogue: 0,0:17:30.97,0:17:33.31,Default,Mahiro,0,0,0,,I think I've got this for today. Thank you!
+Dialogue: 0,0:17:46.46,0:17:48.50,Default,Mahiro,0,0,0,,Easy now...
+Dialogue: 0,0:17:51.61,0:17:54.98,Default,Mahiro,0,0,0,,Now I put it on low heat \Nand let it simmer, right?
+Dialogue: 0,0:18:04.51,0:18:06.72,OKSigns,Sign,0,0,0,,{\fntabor handwriting\fs44\1c&HEDE9EC&\1a&H00&\an8\bord4.5\blur0\pos(975,222)\fad(1188,1)}Mihari
+Dialogue: 0,0:18:05.61,0:18:06.43,Default,Mahiro,0,0,0,,Hup.
+Dialogue: 0,0:18:09.64,0:18:11.65,Default,Mahiro,0,0,0,,I made you rice porridge.
+Dialogue: 0,0:18:12.37,0:18:14.62,Default,Mihari,0,0,0,,What? Onii-chan, {\i1}you{\i0} did?
+Dialogue: 0,0:18:15.19,0:18:17.56,Default,Mahiro,0,0,0,,I can't promise if it's any good, though.
+Dialogue: 0,0:18:28.05,0:18:30.37,Default,Mahiro,0,0,0,,H-Hey! What happened?! What's wrong?!
+Dialogue: 0,0:18:30.37,0:18:35.01,Default,Mihari,0,0,0,,I mean... \NOnii-chan, you... you cooked for me!
+Dialogue: 0,0:18:35.54,0:18:39.10,Default,Mahiro,0,0,0,,Ah... all right, already!\NJust hurry up and eat!
+Dialogue: 0,0:18:39.74,0:18:40.61,Default,Mihari,0,0,0,,Okay.
+Dialogue: 0,0:18:46.26,0:18:51.24,Default,Mihari,0,0,0,,It's so bland, but I'm so happy!
+Dialogue: 0,0:18:51.24,0:18:53.52,Default,Mahiro,0,0,0,,I forgot to add the salt...
+Dialogue: 0,0:18:57.14,0:18:59.30,Default,Mahiro,0,0,0,,Change clothes before \Nyou go back to sleep, okay?
+Dialogue: 0,0:18:59.30,0:19:00.19,Default,Mihari,0,0,0,,Okay.
+Dialogue: 0,0:19:16.03,0:19:18.01,Flashback Italics,Kaede,0,0,0,,Morning, Mihari-chan!
+Dialogue: 0,0:19:18.93,0:19:20.75,Flashback,Mihari,0,0,0,,Morning, Kaede!
+Dialogue: 0,0:19:21.65,0:19:24.57,Flashback,Kaede,0,0,0,,Huh? What's with the hair clip?
+Dialogue: 0,0:19:25.25,0:19:26.85,Flashback,Mihari,0,0,0,,Oh, this?
+Dialogue: 0,0:19:28.27,0:19:30.34,Flashback,Mihari,0,0,0,,Onii-chan gave it to me.
+Dialogue: 0,0:19:30.34,0:19:32.83,Flashback,Mihari,0,0,0,,He said it was a reward for \Ndoing so well on that test.
+Dialogue: 0,0:19:32.83,0:19:36.43,Flashback,Kaede,0,0,0,,What a sweet Onii-chan... must be nice!
+Dialogue: 0,0:19:36.43,0:19:38.70,Flashback,Mihari,0,0,0,,Kaede, do you not have any siblings?
+Dialogue: 0,0:19:38.70,0:19:40.57,Flashback,Kaede,0,0,0,,I have a little sister, actually.
+Dialogue: 0,0:19:40.57,0:19:43.57,Flashback,Kaede,0,0,0,,But honestly, we don't have much in common.
+Dialogue: 0,0:19:43.57,0:19:45.21,Flashback,Mihari,0,0,0,,Is that so...
+Dialogue: 0,0:19:45.21,0:19:47.77,Flashback,Kaede,0,0,0,,But she's super cute all the same!
+Dialogue: 0,0:19:47.77,0:19:50.95,Flashback,Kaede,0,0,0,,I like baking cookies and \Nstuff for her when I can.
+Dialogue: 0,0:19:50.95,0:19:53.58,Flashback,Mihari,0,0,0,,Eh, Kaede, you know how to bake?
+Dialogue: 0,0:19:53.58,0:19:54.88,Flashback,Mihari,0,0,0,,Teach me, teach me!
+Dialogue: 0,0:19:54.88,0:19:55.86,Flashback,Kaede,0,0,0,,Sure thing!
+Dialogue: 0,0:19:55.86,0:19:57.80,Flashback,Kaede,0,0,0,,We can bake at my place together sometime!
+Dialogue: 0,0:19:57.80,0:19:59.22,Flashback,Mihari,0,0,0,,{\fad(1,677)}Hurray!
+Dialogue: 0,0:20:19.14,0:20:20.56,Default,Mihari,0,0,0,,Onii-chan...
+Dialogue: 0,0:20:24.72,0:20:25.97,Default,Mihari,0,0,0,,Thank you.
+Dialogue: 0,0:20:31.65,0:20:32.65,Default,Mihari,0,0,0,,Okay!
+Dialogue: 0,0:20:32.92,0:20:34.38,OKSigns,Sign,0,0,0,,{\fntabor handwriting\fs82\1c&HF0ECEE&\1a&H00&\4c&HB8BAD6&\4a&H00&\an8\bord4.5\blur0\fad(1,742)\pos(1000,278)}Mihari
+Dialogue: 0,0:20:51.19,0:20:53.72,Italics,Mihari,0,0,0,,Onii-chan was always so sweet to me.
+Dialogue: 0,0:20:54.26,0:20:58.25,Italics,Mihari,0,0,0,,But as time went by, he gradually \Nstopped spending time with me.
+Dialogue: 0,0:21:03.19,0:21:06.60,Italics,Mihari,0,0,0,,So I did my absolute best in\Nboth studying and sports, but...
+Dialogue: 0,0:21:01.15,0:21:03.19,Italics,Mihari,0,0,0,,I wanted Onii-chan to praise me...
+Dialogue: 0,0:21:08.76,0:21:11.27,Default,Mahiro,0,0,0,,Something smells nice in here...
+Dialogue: 0,0:21:12.30,0:21:14.53,Default,Mahiro,0,0,0,,A-Are you sure it's okay for you to be up already?
+Dialogue: 0,0:21:14.53,0:21:16.97,Default,Mihari,0,0,0,,Yup, I'm all better now!
+Dialogue: 0,0:21:17.50,0:21:19.82,Default,Mihari,0,0,0,,Look, I baked cookies.
+Dialogue: 0,0:21:23.37,0:21:24.79,Default,Mahiro,0,0,0,,Delicious!
+Dialogue: 0,0:21:24.79,0:21:27.68,Default,Mahiro,0,0,0,,Your cooking is just as\Ntasty as ever, Mihari!
+Dialogue: 0,0:21:27.68,0:21:30.93,Default,Mihari,0,0,0,,Actually, this is a recipe \NKaede taught me a while back!
+Dialogue: 0,0:21:31.49,0:21:34.29,Default,Mahiro,0,0,0,,Kaede-chan did? Wow...!
+Dialogue: 0,0:21:34.73,0:21:37.58,Italics,Mihari,0,0,0,,But we've gotten to talk \Na lot more recently.
+Dialogue: 0,0:21:36.48,0:21:39.31,Default - Top,Mahiro,0,0,0,,No wonder it tastes so good!
+Dialogue: 0,0:21:37.58,0:21:40.81,Italics,Mihari,0,0,0,,In a way... it's just like old times.
+Dialogue: 0,0:21:40.81,0:21:42.40,Default,Mihari,0,0,0,,There's seconds too, okay?
+Dialogue: 0,0:21:42.40,0:21:43.56,Default,Mahiro,0,0,0,,Woo-hoo!
+Dialogue: 0,0:21:43.56,0:21:46.28,Default,Mahiro,0,0,0,,They're so good, I could eat them all day!
+Dialogue: 0,0:21:48.41,0:21:50.92,Italics,Mihari,0,0,0,,Our roles as siblings are a little reversed, but...
+Dialogue: 0,0:21:50.92,0:21:52.11,Italics,Mihari,0,0,0,,If it's possible...
+Dialogue: 0,0:21:52.11,0:21:54.64,Italics,Mihari,0,0,0,,I'd love for things to stay\Nthis way just a little while longer.
+Dialogue: 0,0:23:29.25,0:23:32.27,Default,Mihari,0,0,0,,I take it all back!
+Dialogue: 0,0:23:32.27,0:23:34.79,Default,Mihari,0,0,0,,Onii-chan?!
+Dialogue: 0,0:23:36.00,0:23:41.02,Default,Sign,0,0,0,,{\b1\fs65\1c&H5D5B71&\1a&H00&\3c&HF2F5FC&\3a&H00&\an3\bord6\shad0\pos(1716,867)}Next Episode: {\1c&H9681DB&\1a&H00&}Mahiro{\1c&H5D5B71&\1a&H00&}'s {\1c&HD8BE6B&\1a&H00&}New {\1c&H9681DB&\1a&H00&}Friend
+Dialogue: 0,0:23:36.00,0:23:41.02,Default,Illustration,0,0,0,,{\b1\fs39\1c&H5D5B71&\1a&H00&\3c&HF2F5FC&\3a&H00&\an3\bord4.5\shad0\pos(1434,1023)}Illustration: {\1c&H9681DB&\1a&H00&}K{\1c&HD8BE6B&\1a&H00&}a{\1c&H5D5B71&\1a&H00&}y {\1c&H9681DB&\1a&H00&}Y{\1c&HD8BE6B&\1a&H00&}u
+Dialogue: 0,0:23:39.17,0:23:40.86,Italics Top,Kaede,0,0,0,,See you next time!
+Dialogue: 0,0:21:59.02,0:21:59.06,ED,chptr,0,0,0,,{\ED}
+Dialogue: 0,0:21:59.02,0:22:02.82,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,170,\y120)\t(170,340,\y100)}O-{\r\t(340,440,\y120)\t(440,540,\y100)}K, {\r\t(540,680,\y120)\t(680,820,\y100)}1•{\r\t(820,995,\y120)\t(995,1170,\y100)}2•{\3c&H000000&\3a&H00&\r\t(1170,1310,\y120)\t(1310,1450,\y100)}3's {\r\t(1450,1595,\y120)\t(1595,1740,\y100)}our {\r\t(1740,2115,\y120)\t(2115,2490,\y100)}cue, {\r\t(2490,3145,\y120)\t(3145,3800,\y100)}hey~
+Dialogue: 0,0:22:02.82,0:22:04.07,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,625,\y120)\t(625,1250,\y100)}Ehehe!
+Dialogue: 0,0:22:04.07,0:22:07.04,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,275,\y120)\t(275,550,\y100)}Come {\r\t(550,625,\y120)\t(625,700,\y100)}on!{\r\t(700,855,\y120)\t(855,1010,\y100)} To {\r\t(1010,1125,\y120)\t(1125,1240,\y100)}the {\3c&H000000&\3a&H00&\r\t(1240,1395,\y120)\t(1395,1550,\y100)}se{\r\t(1550,1665,\y120)\t(1665,1780,\y100)}cret {\r\t(1780,1980,\y120)\t(1980,2180,\y100)}gar{\r\t(2180,2265,\y120)\t(2265,2350,\y100)}den {\3c&H000000&\3a&H00&\r\t(2350,2440,\y120)\t(2440,2530,\y100)}and {\r\t(2530,2625,\y120)\t(2625,2720,\y100)}a{\r\t(2720,2845,\y120)\t(2845,2970,\y100)}way!
+Dialogue: 0,0:22:07.04,0:22:08.80,ED Extra,,0,0,0,,{\fad(200,600)}(Wooooo...!)
+Dialogue: 0,0:22:07.19,0:22:09.52,ED,,0,0,0,,{\3c&H77899D&\3a&H00&}Onii—...Mahiro-chan, how about a maid outfit today?
+Dialogue: 0,0:22:09.83,0:22:10.58,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}Eh?
+Dialogue: 0,0:22:09.52,0:22:11.01,ED,,0,0,0,,{\3c&HA89BEB&\3a&H00&}No no, it's gotta be a bunnygirl suit, right?
+Dialogue: 0,0:22:11.34,0:22:12.99,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}E-err, um...!
+Dialogue: 0,0:22:11.01,0:22:13.82,ED,,0,0,0,,{\3c&H5A558B&\3a&H00&}How about we try a pair of matching Hakamas!
+Dialogue: 0,0:22:13.82,0:22:15.34,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,205,\y120)\t(205,410,\y100)}Well {\r\t(410,485,\y120)\t(485,560,\y100)}ei{\r\t(560,625,\y120)\t(625,690,\y100)}ther {\r\t(690,795,\y120)\t(795,900,\y100)}way, {\3c&H000000&\3a&H00&\r\t(900,1020,\y120)\t(1020,1140,\y100)}strip {\r\t(1140,1200,\y120)\t(1200,1260,\y100)}'em {\r\t(1260,1390,\y120)\t(1390,1520,\y100)}off!
+Dialogue: 0,0:22:12.99,0:22:14.79,ED,,0,0,0,,{\3c&H95A6F5&\3a&H00&\pos(1860,970),}Hey! Hold on!
+Dialogue: 0,0:22:15.34,0:22:17.85,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,335,\y120)\t(335,670,\y100)}No, {\r\t(670,750,\y120)\t(750,830,\y100)}s{\r\t(830,910,\y120)\t(910,990,\y100)}t{\r\t(990,1070,\y120)\t(1070,1150,\y100)}o{\3c&H000000&\3a&H00&\r\t(1150,1230,\y120)\t(1230,1310,\y100)}o{\r\t(1310,1390,\y120)\t(1390,1470,\y100)}o{\r\t(1470,1550,\y120)\t(1550,1630,\y100)}o{\r\t(1630,1710,\y120)\t(1710,1790,\y100)}o{\3c&H000000&\3a&H00&\r\t(1790,1870,\y120)\t(1870,1950,\y100)}o{\r\t(1950,2035,\y120)\t(2035,2120,\y100)}o{\r\t(2120,2200,\y120)\t(2200,2280,\y100)}p{\r\t(2280,2365,\y120)\t(2365,2450,\y100)}!
+Dialogue: 2,0:22:17.85,0:22:20.52,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,190,\y120)\t(190,380,\y100)}Gen{\r\t(380,475,\y120)\t(475,570,\y100)}ius {\r\t(570,645,\y120)\t(645,720,\y100)}at {\r\t(720,820,\y120)\t(820,920,\y100)}the {\3c&H000000&\3a&H00&\r\t(920,1070,\y120)\t(1070,1220,\y100)}grind, {\r\t(1220,1310,\y120)\t(1310,1400,\y100)}sub{\r\t(1400,1480,\y120)\t(1480,1560,\y100)}ject {\r\t(1560,1635,\y120)\t(1635,1710,\y100)}has {\3c&H000000&\3a&H00&\r\t(1710,1805,\y120)\t(1805,1900,\y100)}re{\r\t(1900,2145,\y120)\t(2145,2550,\y100)}signed
+Dialogue: 2,0:22:19.86,0:22:21.03,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,230,\t(0,152,\y120)\t(152,310,\y100)}(From {\r\t(310,390,\y120)\t(390,460,\y100)}dusk {\r\t(460,540,\y120)\t(540,620,\y100)}to {\r\t(620,895,\y120)\t(895,1170,\y100)}dawn~)
+Dialogue: 2,0:22:20.52,0:22:23.19,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,165,\y120)\t(165,330,\y100)}Drug {\r\t(330,425,\y120)\t(425,520,\y100)}sta{\r\t(520,610,\y120)\t(610,700,\y100)}tus: {\r\t(700,810,\y120)\t(810,920,\y100)}It's {\3c&H000000&\3a&H00&\r\t(920,1045,\y120)\t(1045,1170,\y100)}a {\r\t(1170,1405,\y120)\t(1405,1640,\y100)}huge • {\r\t(1640,1840,\y120)\t(1840,2040,\y100)}suc • {\r\t(2040,2365,\y120)\t(2365,2690,\y100)}cess!
+Dialogue: 2,0:22:22.41,0:22:23.65,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,155,\y120)\t(155,320,\y100)}(Hold {\r\t(320,440,\y120)\t(440,520,\y100)}on, {\r\t(520,625,\y120)\t(625,730,\y100)}hold {\r\t(730,985,\y120)\t(985,1240,\y100)}on!)
+Dialogue: 2,0:22:23.19,0:22:25.81,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,160,\y120)\t(160,320,\y100)}Cute {\r\t(320,480,\y120)\t(480,640,\y100)}gal {\r\t(640,745,\y120)\t(745,850,\y100)}ac{\r\t(850,1000,\y120)\t(1000,1150,\y100)}quired, {\3c&H000000&\3a&H00&\r\t(1150,1235,\y120)\t(1235,1320,\y100)}now {\r\t(1320,1400,\y120)\t(1400,1480,\y100)}time {\r\t(1480,1550,\y120)\t(1550,1620,\y100)}to {\r\t(1620,1740,\y120)\t(1740,1860,\y100)}ca{\3c&H000000&\3a&H00&\r\t(1860,2235,\y120)\t(2235,2610,\y100)}ress!
+Dialogue: 2,0:22:25.05,0:22:26.34,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,160,\y120)\t(160,340,\y100)}(Well {\r\t(340,450,\y120)\t(450,560,\y100)}now, {\r\t(560,640,\y120)\t(640,720,\y100)}go {\r\t(720,1005,\y120)\t(1005,1290,\y100)}on~)
+Dialogue: 2,0:22:25.81,0:22:28.48,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,180,\y120)\t(180,360,\y100)}My {\r\t(360,515,\y120)\t(515,670,\y100)}pal's {\r\t(670,760,\y120)\t(760,850,\y100)}re{\r\t(850,1000,\y120)\t(1000,1150,\y100)}wired, {\3c&H000000&\3a&H00&\r\t(1150,1400,\y120)\t(1400,1650,\y100)}oh-{\r\t(1650,1815,\y120)\t(1815,1980,\y100)}ho {\r\t(1980,2330,\y120)\t(2330,2680,\y100)}yes!
+Dialogue: 2,0:22:27.61,0:22:28.98,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200)\pos(1860,970)\r\t(0,235,\y120)\t(235,470,\y100)}(Snick{\r\t(470,540,\y120)\t(540,610,\y100)}er, {\r\t(610,700,\y120)\t(700,790,\y100)}snick{\r\t(790,1080,\y120)\t(1080,1370,\y100)}er!)
+Dialogue: 2,0:22:28.48,0:22:31.23,ED2,,0,0,0,,{\1c&H000000&\1a&H00&\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,295,\y120)\t(295,590,\y100)}Let's {\r\t(590,755,\y120)\t(755,920,\y100)}par{\r\t(920,1020,\y120)\t(1020,1120,\y100)}ty {\r\t(1120,1245,\y120)\t(1245,1370,\y100)}woo-{\3c&H000000&\3a&H00&\r\t(1370,1660,\y120)\t(1660,1950,\y100)}hoo, {\r\t(1950,2105,\y120)\t(2105,2260,\y100)}yay, {\r\t(2260,2380,\y120)\t(2380,2500,\y100)}yay,{\r\t(2500,2620,\y120)\t(2620,2740,\y100)} yay!
+Dialogue: 2,0:22:31.23,0:22:33.82,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,140,\y120)\t(140,280,\y100)}(Ain't {\r\t(280,375,\y120)\t(375,470,\y100)}that {\r\t(470,595,\y120)\t(595,720,\y100)}a {\r\t(720,825,\y120)\t(825,930,\y100)}black {\3c&H000000&\3a&H00&\r\t(930,1035,\y120)\t(1035,1140,\y100)}sheep {\r\t(1140,1260,\y120)\t(1260,1380,\y100)}with{\r\t(1380,1490,\y120)\t(1490,1600,\y100)}in {\r\t(1600,1685,\y120)\t(1685,1770,\y100)}the {\3c&H000000&\3a&H00&\r\t(1770,1925,\y120)\t(1925,2080,\y100)}girls' {\r\t(2080,2200,\y120)\t(2200,2320,\y100)}gar{\r\t(2320,2455,\y120)\t(2455,2590,\y100)}den!?)
+Dialogue: 2,0:22:33.82,0:22:36.62,ED2,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,80,\y120)\t(80,160,\y100)}Ad{\r\t(160,290,\y120)\t(290,420,\y100)}ven{\r\t(420,610,\y120)\t(610,800,\y100)}ture {\r\t(800,890,\y120)\t(890,980,\y100)}and {\3c&H000000&\3a&H00&\r\t(980,1145,\y120)\t(1145,1310,\y100)}yu{\r\t(1310,1395,\y120)\t(1395,1480,\y100)}ri {\r\t(1480,1550,\y120)\t(1550,1620,\y100)}yu{\r\t(1620,1680,\y120)\t(1680,1740,\y100)}ri {\3c&H000000&\3a&H00&\r\t(1740,1850,\y120)\t(1850,1960,\y100)}bloom{\r\t(1960,2035,\y120)\t(2035,2110,\y100)}in' {\r\t(2110,2190,\y120)\t(2190,2270,\y100)}all {\r\t(2270,2535,\y120)\t(2535,2800,\y100)}night!
+Dialogue: 2,0:22:36.62,0:22:38.49,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,1050)\r\t(0,125,\y120)\t(125,250,\y100)}(E{\r\t(250,375,\y120)\t(375,500,\y100)}mo{\r\t(500,630,\y120)\t(630,760,\y100)}tions {\r\t(760,945,\y120)\t(945,1130,\y100)}all {\3c&H000000&\3a&H00&\r\t(1130,1270,\y120)\t(1270,1410,\y100)}mixed {\r\t(1410,1530,\y120)\t(1530,1650,\y100)}up!)
+Dialogue: 2,0:22:38.49,0:22:41.20,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,120,\y120)\t(120,240,\y100)}O-{\r\t(240,315,\y120)\t(315,390,\y100)}K, {\r\t(390,520,\y120)\t(520,650,\y100)}1•{\r\t(650,845,\y120)\t(845,1040,\y100)}2•{\3c&H000000&\3a&H00&\r\t(1040,1210,\y120)\t(1210,1380,\y100)}3's {\r\t(1380,1530,\y120)\t(1530,1680,\y100)}our {\r\t(1680,2020,\y120)\t(2020,2360,\y100)}cue, {\r\t(2360,2495,\y120)\t(2495,2730,\y100)}hey~
+Dialogue: 1,0:22:41.20,0:22:44.04,ED,,0,0,0,,{\1c&H000000&\1a&H00&\3c&H000000&\3a&H00&\an1\r\t(0,155,\y120)\t(155,310,\y100)}We've {\r\t(310,465,\y120)\t(465,620,\y100)}passed {\r\t(620,790,\y120)\t(790,960,\y100)}the {\r\t(960,1120,\y120)\t(1120,1280,\y100)}♂gen{\3c&H000000&\3a&H00&\r\t(1280,1440,\y120)\t(1440,1600,\y100)}der♀ {\r\t(1600,1855,\y120)\t(1855,2110,\y100)}bor{\r\t(2110,2190,\y120)\t(2190,2270,\y100)}der{\r\t(2270,2380,\y120)\t(2380,2690,\y100)}line!
+Dialogue: 2,0:22:44.04,0:22:46.38,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,180,\y120)\t(180,360,\y100)}Ba-{\r\t(360,560,\y120)\t(560,760,\y100)}dump {\r\t(760,905,\y120)\t(905,1050,\y100)}ba-{\r\t(1050,1170,\y120)\t(1170,1290,\y100)}dump, {\3c&H000000&\3a&H00&\r\t(1290,1585,\y120)\t(1585,1880,\y100)}to {\r\t(1880,1960,\y120)\t(1960,2040,\y100)}the {\r\t(2040,2190,\y120)\t(2190,2340,\y100)}you
+Dialogue: 2,0:22:46.38,0:22:49.09,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,105,\y120)\t(105,210,\y100)}ven{\r\t(210,280,\y120)\t(280,350,\y100)}tur{\r\t(350,615,\y120)\t(615,880,\y100)}ing {\r\t(880,1185,\y120)\t(1185,1490,\y100)}to {\3c&H000000&\3a&H00&\r\t(1490,1580,\y120)\t(1580,1670,\y100)}a {\r\t(1670,1995,\y120)\t(1995,2320,\y100)}new {\r\t(2320,2515,\y120)\t(2515,2710,\y100)}world:
+Dialogue: 2,0:22:49.09,0:22:51.97,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(0,1100)\r\t(0,385,\y120)\t(385,770,\y100)}Here {\r\t(770,855,\t(770,905,\y120)\t(905,1040,\y100)}we {\r\t(940,1255,\y120)\t(1255,2570,\y100)}goooo!
+Dialogue: 2,0:22:49.16,0:22:50.09,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(One!)
+Dialogue: 2,0:22:50.42,0:22:51.25,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(Two!)
+Dialogue: 2,0:22:51.92,0:22:52.51,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\pos(60,970),\fad(200,200)}(Three!)
+Dialogue: 2,0:22:52.17,0:22:53.51,ED,,0,0,0,,{\3c&H000000&\3a&H00&\an1\r\t(0,205,\y120)\t(205,410,\y100)}(Go {\r\t(410,530,\y120)\t(530,650,\y100)}Be{\r\t(650,775,\y120)\t(775,900,\y100)}yond {\r\t(900,1090,\y120)\t(1090,1280,\y100)}World!)
+Dialogue: 0,0:22:53.45,0:22:55.34,ED Extra,,0,0,0,,{\fad(200,700)}(Woooo!)
+Dialogue: 0,0:22:55.34,0:22:56.09,ED Extra,,0,0,0,,{\fad(200,200)}(W-woo!)
+Dialogue: 0,0:22:56.64,0:22:57.39,ED Extra,,0,0,0,,{\fad(200,200)}(W-woo!)
+Dialogue: 0,0:22:58.35,0:22:59.97,ED,,0,0,20,,{\3c&H000000&\3a&H00&\pos(1860,90),\fad(200,200)\r\t(0,495,\y120)\t(495,990,\y100)}(Wooooo, {\r\t(990,1090,\y120)\t(1090,1190,\y100)}yeah {\r\t(1190,1405,\y120)\t(1405,1620,\y100)}yeah!)
+Dialogue: 2,0:22:53.92,0:22:57.05,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,175,\y120)\t(175,350,\y100)}W-{\r\t(350,440,\y120)\t(440,530,\y100)}w-{\r\t(530,610,\y120)\t(610,690,\y100)}w-{\r\t(690,870,\y120)\t(870,1050,\y100)}well, {\3c&H000000&\3a&H00&\r\t(1050,1210,\y120)\t(1210,1370,\y100)}what{\r\t(1370,1605,\y120)\t(1605,1840,\y100)}ever! {\r\t(1840,2080,\y120)\t(2080,2320,\y100)}That's {\r\t(2320,2500,\y120)\t(2500,2680,\y100)}just {\3c&H000000&\3a&H00&\r\t(2680,2905,\y120)\t(2905,3130,\y100)}fine!
+Dialogue: 2,0:22:57.05,0:22:59.66,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,265,\y120)\t(265,530,\y100)}You {\r\t(530,865,\y120)\t(865,1200,\y100)}win! {\r\t(1200,1510,\y120)\t(1510,1820,\y100)}I {\r\t(1820,1995,\y120)\t(1995,2170,\y100)}give {\3c&H000000&\3a&H00&\r\t(2170,2390,\y120)\t(2390,2610,\y100)}up!
+Dialogue: 2,0:22:59.66,0:23:02.00,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,170,\y120)\t(170,340,\y100)}A {\r\t(340,505,\y120)\t(505,670,\y100)}girl's {\r\t(670,840,\y120)\t(840,1010,\y100)}it{\r\t(1010,1100,\y120)\t(1100,1190,\y100)}ty {\3c&H000000&\3a&H00&\r\t(1190,1260,\y120)\t(1260,1330,\y100)}bo{\r\t(1330,1420,\y120)\t(1420,1510,\y100)}dy {\r\t(1510,1590,\y120)\t(1590,1670,\y100)}holds {\r\t(1670,1760,\y120)\t(1760,1850,\y100)}oh {\3c&H000000&\3a&H00&\r\t(1850,1935,\y120)\t(1935,2020,\y100)}so {\r\t(2020,2180,\y120)\t(2180,2340,\y100)}many
+Dialogue: 0,0:23:02.60,0:23:04.89,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,90),\fad(200,600)\r\t(0,435,\y120)\t(435,870,\y100)}(Yeah! {\r\t(870,1000,\y120)\t(1000,1130,\y100)}Yeah! {\r\t(1130,1710,\y120)\t(1710,2290,\y100)}Wooo!)
+Dialogue: 2,0:23:02.00,0:23:04.89,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,240,\y120)\t(240,480,\y100)}BIG {\r\t(480,765,\y120)\t(765,1050,\y100)}ol' {\r\t(1050,1255,\y120)\t(1255,1460,\y100)}se{\r\t(1460,1610,\y120)\t(1610,1760,\y100)}crets {\3c&H000000&\3a&H00&\r\t(1760,2015,\y120)\t(2015,2270,\y100)}yes {\r\t(2270,2375,\y120)\t(2375,2480,\y100)}in{\r\t(2480,2685,\y120)\t(2685,2890,\y100)}deed!
+Dialogue: 0,0:23:05.85,0:23:06.52,ED Extra,,0,0,0,,({\fad(200,200)}W-woo!)
+Dialogue: 0,0:23:07.23,0:23:07.81,ED Extra,,0,0,0,,({\fad(200,200)}W-woo!)
+Dialogue: 0,0:23:09.02,0:23:10.52,ED,,0,0,0,,{\3c&H000000&\3a&H00&\fad(200,200),\pos(550,120)\r\t(0,340,\y120)\t(340,680,\y100)}(Woooooo, {\r\t(680,820,\y120)\t(820,960,\y100)}yeah {\r\t(960,1230,\y120)\t(1230,1500,\y100)}yeah!)
+Dialogue: 2,0:23:04.89,0:23:07.57,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,255,\y120)\t(255,510,\y100)}All {\r\t(510,695,\y120)\t(695,880,\y100)}one's {\r\t(880,1090,\y120)\t(1090,1300,\y100)}might! {\r\t(1300,1580,\y120)\t(1580,1860,\y100)}Here's {\3c&H000000&\3a&H00&\r\t(1860,2025,\y120)\t(2025,2190,\y100)}some {\r\t(2190,2435,\y120)\t(2435,2680,\y100)}fight!
+Dialogue: 2,0:23:07.57,0:23:10.36,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,215,\y120)\t(215,430,\y100)}Why, {\r\t(430,620,\y120)\t(620,810,\y100)}we {\r\t(810,970,\y120)\t(970,1130,\y100)}may {\r\t(1130,1220,\y120)\t(1220,1310,\y100)}have {\3c&H000000&\3a&H00&\r\t(1310,1560,\y120)\t(1560,1810,\y100)}quuuite {\r\t(1810,1975,\y120)\t(1975,2140,\y100)}the {\r\t(2140,2365,\y120)\t(2365,2790,\y100)}slight?
+Dialogue: 2,0:23:10.36,0:23:17.20,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,245,\y120)\t(245,490,\y100)}They {\r\t(490,645,\y120)\t(645,800,\y100)}say {\r\t(800,1055,\y120)\t(1055,1310,\y100)}girl {\r\t(1310,1400,\y120)\t(1400,1490,\y100)}po{\3c&H000000&\3a&H00&\r\t(1490,1645,\y120)\t(1645,1800,\y100)}wer, {\r\t(1800,1975,\y120)\t(1975,2150,\y100)}hey, {\r\t(2150,2385,\y120)\t(2385,2620,\y100)}is {\r\t(2620,2780,\y120)\t(2780,2940,\y100)}what {\3c&H000000&\3a&H00&\r\t(2940,3110,\y120)\t(3110,3280,\y100)}makes {\r\t(3280,3425,\y120)\t(3425,3570,\y100)}the {\r\t(3570,4045,\y120)\t(4045,4520,\y100)}world {\r\t(4520,4885,\y120)\t(4885,5250,\y100)}go {\3c&H000000&\3a&H00&\r\t(5250,6045,\y120)\t(6045,6840,\y100)}'rooound!
+Dialogue: 0,0:23:13.32,0:23:15.32,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(630,120),\fad(200,200)\r\t(0,305,\y120)\t(305,610,\y100)}(Yeah! {\r\t(610,785,\y120)\t(785,960,\y100)}Yeah! {\r\t(960,1480,\y120)\t(1480,2000,\y100)}Yaaaaaay!)
+Dialogue: 0,0:23:15.57,0:23:18.20,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(1860,115)\fad(200,200)\r\t(0,440,\y120)\t(440,880,\y100)}(Nananana, {\r\t(880,1195,\y120)\t(1195,1510,\y100)}nanana, {\r\t(1510,2070,\y120)\t(2070,2630,\y100)}nanana~)
+Dialogue: 0,0:23:19.83,0:23:20.83,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(460,100),\fad(200,200)\r\t(0,150,\y120)\t(150,300,\y100)}(Yeah {\r\t(300,460,\y120)\t(460,620,\y100)}yeah {\r\t(620,810,\y120)\t(810,1000,\y100)}yeah!)
+Dialogue: 0,0:23:20.83,0:23:23.12,ED,,0,0,0,,{\3c&H000000&\3a&H00&\pos(770,100),\fad(200,200)\r\t(0,420,\y120)\t(420,840,\y100)}(Nananana, {\r\t(840,1175,\y120)\t(1175,1510,\y100)}nanana, {\r\t(1510,1675,\y120)\t(1675,1840,\y100)}nanana~)
+Dialogue: 2,0:23:22.67,0:23:25.54,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,235,\y120)\t(235,470,\y100)}To {\r\t(470,555,\y120)\t(555,640,\y100)}my {\r\t(640,720,\y120)\t(720,800,\y100)}nigh {\r\t(800,970,\y120)\t(970,1140,\y100)}Iden{\3c&H000000&\3a&H00&\r\t(1140,1300,\y120)\t(1300,1460,\y100)}ti{\r\t(1460,1700,\y120)\t(1700,1940,\y100)}ty {\r\t(1940,2200,\y120)\t(2200,2460,\y100)}Cry-{\r\t(2460,2665,\y120)\t(2665,2870,\y100)}sis:{\(Oof!)}
+Dialogue: 2,0:23:25.54,0:23:27.36,ED,,0,0,0,,{\3c&H000000&\3a&H00&\r\t(0,110,\y120)\t(110,220,\y100)}I'll {\r\t(220,315,\y120)\t(315,410,\y100)}see {\r\t(410,570,\y120)\t(570,730,\y100)}you {\r\t(730,810,\y120)\t(810,890,\y100)}again, {\3c&H000000&\3a&H00&\r\t(890,1050,\y120)\t(1050,1210,\y100)}some {\r\t(1210,1355,\y120)\t(1355,1820,\y100)}day!
