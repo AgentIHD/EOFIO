@@ -22,7 +22,7 @@ jobs:
         run: |
           case "${trig_actor}" in
             "${repo_ownr}"|github-actions*) : ;;
-            *) printf '%s\n'"Runner prevented to run because the script is executed by an untrusted user \"${trig_actor}\". (Only owner can execute, for security)"  ; exit 1 ;;
+            *) printf '%s\n'"Runner prevented to run because the script is executed by an untrusted user \"${trig_actor}\". (Only owner can execute, for security)" >&2 ; exit 1 ;;
           esac
 
       - name: execute
