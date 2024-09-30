@@ -35,13 +35,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: "innitialize package"
+        run: |
+          sudo apt update -y
+          sudo apt upgrade -y
+          sudo apt install imagemagick -y
 
       - name: "execute"
         run: bash img_process.sh "in_progress"
 
       - name: "commit banner"
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "stat: Processing..."
           repository: .
